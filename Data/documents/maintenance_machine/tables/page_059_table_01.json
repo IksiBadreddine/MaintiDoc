@@ -1,0 +1,9 @@
+{
+  "type": "table",
+  "content": " |  | \n |  | \n |  | \nTOUSLESANSOUALADEMANDE | DATE | SIGNATUREDUTECHNICIEN\n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \n |  | \nAnalysedel'air |  | \n |  | \n |  | \nVidangedel'huile |  | \n |  | \n |  | \nVérificationduréglagedupanneaudecontrôleetde |  | \n |  | \nsoupapedesécurité |  | \n |  | \n |  | \n |  | \nAPRESTOUTEREPARATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \nContrôledesrobinetsdegonflage |  | \n |  | \n |  | \nNettoyagedufiltreàair |  | \n |  | \n |  | \nContrôledestuyauxetduserragedesrefroidisseurs |  | \n |  | \n |  | \nAPRESUNELONGUEPERIODED'INACTIVITE | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \nContrôledesrobinetsdegonflage |  | \n |  | \n |  | \nNettoyagedufiltreàair |  | \n |  | \n |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | ",
+  "metadata": {
+    "source": "maintenance_machine.pdf",
+    "page": 59,
+    "table_number": 1
+  }
+}

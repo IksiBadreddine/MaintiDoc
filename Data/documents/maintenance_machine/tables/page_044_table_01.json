@@ -1,0 +1,9 @@
+{
+  "type": "table",
+  "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT140-005 | Corpsderobinetdevidange | OR017-010 | Jointtorique | PA110-102 | soupapedesécuritéPN200bar\nAT140-100 | Robinetdevidangecomplet | OR053-006 | Jointtorique | PA110-103 | soupapedesécuritéPN300bar\nAT141-001 | Clapetrilsan | PA002-720 | Corpsdefiltreséparateur | VB004-021 | Boulon\nAT142-001 | Volantderobinet | PA002-721 | Filtreenbronze | VB006-051 | Boulon\nHR101-004 | Ogive | PA002-722 | Couvercle | VB008-012 | Boulon\nHR102-014 | Ecrouderaccord | PA002-723 | Couvercle | VR004-010 | Rondelle\nHR120-007 | Raccord“L”3/8\"G pourtube12mm | PA002-724 | Cartouchecomplètedefiltreséparateur | VR008-006 | Rondelle\nHR120-114 | Raccord“L”1/4\"Gpourtube6mm | PA002-725 | Têtedefiltreséparateur |  | \nHR125-141 | Corpsderaccord“T”1/4\"Gpourtube6mm | PA002-726 | Supportdefiltreséparateur |  | \nHR701-012 | IRN oO nXdellejoint | PA002-727 | Tubedeséparateur |  | ",
+  "metadata": {
+    "source": "maintenance_machine.pdf",
+    "page": 44,
+    "table_number": 1
+  }
+}

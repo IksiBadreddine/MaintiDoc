@@ -1,0 +1,9 @@
+{
+  "type": "table",
+  "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nOR007-005 | Jointtorique | PA112-012 | Siège INT-CGA | PA112-032 | Ecrou\nOR010-005 | Jointtorique | PA112-015 | Corsderobinet | PA112-033 | Volantderobinetnoir200bars\nOR011-015 | Jointtorique | PA112-022 | Guidecylindrique | PA112-035 | Filtre\nPA112-002 | Robinetderemplissage200BAR | PA112-023 | Pistonvalveinsert | PA112-109 | Adaptateur étrier INT-CGA\nPA112-005 | Robinetderemplissag200BARflowstop | PA112-024 | Tigetournevis | PA112-901 | Kitd'entretienderobinet\nPA112-007 | VolantDIN200noir | PA112-025 | Ecrou | VV005-015 | Sphère\nPA112-009 | GuidedevolantDIN200 | PA112-026 | Rondelle |  | \nPA112-011 | Etrier INT-CGA | PA112-031 | Ressort |  | ",
+  "metadata": {
+    "source": "maintenance_machine.pdf",
+    "page": 51,
+    "table_number": 1
+  }
+}

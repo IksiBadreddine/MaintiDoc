@@ -5,7 +5,16 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "chromadb>=1.5.9",
     "llama-index>=0.14.25",
+    "llama-index-core>=0.14.25",
+    "llama-index-embeddings-huggingface>=0.8.0",
     "llama-index-readers-file>=0.7.0",
+    "llama-index-vector-stores-chroma>=0.6.0",
+    "pandas>=2.3.3",
+    "pillow>=13.0.0",
+    "pymupdf>=2.0",
     "pypdf>=6.21.2",
+    "sentence-transformers>=6.2.0",
+    "transformers>=5.20.2",
 ]

@@ -1,0 +1,9 @@
+{
+  "type": "table",
+  "content": "CODE | DESCRIPTION | CODE |  | DESCRIPTION | CODE | DESCRIPTION\nAC006-105 | Robinetdevidange |  | PA001-105 | Bouchonavecaimant | PA003-005 | Tubedepompeàhuile\nAC008-006 | Ogivepourtube12mm |  | PA001-110 | Fenêtredeniveaud'huile | PA003-010 | Tubedepompeàhuile\nAC008-007 | Ecroupourtube12mm |  | PA001-125 | Supportderefroidisseur | VB004-020 | Boulon\nAC014-010 | Bouchon |  | PA001-126 | Supportderefroidisseur | VB004-040 | Boulon\nHR117-014 | RaccordG1/4”pourtube6mm |  | PA001-135 | Pompeàhuile | VB006-013 | Boulon\nHR120-004 | Raccord“L”G1/4”pourtube6mm |  | PA001-140 | Chambredefiltreàhuile | VB006-046 | Boulon\nHR176-002 | BouchonG1/4” |  | PA001-145 | filtreàhuile | VB010-010 | Boulon\nHR701-013 | Rondellejoint |  | PA001-150 | Bouchondechambredefiltreàhuile | VD004-010 | Ecrou\nOR022-010 | Jointtorique |  | PA001-155 | Clapetantiretourdepompeàhuile | VD010-015 | Ecrou\nOR034-005 | Jointtorique |  | PA001-200 | Raccordderemplissagehuile | VR010-005 | Rondelle\nPA001-085 | Supportdecompresseur |  | PA001-201 | bouchon |  | \nPA001-095 | Supportderefroidisseur |  | PA001-208 | Séparateurd'huile |  | \nPA001-096 | Supportderefroidisseur |  | PA001-205 | Tube |  | ",
+  "metadata": {
+    "source": "maintenance_machine.pdf",
+    "page": 34,
+    "table_number": 1
+  }
+}

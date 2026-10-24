@@ -1,0 +1,9 @@
+{
+  "type": "table",
+  "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT140-001 | Corpsderobinetdevidange | OR011-004 | Jointtorique | PA100-213 | blocfiltre\nAT140-100 | Robinetdevidangecomplet | OR025-005 | Jointtorique | PA100-114 | Têtedeblocfiltre\nAT141-001 | Clapetrilsan | OR066-010 | Jointtorique | PA100-115 | tube\nAT142-001 | Volantderobinet | OR068-005 | Jointtorique | PA100-117 | Basedefiltre\nAT142-002 | Tube | PA100-050 | Insertdeclapet | PA100-123 | Extensiondefiltre\nHR101-004 | Ogive | PA100-051 | Pistondeclapet | PA100-149 | Clapetantiretour\nHR102-014 | Ecrouderaccord | PA100-052 | Guidederessort | PA114-047 | ConnexionINOX\nHR176-002 | Bouchon1/4’’ | PA100-053 | bouchon | PA115-116 | Ressortdeclapetantiretour\nHR701-012 | Rondelle | PA100-054 | Ecrou | PA115-119 | Pistondeclapetantiretour\nOR002-005 | Jointtorique | PA100-060 | Clapetdemaintientcomplet | VB008-012 | Boulon\nOR003-005 | Jointtorique | PA100-201 | Cartouchedefiltrationpourélectrique | VB008-070 | Boulon\nOR009-005 | Jointtorique | PA100-202 | Cartouchedefiltrationpouressence | VR006-015 | Rondellederessort\nOR009-010 | Jointtorique | PA100-110 | Supportdefiltre | VV005-015 | Sphere",
+  "metadata": {
+    "source": "maintenance_machine.pdf",
+    "page": 48,
+    "table_number": 1
+  }
+}

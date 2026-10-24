@@ -1,0 +1,9 @@
+{
+  "type": "table",
+  "content": "CODE | DESCRIPTION |  | CODE | DESCRIPTION |  | CODE | DESCRIPTION | \nPA001-005 | vilebrequin |  | PA001-025 | Roulement |  | VD008-010 | Ecrou | \nPA001-010 | Contrepoids |  | PA001-030 | Roulement |  | VR030-005 | Rondelle | \nPA001-015 | Bielleavecaxedebarbotage |  | PA001-035 | Roulement |  | VV025-005 | Circlip | \nPA001-020 | Bielle |  | VB008-030 | boulon |  | VV030-005 | circlip | ",
+  "metadata": {
+    "source": "maintenance_machine.pdf",
+    "page": 31,
+    "table_number": 1
+  }
+}

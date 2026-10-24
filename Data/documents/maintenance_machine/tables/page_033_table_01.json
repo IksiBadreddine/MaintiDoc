@@ -1,0 +1,9 @@
+{
+  "type": "table",
+  "content": "CODE | DESCRIPTION |  | CODE | DESCRIPTION |  | CODE | DESCRIPTION | \nOR304-005 | Jointtorique |  | PA001-065 | Jointspi |  | VB008-035 | Boulon | \nPA001-045 | Vilebrequincompletavecbielles |  | PA001-081 | Poulie |  | VD016-015 | Ecrou | \nPA001-050 | Carter |  | PA001-082 | Ventilateur |  | VR016-020 | Rondelle | \nPA001-055 | Couvercledecarter |  | VB006-006 | Boulon |  | VV006-010 | Axe | \nPA001-060 | Jointspi |  | VB006-031 | Boulon |  | VV065-005 | Clips | ",
+  "metadata": {
+    "source": "maintenance_machine.pdf",
+    "page": 33,
+    "table_number": 1
+  }
+}

@@ -1,0 +1,1779 @@
+[
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n1 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \nPACIFIC E/P/PG/D/M \nCOMPRESSEUR DE PLONGEE \nHAUTE PRESSION  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nManuel d'utilisation et d'entretien",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 1
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n2 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nCe manuel d'utilisation et d'entretien contient des informations générales et des \ninstructions précises pour l'utilisation et l'entretien des compresseurs de plongée \nPACIFIC . Tous les utilisateurs doivent lire avec attention ce manuel et parfaitement \ncomprendre les instructions avant d'utiliser le compresseur. \n  \n  \nATTENTION,  L'utilisation de ce compresseur ne peut se faire qu 'après avoir lu et \ncompris entièrement tous les paragraphes de ce manuel.",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 2
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n3 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n                            INDEX                                                     \n \n \n1  INFORMATION DE BASE                                          page 05  \n  \n1.01 Explication des icônes                                       page 05  \n1.02 Précautions                   page 05  \n1.03 Brève Introduction                  page 05  \n1.04 Description du bloc compresseur                               page 06  \n1.05 Description du PACIFIC (Air respirable)             page 07  \n1.06 Données techniques PACIFIC                              page 08  \n \n2 REGLES DE SECURITE POUR L'UTILISATION                     page 09  \n  \n2.01 Identification des règles de sécurité pour les  utilisateurs                                                    page 09  \n2.02 Règles de sécurité pour les utilisateurs et la  bonne utilisation du compresseur                    page 09  \n2.03 Règles essentielles concernant la sécurité                                         page 09  \n2.04 Règles générales concernant la sécurité                                               page 10  \n  \n3 GARANTIE ET ASSISTANCE                                     page 10  \n  \n3.01 Garantie du compresseur                                      page 10  \n3.02 Entretien et Assistance                                           page 10 \n  \n4 INSTALLATION                       page 11  \n  \n4.01 Déballage et prise en main              page 1 1  \n4.02 Installation à l'air libre                                      page 11  \n4.03 Installation dans une pièce fermée et caractér istiques requises pour la pièce                     page 11  \n4.04 Pièce avec ventilation artificielle                                 page 12  \n4.05 Conduit d'arrivée d'air                                  page 12  \n4.06 Alimentation électrique                        page 12  \n \n5 GUIDE DE DEMARRAGE RAPIDE                    page  13  \n  \n  \n6 OPERATION ET UTILISATION                               page 14 \n \n6.01 Préparation  au démarrage du compresseur                     page 14  \n6.02 Démarrage du compresseur             page 14  \n6.03 Utilisation des vannes des flexibles de gonfla ge                              page 14",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 3
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n4 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n7 ENTRETIEN ET REPARATION                     page 15 \n  \n7.01 Opérations d'entretien                                     page 15  \n7.02 Système de lubrification                                    page 15  \n7.03 Huile               page 15  \n7.04 Vidange de l'huile                                       page 16  \n7.05 Changement de Type d'huile            page 16  \n7.06 Remplacement du filtre à huile                                         page 16  \n7.07 Alarme de niveau d'huile                                              page 17  \n7.08 Remplacement du filtre à air            page 1 7  \n7.09 Entretien des séparateurs intermédiaires                                      page 17  \n7.10 Cartouche de filtration pour l'air respirable                                    page 18  \n7.11 Cartouche de filtration à charbon actif                                                       pag e 18  \n7.12 Tableau de la durée de vie des différentes car touches pour P27 – PAC FILTER 1, 2 et 3                    page 19  \n7.13 Soupape de maintien de pression                                      page 20  \n7.14 Culasses et clapets                                                               page 20  \n7.15 Nettoyage du clapet  1° étage                                                                          page 20  \n7.16 Remplacement du clapet 2° étage (compresseur à  4 étages)                                   page 2 1  \n7.17 Remplacement du clapet 2° étage (compresseur à  3 étages) ou 3° étage (compresseur à 4 étages) page 21  \n7.18 Remplacement du clapet  du dernier étage                                                       pa ge 22  \n7.19 Soupapes de sécurité                                       page 22  \n7.20 Flexibles de gonflage                                                                      page 2 2  \n7.21 Purge automatique des condensats           pag e 23  \n7.22 Système d'arrêt automatique                                  page 23  \n7.23 Description et utilisation du panneau de contr ôle électronique.                         page 24  \n7.24 Alarmes et actions                            page 29 \n7.25 Dispositions spéciales pour l'élimination des déchets                             page 29  \n7.26 Dysfonctionnement             page 30  \n8 PIECES DETACHEES                       page 31  \nVues éclatés du vilebrequin et des bielles                                    page 31  \nVues éclatés du carter et ventilateur                                       page 32  \nVues éclatés du carter et ventilateur série \"M\"                                     page 33  \nVues éclatés carter avec ses accessoires                                          page 34  \nVues éclatés du 1° étage P16                                                page 35  \nVues éclatés du 1° étage P23/27/32                                               page 36  \nVues éclatés du 1° étage P35                                                page 37  \nVues éclatés du 2° étage   P16/23/27                                      page 38  \nVues éclatés du 2° étage   P32                                            page 39  \nVues éclatés du 3° étage   P35                                           page 40  \nVues éclatés du dernier étage P16/23/27/35                                     page 41  \nVues éclatés du dernier étage P32                                                    page 42  \nVues éclatés du filtre séparateur                                         page 43  \nVues éclatés du filtre séparateur                                          page 44  \nVues éclatés du système de refroidissement P16/23/27/30                                                    page 45 \nVues éclatés du système de refroidissement P35                                                 page 46  \nVues éclatés bloc filtre PAC FILTER 1                                                       page 47  \nVues éclatés bloc filtre PAC FILTER 2                                                                 page 48 \nVues éclatés bloc filtre PAC FILTER 3                                                                 page 49 \nVues éclatés du robinet de gonflage 300 Bar                                       page 50  \nVues éclatés du robinet de gonflage 200 Bar                                      page 51  \nVues éclatés du système de purge automatique                                             page 52  \n9 CARNET D'ENTRETIEN                     page 53",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 4
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n5 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n1                                       INFORMATIONS DE BASE  \n \n1.01 EXPLICATION DES ICONES DE DANGER:  \n  \nCe manuel contient des messages spéciaux destinés à attirer votre attention sur des informations importantes au regard de la \nsécurité et de la bonne utilisation du compresseur. Des icones sont placées dans les paragraphes que l'utilisateur doit \nparfaitement connaître. Assurez-vous d'avoir lu et parfaitement compris ces mises en garde pour prévenir les danger pour vous \net pour le compresseur.  \n                         \n \n1.02 PRECAUTIONS:  \n \nCe compresseur a été fabriqué conformément avec la directive machine  2006/42/EC, en accord avec la lo i sur la \nsécurité générale des produits du 01/05/2004, conce rnant le niveau sonore en accord avec la directive machine, \nannexe 1, section 1.7.4 et suivantes. Ce compresseu r est construit dans les règles de l'art en accord avec les aspects \ntechniques et opérationnels permettant une utilisation sure. \nNardi COMPRESSORI déclare également que le compress eur a été soumis à des tests de conformité concerna nt la \npression attestant que le produit est conforme à la directive des équipements sous pression 2006/42/CE. \n \nAvant d'utiliser le compresseur, nous vous recommandons de lire attentivement les indications suivantes:  \n1. Lisez attentivement le manuel pour le bon fonctionnement du compresseur. \n2. Ne pas permettre à l'air qui sort du compresseur d'être dirigé vers des personnes ou des animaux. \n3. Ne pas faire fonctionner le compresseur dans des endroits  humides et / ou des endroits  sans une bonne ventilation de l'air. \n4. Assurez-vous que le compresseur est placé dans une position stable. \n5. La pression maximale du compresseur est clairement indiqué sur le compresseur lui-même. \n6. Lors de l'utilisation du lieu de compresseur, il doit être dans un endroit frais, bien aéré et à l'écart des sources de chaleur. \n7. Le compresseur peut atteindre des températures élevées durant le fonctionnement. \n8. Ne pas laisser les enfants manipuler le compresseur, même quand il est éteint. \n9. Ne pas utiliser le compresseur pour aspirer / co mprimer des gaz autres que l'air ambiant ou de l'ai r avec une teneur en \noxygène supérieure à 21% . \n10. En cas d'entrainement par un moteur thermique ,  essence ou diesel, ne pas faire fonctionner la com presseur dans un \nendroit clos. Assurez-vous que les gaz d'échappement ne soient pas aspirés par le compresseur.  \n  \n1.03  BREVE INTRODUCTION:  \n \nLe PACIFIC  est un compresseur haute pression utilisé pour com primer de l'air respirable utilisé en plongée sous-m arine, lutter \ncontre les incendies et les applications militaires , entre autres. La pression maximale de compression  peut monter jusqu'à 420 \nbars mais la pression de service peut être de 225 bar ou 330 bars. \nPièces principales du compresseur: \n• Groupe de compression \n• Moteur électrique \n• Série de séparateurs et filtres \n• Tuyaux et raccords de remplissage des bouteilles \n• Système de protection et anti-vibration \n• Evacuation automatique des condensats * \n• Système de contrôle électronique * \n• Démarrage et arrêt automatiques. * \n(*) Ces fonctions peuvent être optionnelles en fonction du modèle de compresseur choisi.  \n \n \n1.04  DESCRIPTION DU GROUPE DE COMPRESSION:",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 5
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n6 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n Le bloc compresseur a une plage d'utilisation jusq u'à 330 bars en pression de service. Le compresseur  comporte 3 ou \n4 étages de compression (suivant les versions) équipés chacun de piston. Le bloc compresseur possède p lusieurs séparateurs \nintermédiaires qui sont placés entre les serpentins  de refroidissement (refroidisseur intermédiaire) d es différents étages. Le \nvolant d'inertie du compresseur ne nécessite pas d' équilibrage, car il est fait de matériaux en alliag e ultralégers tandis que le \ncompresseur possède un vilebrequin avec des contrep oids qui éliminent les vibrations dues à son foncti onnement. Le \nmouvement des pistons est transmit par des bielles utilisant des roulements à rouleaux. Les roulements  à rouleaux ont une \npossibilité de charge de travail élevée permettant une grande robustesse au compresseur. Les cylindres  sont réalisés en \naluminium chemisés fonte. Ce système permet une exc ellente robustesse et une meilleure résistance à la  corrosion. Le \nrefroidissement est optimisé grâce aux ailettes sit uées sur les cylindres. Le compresseur a une grande  capacité de stockage \nd'huile de carter d'huile (3,5 litres), une pompe à huile à engrenages pour une lubrification à alimentation forcée, un filtre à huile \net un aimant qui retient les particules de fer à l' intérieur du carter. De cette façon, l'huile rester a propre et renforcera la fiabilité \ndu compresseur. \nCOMPOSANTS DU BLOC COMPRESSEUR à 3 ETAGES:  \n1. Filtre à air sur le 1° étage \n2. Clapet de 1° étape \n3. Refroidisseur 1er étape \n4. Soupape de sécurité 1er étage \n5. Culasse 2° étape \n6. Refroidisseur 2° étape \n7. Séparateur intermédiaire 2° étape \n8. Soupape de sécurité 2° étape \n9. Culasse 3° étape \n10. Refroidisseur 3° étape \n11. Soupape de sécurité 3° étage  \net soupape de décharge \n12. Séparateur intermédiaire 3ème étape \n13. Pompe à huile à engrenages pour  \nlubrification à alimentation forcée \n14. Filtre à huile \n15. Bouchon de remplissage d'huile \n16. Bouchon de vidange du carter d'huile et robinet  \nCOMPOSANTS DU BLOC COMPRESSEUR à 4 ETAGES:  \n1. Filtre à air sur le 1° étage \n2. Clapet de 1° étape \n3. Soupape de sécurité 1° étage \n4. Refroidisseur  1er étage \n5. corps de clapet 2° étage \n6. Refroidisseur 2° étape \n7. Soupape de sécurité 2° étape \n8. Culasse 3° étape \n9. Refroidisseur 3° étape \n10. Séparateur intermédiaire 3° étage \n11. Soupape de sécurité 3° étage  \n12. Culasse 4° étage \n13. Séparateur intermédiaire 4° étage \n14. Soupape de sécurité 4° étage \n15. Bouchon de vidange du carter d'huile et robinet \n16. Pompe à huile pour lubrification sous pression \n17. Filtre à huile \n18. Refroidisseur 4° étage",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 6
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n7 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n1.05  DESCRIPTION DU PACIFIC :  \n  \nLa structure du PACIFIC   est très robuste, conçue pour éliminer  les vibrations. Les versions insonorisées permettent de réduire \nle bruit jusqu'à 60%  . Ceci est possible grâce à une isolation acoustique thermo interne qui garantit des niveaux de bruit \ninférieur à 70 dB (A). \nTous les éléments du châssis sont peints avec des revêtements époxy permettant une très bonne résistance à la corrosion afin \nde garantir une plus longue durée de vie du compresseur. \nLe système de filtration d'air est placé dans la partie avant du compresseur, afin de simplifier et d'accélérer le remplacement de \nla cartouche filtrante. Sur les versions insonorisées,  il est possible d'ajouter un second système de filtration (en option) qui peut \nêtre placé à côté de celui présent. \nA l'avant, on trouve le panneau de commande électrique et le manomètre de pression finale. Le compresseur est équipé \nd'origine de 2 flexibles de gonflage, mais jusqu'à quatre flexibles peuvent être utilisés simultanément (en option). \nLe robinet de purge des condensats est placé à l'avant ou sur le coté du compresseur (suivant les versions). \n \nCOMPOSANTS DU COMPRESSEUR:  \n \n1.  Panneau de contrôle électronique    \n2.  Manomètre de pression finale \n3.  Robinets de gonflage et flexibles \n4.  Système de filtration PAC FILTER 1 \n(PAC FILTER 2 et PAC FILTER 3 sont en option) \n5.  Robinet de purge manuelle",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 7
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n8 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n1.06  CARACTERISTIQUES TECHNIQUES PACIFIC :  \n \n \nTABLEAU DES CARACTERISTIQUES TECHNIQUES \nDescription PACIFIC 16 PACIFIC 23 PACIFIC 27  PACIFIC 30  PACIFIC 35  \nPression de service  200 ou 300 bars  \nDébit  \n160 L/mn –\n9,6 m3/h  \n230 L/mn –\n13,8 m3/h \n270 L/mn –\n16,2 m3/h \n300 L/mn – \n18 m3/h \n350 L/mn – \n21 m3/h \nSoupape de sécurité finale  225 bars ou 330 bars \nBloc compresseur  PACIFIC 16 PACIFIC 23 PACIFIC 27 PACIFIC 32 PACIFIC 35 \nNombre d'étages  3 4 \nNombre de bielles  3 \nPression du 1° étage  5 Bars  7,5 Bars  3 bars  \nPression du 2° étage  55 Bars  65 Bars  16 bars  \nPression du 3° étage  225 ou 330 bars  80 bars  \nPression  du 4° étage  \n \n225 ou 330  \nCapacité en huile  3,5 Litres  \nRégime de rotation  1350 trs/mn 1350 trs/mn 1550 trs/mn 1450 trs/mn 1550 trs/mn \nType d'huile  NARDI SYNTHETIC AL 750 +  \nTempérature de fonctionnement  De +5°C à +45°C  \nInclinaison maximale du compress eur  5°  \nAltitude maximale d'utilisation  2000 mètres  \nPoids du bloc compresseur  47 kg  51 kg  \nNombre de séparateurs huile/eau  2 3 \nFiltration  PAC 1 ** \nMatériaux des refroidisseurs  Acier inox  \nAir respirable  UNI EN 12021:2000 – ANSI/CGA E – Z180  \nTemps pour remplir un 15 L à 200 bars (+/ - 5%)  19'  13'  11'  10'  9'  \nMoteur  \nMonophasé \n220 volts Triphasé 380 volts \nVoltage  230  230 → 690  \nPuissance  3 Kw  4 Kw  5,5 Kw  5,5 Kw  7,5 Kw  \nNiveau sonore  E-P/EG -PG/D/M en db  74/79/85/63  75/80/85/66  76/79/89/70  75/7989/68  78/81/87 /72  \nType de protection   IP 54  \nConsommation  15,6 A  8,7 A 11 A 12 A 15 A \n** Filtration standard -",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 8
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n9 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n2                REGLES DE SECURITE CONCERNANT L'UTILISATION   \n \n2.01  IDENTIFICATION DES REGLES DE SECURITE POUR L' UTILISATEUR:  \n \n  Il est très important de vérifier et de se famili ariser avec les parties potentiellement dangereuses du           \n         compresseur avant de le mettre en service.  Afin de faciliter ce processus, les étiquettes d'a vertissement ont été \nplacés pour identifier les éléments suivants: Haute pression, soupape de pression, ventilateur, surfaces chaudes, etc \n  De plus, certains éléments sont montés sur le com presseur pour prévenir des accidents et assurer la sécurité \nglobale de fonctionnement. En cas de dysfonctionnem ent ou de bris de ceux-ci, utiliser le compresseur p eut mettre en \ndanger l'opérateur. \n  Ces éléments doivent toujours être présents et ne  peuvent être supprimées ou modifiées. En cas de be soin \ncontacter nos techniciens. L'opérateur doit s'assur er que l'équipement et les composants de sécurité s oient toujours en \nparfait état de fonctionnement. Le compresseur doit  être vérifié régulièrement par l'exploitant et par  des techniciens qui \nvont remplacer les éléments usés ou endommagés.  \n2.02  REGLE DE SECURITE POUR L'UTILISATEUR ET LA BO NNE UTILISATION DU COMPRESSEUR:  \n \n        Les utilisateurs du compresseur doivent avo ir des connaissances techniques sur l'air respirable, être                  \n        au courant de la réglementation en vigueur et parfaitement familiarisés avec le fonctionnement  du compresseur. \nDans le cas ou plusieurs personnes se serviraient d u compresseur, le responsable doit prendre toutes l es mesures \nnécessaires pour informer les utilisateurs de toutes les opérations de maintenance nécessaires. \n        Le compresseur est conçu pour produire de l 'air comprimé respirable conformément à la norme DIN EN 12021. \n        Il aspire l'air ambiant (l'opérateur doit s 'assurer que l'air aspiré est dépourvu de fumées et  / ou de gaz nocifs) qui, \naprès être passé à travers un filtre à air, commenc e un cycle de compression et de filtrage jusqu'à ce  que l'air soit \nrestitué en haute pression. \n2.03 REGLES DE SECURITE ESSENTIELLES:  \n• Ne remplir que des bouteilles en date d'épreuve, inspectés et testés, et ne jamais \ndépasser leur pression de service. \n• Le compresseur ne doit pas aspirer de l'air pollu é et ne doit pas être placé dans les \nzones où il ya de la poussière , des risques d'explosion , de corrosion ou d'incendie . \n• Assurez-vous que lorsque vous entretenez le compr esseur ou vous remplacez des pièces, il n'est \npas sous pression et que le câble d'alimentation est débranché. \n• Remplacez régulièrement les cartouches de filtration, uniquement avec les produits d'origine. \n• Videz les condensats régulièrement si le compress eur a une purge manuelle . Dans le cas d'un \ncompresseur équipé de purges automatiques, vérifiez  qu'il purge au moins toutes les 10 minutes. \nVérifiez au moins une fois par jour en vidangeant manuellement les condensats. \n • Quand le compresseur n'est en en fonctionnement, l'interrupteur doit être en position “arrêt”.  \n• Périodiquement, vérifiez l'état des flexibles et vannes de gonflage. Dans tous les cas, les flexible s \ndoivent être remplacés régulièrement. \n• Vérifiez régulièrement les conditions de gonflage. \n• Ne remplacez pas les pièces endommagées si vous n'avez pas les pièces d'origine. \n• Ne modifiez pas le compresseur sans l'autorisation expresse de Nardi Compressori. \n• En cas d'usure visible ou de détérioration d'éléments du compresseur, ne pas l'utiliser jusqu'à ce que \nles pièces usées sont remplacées par des pièces d'o rigine. Vérifiez qu'il n'y ait pas de dommages \nsupplémentaires sur d'autres parties du compresseur. \n• Avant de démarrer le compresseur, s'assurer que personne ne soit en contact avec lui. \n• Faites attention à ne pas toucher les pièces en mouvement. \n• Ne pas modifier le système de ventilation du comp resseur et assurez-vous qu'il soit positionné de \nmanière à assurer la bonne circulation de l'air. \n• Lors du démarrage du compresseur, assurez-vous qu e le sens de rotation du compresseur soit \nconforme à celui indiquée par la flèche sur le carter de protection du ventilateur.",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 9
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n10 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n2.04 REGLES GENERALES DE SECURITE:  \n1.  L'opérateur choisi pour utiliser le compresseur, doit être au courant de toutes les dispositions et les dispositifs de \ncontrôle de la machine, les indications et toutes les informations sur les différentes étiquettes apposées sur le compresseur. \n2.  Ayez toujours à proximité du compresseur une tr ousse d'urgence et un extincteur à CO2. Assurez-vous que l'extincteur \nsoit complètement chargé et prêt à fonctionner à tout moment. \n3.  Lors de l'utilisation du compresseur, utilisez des vêtements de protection appropriés tels que des chaussures de \nsécurité, lunettes, gants etc. \n4.  Débranchez le câble d'alimentation pour effectu er des opérations sur le compresseur, ne jamais effectuer \nd'intervention sur le compresseur lorsque celui-ci est en marche et/ou branché. \n                                                                      \n3                                       GARANTIE ET ASSISTANCE  \n \n3.01 GARANTIE DU COMPRESSEUR:  \nNARDI Compressori  garanti le compresseur  PACIFIC pour une période de douze mois à compter de la date d'achat, \nindiquées sur l'étiquette fixée sur le compresseur. \nLors de la période de fabrication et de test, une é tiquette est fixée sur le compresseur montrant qu'i l est en conformité avec les \nnormes de l'Union européenne concernant le marquage  CE. La garantie est annulée si cette étiquette  es t pour une raison \nquelconque supprimées ou modifiée de quelque façon. \nPour que la garantie soit valable, il est nécessair e que l'installation du compresseur ait été effectu ée suivant les préconisations \ndu fabricant et que le compresseur soit utilisé comme spécifié par Nardi Compressori. Il est également nécessaire qu'il n'ait pas \nété altéré ou modifié de quelque manière sans l'accord et l'autorisation de  NARDI COMPRESSORI.  \nLa garantie n'est pas applicable si: \n- La machine n'a pas été utilisée correctement (comme indiqué dans ce manuel).  \n- Il a été utilisé des consommables n'étant pas d'origine Nardi Compressori. \n- Il n'a pas été utilisé des pièces de rechange d'origine Nardi Compressori. \n- Des gaz autres que l'air sont aspirés / comprimés ou de l'air avec une teneur en oxygène supérieure à 21% . \n Le remplacement des pièces défectueuses sous garan tie sera effectuée gratuitement à l'usine de Nardi Compressori à \nMontecchio Maggiore ou chez un de nos revendeurs agréés. \n La réparation et les remplacements effectués par N ARDI COMPRESSORI ou chez un revendeur agréé au cour s de la \npériode de garantie, ne prolongent pas la durée de la garantie. \n Si la réparation a lieu en dehors de chez Nardi Co mpressori ou d'un revendeur agréé, le coût d'expédi tion de pièces \nde rechange est à la charge de l'acheteur (le rempl acement des pièces défectueuses ne doit être effect uée que par un \npersonnel technique qualifié. Le personnel techniqu e qualifié doit avoir régulièrement effectué un sta ge de formation chez \nNARDI COMPRESSORI et reçu son agrément). \n Si le remplacement de la pièce nécessite un techni cien de NARDI COMPRESSORI, les frais de déplacement  sont à la \ncharge de l'acheteur. \n3.02  ENTRETIEN ET ASSISTANCE:  \nPour commander des pièces de rechange, contactez le  revendeur de votre région. En cas de difficulté à trouver une pièce de \nrechange, contacter directement VPMC.FR ou NARDI CO MPRESSORI. Nous sommes à votre disposition pour tou te question \nou information supplémentaire et nous vous mettrons en contact avec le personnel technique habilité à vous aider. Si vous avez \nbesoin de service ou d'assistance, contactez directement: \n \nSARL VPMC.FR  \ninfo@NardiCompressoriFrance.fr  ou 09 81 29 70 60  \nNARDI COMPRESSORI  \ninfo@nardicompressori.com  or by fax Nr. +39.0444.151922",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 10
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n11 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n  \n4.01  DEBALLAGE ET MISE EN OEUVRE:  \n Le compresseur est livré sur palette, dans un cart on solidement fixé avec un cerclage. Après le débal lage, il est \nimportant de vérifier si le compresseur n'a pas sub i de dommage pendant le transport. En cas de dommag e présent, il est \nimportant d'informer le transporteur et le revendeur dès que possible et au plus tard 7 jours après la livraison.. \n Le compresseur est monté sur silent-blocs afin d'él iminer les vibrations dues à son fonctionnement. Il  doit être placé \ndans un endroit stable. Le compresseur n'est pas pr évu pour être utilisé en atmosphère saline. Dans le  cas où il entre en \ncontact avec des agents corrosifs, il est recommand é de nettoyer les surfaces atteintes et de les prot éger par pulvérisation \nanticorrosive. Prenez soin de tous les composants électriques. \n4.02  UTILISATION A L'AIR LIBRE:  \nAfin d'obtenir la meilleure qualité d'air respirabl e, il est très important de positionner le compress eur dans des \nlieux ouverts. Le compresseur ne doit pas aspirer les fumées d'échappement de tout moteur à combustion. \nSi la situation le permet pas, il est nécessaire d' utiliser une tuyauterie d'au moins 40 mm de diamètr e jusqu'à la \nsource d'air frais et non viciée.  \nLes compresseurs doivent être placés dans un endroit frais à l'abri des intempéries. \nConsultez le chapitre 4.03 concernant le positionnement par rapport aux murs et au plafond. \n4.03  UTILISATION DANS UNE PIECE FERMEE ET CONFIGUR ATION MINIMUM DE CELLE-CI: \nLe compresseur placé dans une pièce fermée, nécessite un recyclage continu de l'air frais. \nDans la pièce, il ne doit pas y avoir de liquide su sceptible de s'évaporer (solvants, additifs, etc.) La pièce du \ncompresseur doit être absolument une zone  \"non fumeur\". \nLe compresseur doit aspirer de l'air frais, non pol lué, et il est préférable de le placer près de fenê tres ouvertes \ndurant son fonctionnement afin d'assurer la recircu lation de l'air autant pour la qualité de l'air com primé que pour le \nrefroidissement du compresseur. \nLes caractéristiques minimum requises pour une pièce sont: \n- La température de la pièce ne doit pas être inféri eure à 5 ° C et ne doit pas être supérieur à 45 ° C  avec une ventilation \nadéquate (voir tableau A). \n- La pièce doit être sèche et propre, il ne doit y avoir aucune poussière qui peut être aspiré par le compresseur. \n- Si dans la même pièce deux ou plusieurs compresseu rs ont été placés s'assurer que la taille de la piè ce est suffisante (voir \ntableau C). \n  Placer le compresseur de préférence dans la zone la plus froide de la pièce. Dans le cas d'une venti lation naturelle, s'assurer \nque le compresseur soit aussi proche que possible d e l'entrée d'air frais et que celle-ci possède les d imensions appropriées. Il \ndoit y avoir une ouverture dans la partie supérieure de la pièce destinée à l'évacuation de l'air chau d, celle-ci devant également \nêtre d'une taille appropriée (voir le tableau A et Fig. 2). Les deux ouvertures ne doivent pas être sur le même mur, il faut veiller à \ndiriger vers le haut de l'air chaud. \nTable A : dimensions minimum d'une pièce avec ventilation naturelle. \nVolume  et hauteur de la pièce   \nVolume >50 m³ - hauteur >2,3 m  Volume >100 m³ - Hauteur >3 m  Volume >200 m³ - Hauteur >4 m   \nEntrée  (A)  Sortie (B)  Entrée (A)  Sortie (B)  Entrée (A)  Sortie (B)  \n0,95 m²  0,78 m²  0,63 m²  0,52 m²  0,25 m²  0,21 m²  \n    \n    \n        Tab. A \n Tab. B \nDistance minimum des murs  \n    \nC \n  \n0,10 m \n  \nD \n  \n0,50 m \n  \nE \n  \n1,00 m",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 11
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n12 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \nFig. 2 \n                                              \n  \nATTENTION: La taille des ouvertures dépendent des s ources de chaleur et du nombre de compresseurs \nsitués dans la pièce. Les dimensions indiquées dans  le tableau A sont pour un compresseur PACIFIC M30 et \nvarient en fonction du volume et de la hauteur de l a pièce. La hauteur de la pièce ne doit pas être in férieure à \n2,3 m et la distance minimale entre le panneau supérieur du compresseur à le plafond doit être de 1 mètre, \n  \nSi plusieurs compresseurs doivent être placés dans la même pièces, vous devez calculer la ventilation adéquate pour que les \ncompresseurs fonctionnent correctement. Utilisez la formule du tableau C pour votre calcul. \n \n    Volume d'air aspiré ( m² )   =   Nombre de Compresseurs   x   Volume d'air de la pièce ( m² )   x   1,6  \n                          Tab. C \n \nSi le volume de la pièce est inférieure ainsi que la taille des ouvertures inférieures au résultat obtenu, il est \nobligatoire d'insérer une ventilation artificielle (voir l'article 4.04) \n \n  \n4.04  PIECE AVEC UNE VENTILATION ARTIFICIELLE:  \n  \nDans le cas de la ventilation artificielle, il est important de vérifier que l'orifice d'entrée d'air frais soit placé en bas et l'orifice de \nsortie soit positionné dans la partie haute, le tout étant sur deux parois différentes. Dans le cas d'un ventilateur extracteur, \ns'assurer que le débit est égal ou supérieur à celui indiqué par le calcul (voir tableau D). \n \n                  Circulation d'air minimum ( m³/h )   =   Débit du compresseur ( l/min )   x   7,5  \nTab. D \nAfin de s'assurer que la ventilation soit suffisante et que le débit du ventilateur soit suffisant il faut mesurer la vitesse de l'air \nsortant (m / sec) et la section du conduit d'échappement où la mesure est effectuée (m²), puis calculer à l'aide de la formule \ndans le tableau E. \n \nCirculation  d'air( m³/h )= Surface de la section du conduit ( m² )x Vitesse de l'air ( m/sec )x 3600  \nTab. E \n \nPour calculer les dimensions du conduit d'admission, il est recommandé que la vitesse de l'air entrant ne soit pas inférieure à 5 \nm / sec et pas être supérieure à 10 m / sec. Nous proposons d'utiliser la formule dans le Tableau F pour calculer la superficie \nde la section transversale du conduit avec une vitesse d'air de 5 m / sec .. \n \n Surface de la section du conduit  ( m² )   =   Circulation minimum de l'air ( m³/h )  / 5 (vitesse de l'air (m/sec))   x    3 600  \nTab. F \n  \n4.05  CONDUIT D'ALIMENTATION POUR L'ASPIRATION D'AI R :  \n  \nSi vous décidez de placer l'aspiration du compresseur dans un endroit différent de celui du compresseur lui-même, vous \npouvez connecter un tuyau à l'aspiration du compresseur. Il est important que ce tuyau ait un diamètre de 40 mm ou plus. \nAssurez-vous qu'il n'est pas branché ou plié de manière à créer un goulot d'étranglement. A son extrémité, il est recommandé \nde mettre un filtre. \n \nUne fois connecté vérifier le temps de gonflage des bouteilles afin de s'assurer que le débit du compresseur n'a pas diminué. \nSi le débit a diminué, vérifier que le tuyau correspond aux préconisations. Les causes peuvent être: \n \n- Rétrécissement ou pliures sur le tuyau, \n- Le tuyau est trop long (Dans ce cas, la surface de section transversale du tuyau doit être augmentée).",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 12
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n13 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n4.06  ALIMENTATION ELECTRIQUE:  \n  \nPour l'installation électrique, vous devez suivre ces étapes: \n \n- Dans ce manuel, vous trouverez un schéma du pannea u du compresseur électrique de commande qui indique  comment \nconnecter le compresseur au secteur. \n- Avoir un électricien capable de vérifier que le sy stème est conforme et qu'il peut supporter la  puis sance maximale du \ncompresseur représenté sous le label CE par NARDI COMPRESSORI. \nIl est recommandé d'installer un disjoncteur ou un fusible adapté à la consommation de puissance du moteur. \n \n \n• Vérifiez que le courant atteint la tension requise par le compresseur et que le branchement utilisé n' est pas \nsous-dimensionné. \n• ATTENTION:  Lorsque vous branchez le compresseur, il est possi ble que les phases soient mal connectées. \nDans ce cas, l'écran du panneau de contrôle indique ra \"phase failure\". Il suffit d'inverser deux des t rois \nphases au niveau de votre branchement pour régler le problème.  \n• Assurez-vous que le fil de terre soit correctement raccordé à la prise et au système électrique. \n• Si vous changez le câble d'alimentation assurez-vous qu'il soit de la bonne taille. \n  \n5                                     GUIDE DE DEMARRAGE RAPIDE                          \n \nATTENTION: Ce guide de démarrage rapide ne remplace pas le manuel d'utilisation et d'entretien, mais est \ndestiné à aider l'opérateur à mettre le compresseur en marche, avec des conseils rapides et pratiques, qui \ndevraient être suivis avec une extrême prudence et seulement après avoir lu ce manuel dans son intégralité \n...  \nNous vous rappelons qu'il est indispensable d'effectuer l'entretien périodique du compresseur.  \n \nDemarrage: \n \n- Placer le compresseur dans l'emplacement souhaité. \n- Raccorder le tuyau d'évacuation des condensats à l'arrière du \ncompresseur.  \n- Vérifiez le niveau d'huile. \n- Vérifiez que la cartouche de filtration est insérée à l'intérieur du bloc \nfiltre. \n- Branchez le câble d'alimentation. \n- Tournez l'interrupteur sur le panneau électronique à la position I - \nON. \n- Faites attention au sens de rotation du moteur électrique Si le câble \na été relié dans le mauvais \nsens, le panneau \nélectronique affiche \"séquence \nou PHASE FAILURE». \nDans ce cas, inverser deux des trois fils du câble d'alimentation. \n- Pour vérifier le sens de rotation: si l'air sort par le haut du \ncompresseur, le sens de rotation est correct. Si l'air sort par en bas, \nle compresseur tourne dans le mauvais sens. \n \n \n \nSEQUENCE  \nOR \nPHASE FAILURE",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 13
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n14 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n6                                                  UTILISATION  \n6.01  PREPARATION AU DEMARRAGE DU COMPRESSEUR:  \nCe compresseur est conçu pour comprimer l'air ambiant. Il est interdit de modifier l'aspiration du com presseur \npour comprimer autre chose que l'air ambiant. Le co mpresseur est conçu pour comprimer de l'air avec un  \npourcentage  d'oxygène qui ne doit pas dépasser 21% . L'utilisation du compresseur à aspirer / comprime r de \nl'air avec une teneur plus élevée en oxygène ou en utilisant d'autres gaz, peut conduire à la rupture ou à \nl'explosion du compresseur. \nTous les compresseurs sont testés par NARDI COMPRES SORI avant la livraison, mais pour la mise en march e, vous devez \nsuivre ces étapes de sécurité: \n- Avant d'allumer la machine, tous les utilisateurs du compresseur doivent lire attentivement et compre ndre le manuel de \nmaintenance de l'utilisateur. \n- Si le compresseur n'a pas été utilisé pendant une période de plus de douze mois, il est recommandé de  changer l'huile, le \nfiltre d'admission et de faire effectuer une vérification générale du compresseur par un technicien. \nVérifiez le bon fonctionnement de la purge automatique des condensats et testez le bouton d'arrêt d'ur gence sur le panneau de \ncommande électronique. \n- Vérifiez que le niveau d'huile soit à MAX (plein) . \n- Chaque fois que vous allumez le compresseur suivez  ces étapes et si quelque chose ne fonctionne pas c orrectement, ne pas \nmettre en marche le compresseur. Exécutez une vérification ou contactez un technicien pour résoudre le problème. \n6.02  DEMARRAGE DU COMPRESSEUR:  \nCompresseur entraîné par un moteur électrique avec système de contrôle automatique:  \nCe modèle est pourvu d'un tableau de commande électronique qui commande le compresseur dans toutes ses fonctions. \nAvant de démarrer le compresseur, suivez toutes les étapes de 6.01 et suivant et ensuite pressez le bo uton START. Les cycles \nde purge de condensats automatiques vont commencer à exécuter l'ouverture de la vanne toutes les 6 minutes. \nÀ la pression maximale, la machine s'arrête automatiquement. \nAppuyez sur le bouton STOP / d'urgence pour arrêter  le compresseur (En cas d'utilisation du bouton d'a rrêt d'urgence, le \npanneau de contrôle doit être réinitialisé). \n6.03 UTILISATION DES ROBINETS DE GONFLAGE:  \n  \nATTENTION : Les robinets de gonflage sont des parties délicat es qui vous permettent de raccorder les \nbouteilles au compresseur. Les robinets de gonflage  doivent être utilisés avec soin, ne doivent pas êt re \nmaltraités et ne doivent pas être nettoyé avec des solvants et, le plus important, ne doivent pas être  utilisés \navec une pression supérieure à la pression de service préconisée.  \nEn standard, des robinets de gonflage 225 bars sont livrés avec le compresseur. \nPour fixer le robinet de gonflage à la bouteille que vous devez suivre ces étapes: \n- Assurez-vous que le compresseur est éteint et que le robinet de gonflage et celui de la bouteille sont fermés. \n- Fixez le robinet de gonflage à la bouteille. \n- Ouvrez complètement le robinet de la bouteille. \n- Ouvrez le robinet de gonflage  sans forcer en fin de course.  \n- Démarrez le compresseur et remplir la bouteille. \n- A la pression maximale, fermez le robinet de la bo uteille et le \nrobinet de gonflage. \n- Purgez l'air résiduel entre la bouteille  et le ro binet de gonflage et \ndébranchez le robinet de la bouteille. \n  \nSi vous avez besoin d'utiliser le compresseur à une pression \nsupérieure à 225 bar Nardi Compressori peut fournir le matériel \nrequis pour remplir à une pression plus élevée avec des \nrobinets de gonflage, raccords et soupapes de sécurité à une \npression de service supérieure.",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 14
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n15 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n   \n7                ENTRETIEN ET REPARATIONS  \n  \n7.01 OPERATIONS D'ENTRETIEN : \n  \nVotre compresseur a besoin d'entretien régulier au fil du temps. En plus de l'allongement de sa durée de vie, un \nentretien régulier maintient un rendement constant et fonctionnement optimum. \nAu cours de ses cycles de travail, le compresseur n écessite un entretien régulier qui doit être effect uée par des \ntechniciens formés par Nardi Compressori. \nEn cas d'entretien non effectué par nos techniciens, il est très important de suivre scrupuleusement l es indications de \nce manuel. \nDans le carnet d'entretien, vous trouverez toutes l es opérations de maintenance planifiées qui doivent  être exécutées \nen fonction des heures de fonctionnement du compresseur. \nIl est très important d'enregistrer toutes opératio ns de maintenance effectuées sur le compresseur, af in de garder un \nhistorique des pièces qui ont été remplacés. Il con vient également de noter la date à laquelle cela a été fait, les heures \nde fonctionnement de la machine et la signature du technicien qualifié qui entretien la machine. \nIMPORTANT:  Toutes les opérations de maintenance doivent être effectuées par le personnel \ntechnique de NARDI COMPRESSORI ou par du personnel technique qualifié agréé.  \n \nIMPORTANT:  Toutes les opérations de maintenance doivent être effectuées avec le compresseur \nhors tension et le câble d'alimentation débranché.  \n \n7.02 SYSTEME DE LUBRIFICATION:  \n \nLes compresseurs NARDI ont deux différents types de lubrification: \n   \n Lubrification par barbotage : Cette méthode de lubrification se fait \nmécaniquement avec le mouvement de la bielle. A cha que rotation, une \ntige, au bas de la bielle est immergée dans l'huile  à grande vitesse. \nLorsque celle-ci sort de l'huile contenue dans la pa rtie inférieure du \ncarter, l'huile est jeté vers le haut sous forme de  gouttelettes ou de \nbrumisation, et forme une lubrification adéquate po ur les cylindres et le \nvilebrequin.  \n Lubrification par pompe à huile : Ce type de lubrification se fait à \ntravers une pompe à engrenages qui est entraîné par  le vilebrequin. \nL'huile aspirée depuis le carter d'huile est pompée  vers le piston du \ndernier étage et filtrée par un filtre micronique. L'huile est ensuite \nprojeté sous forme de spray sur toutes les pièces mobiles.  \n \n7.03 HUILE:  \n \nL'huile est un élément très important pour la durée de vie du compresseur. Nardi Compressori a étudié le compresseur afin qu'il \ndispose d'une grande quantité d'huile et d'un filtre à huile de grande capacité. Un aimant est fixé sur le bouchon de vidange afin \nd'attirer toutes les impuretés métalliques qui se déposent au fond du carter.  \n Nardi Compressori recommande d'utiliser uniquement  l'huile certifiée conçue et testée spécifiquement pour ce \ncompresseur. Le compresseur est fourni avec de l'huile pouvant être utilisée uniquement avec de l'air  (21%  O ²). \n \nCaractéristiques de l'huile: \n- Dépôt faible teneur en carbone. \n- Aucun effet de carbonisation. \n- Bonnes propriétés anticorrosion. \n- Aptitude physiologique et toxicologique.",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 15
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n16 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n  \n \n7.04 VIDANGE DE L'HUILE:    \n  \nLes étapes pour vidanger l'huile du compresseur sont les suivantes: \n \n- Assurez-vous que vous avez suffisamment d'huile sur place pour faire la vidange. \n- Mettez le compresseur en marche pendant 15 - 20 minutes pour chauffer l'huile et la rendre plus fluide. \n- Retirez le bouchon de remplissage d'huile avec le tuyau de reniflard d'huile. \n- Fermez le robinet de vidange et retirer le bouchon  de vidange d'huile en vous assurant que vous que v ous avez un récipient \npour récupérer l'huile usagée. \n- Ouvrez le robinet de vidange et récupérez l'huile usagée. \n- Fermez le robinet de vidange et remplacez le bouch on de vidange \nd'huile. \n- Versez la nouvelle huile lentement dans l'orifice de remplissage \nd'huile. \n- Assurez-vous qu'il atteint le niveau maximum (MAX). \n- N'excédez ce niveau . \n- Refermez le bouchon de remplissage d'huile. \n \n \n7.05 CHANGEMENT DE TYPE D'HUILE:  \n \nPour éviter de graves dommages au compresseur en ca s de \nchangement de type d'huile, vous devez suivre stric tement les \nétapes suivantes: \n  \n• Suivez les étapes sur la vidange de l'huile chapitre 7.04. \n• Changez ou nettoyez toutes les pièces qui de l'huile. \n• Après 10 heures de fonctionnement, vérifiez si la nouvelle huile n'a pas été contaminé par l'ancienne. \n• Si l'huile a été contaminée vidangez-la de nouveau. \n• Ne pas mélanger différents types d'huile et utilisez toujours le même type d'huile. \n \n7.06 REMPLACEMENT DU FILTRE A HUILE (uniquement pou r les compresseurs avec pompe à huile):  \n \nLes étapes de changement du filtre à huile sont les  suivants (cela doit être effectué \nà chaque vidange de l'huile): \n• Dévissez l'écrou du raccord qui maintient le tube d 'arrivée \nd'huile sur le dernier cylindre à l'aide d'une clé de 14mm et \ndébranchez-le. \n• Dévissez les quatre vis du filtre de bloc d'huile à  l'aide d'un \ntournevis cruciforme. \n• Soulevez le couvercle de filtre de bloc à l'huile a vec le tube \nattaché sur lui et retirez le filtre. \n• Vérifiez si il est nécessaire de changer \nle joint torique sur le corps du filtre à huile. \n• Fermez tout, mettez le compresseur en \nmarche et assurez-vous qu'il n'y a pas de fuites \nd'huile. ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 16
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n17 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n7.07 ALARME DE NIVEAU D'HUILE (en série sur les Pac ific M insonorisés, en option sur les autres)  \n Lorsque le niveau d'huile chute en dessous du seui l minimum, une alarme (sonore et visuelle), est déc lenchée, avec \nun message sur l'écran qui indique le manque d'huile dans le compresseur, \n Il est nécessaire de faire un appoint d'huile dans  le compresseur, comme décrit plus haut, jusqu'au n iveau maximal. \nAppuyez sur \"Reset\" sur l'avant du panneau de comma nde électronique, afin de réinitialiser l'alarme, p uis \"START\" pour \ndémarrer le compresseur. Dans le cas où, dans un co urt laps de temps, l'alarme de niveau d'huile est à  nouveau déclenchée, \nvous devez appeler un technicien pour vérifier toute éventuelle anomalie. \n \n7.08 REMPLACEMENT DU FILTRE A AIR:  \n  \nLe filtre retient les impuretés présentes dans l'environnement. \nIl doit être remplacé à intervalles réguliers, comm e indiqué \ndans le carnet d'entretien et de contrôle. \nIl ne doit pas être lavé, mais remplacé. \nLes étapes pour le remplacement du filtre sont les suivantes: \n  \n• Relâchez les crochets maintenant le couvercle et retirez la \ncartouche de filtre. \n• Nettoyez avec un chiffon humide à l'intérieur bloc du filtre ainsi \nque le couvercle. \n   Insérez la nouvelle cartouche de filtre et refer mez le \ncouvercle. \n \n \n7.09 ENTRETIEN DES SEPARATEURS INTERMEDIAIRES :  \n  \nDans la phase de compression, l'air subit une augme ntation de température. En passant d'un \nétage à l'autre il est refroidi par une série de se rpentins de refroidissement (refroidisseur \nintermédiaire). Ce changement soudain de température produit de la condensation qui est éliminé \npar des séparateurs intermédiaires. Dans certains s éparateurs intermédiaires, il existe des \néléments de filtration qui ont besoin d'être remplacés périodiquement. \n \nLes étapes pour remplacer les éléments de filtration sont les suivantes:  \n \n-- Arrêtez le compresseur, dépressuriser les sépara teurs à l'aide du robinet de vidange de \ncondensat.  \n- Dévissez la partie inférieure des séparateurs.  \n- Dévissez l'élément filtrant et le remplacer par un nouveau.  \n- Essuyez le fond du boîtier de séparateur avec un c hiffon humide et s'assurer qu'il n'y a pas de \ncorrosion.  \n- Remplacez les joints toriques.  \n- Fermez le séparateur en toute sécurité.  \n  \nLorsqu'il est utilisé à une pression supérieure à 3 00 bars, les filtres des séparateurs intermédiaires  doivent être remplacés \naprès 100 heures.",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 17
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n18 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n7.10  FILTRE A CHARBON ACTIF POUR AIR RESPIRABLE:  \n \nLe filtre à charbon est utilisé pour éliminer les r ésidus d'eau et d'huile qui sont passé par les \nséparateurs intermédiaires. Le filtre fonctionne de  façon chimique, pas mécanique, avec des \nmatériaux qui absorbent les particules d'eau et d'h uile, rendant l'air comprimé respirable en \nconformité avec la norme européenne DIN EN 12021 \n \nLe filtre a deux sécurités. La première consiste en un trou dans le corps de filtre (au niveau de sa \nconnexion sur le porte filtre) qui est fermée lorsq ue la cartouche est insérée. Son importance est \nqu'il ne permet pas de remplir les bouteilles si la cartouche est manquante. La deuxième sécurité \nest une mise à air libre sur le filetage du corps d e filtre (sécurité de pression). Dans le cas, si la  \ntête du filtre est venu accidentellement à être dév issée sans dépressurisation du compresseur, \ncette mise à l'air libre permet l'évacuation de l'a ir comprimé avant que le bouchon ne soit \ndesserré complètement. \n La durée de vie des composants du filtre est déter minée par le nombre d'heures de \nfonctionnement du compresseur en raison de la press urisation et la dépressurisation du filtre a \nchaque cycle de purge. Nardi Compressori recommande  qu'une inspection technique soit \neffectuée toutes les 500 heures de fonctionnement. Le corps du filtre doit être remplacé une fois \ndépassé les 8000 cycles à 300 bar ou 21 000 cycles à 225 bar. Avec une estimation \napproximative de 4 cycles par heure à 300 bar, la c orps du filtre doit être remplacé après 2000 \nheures de fonctionnement. À 225 bar, la cartouche de filtre doit être remplacé après 5000 heures \nde fonctionnement. \n \n \n  \n7.11 CARTOUCHE DE CHARBON ACTIF:  \n \nIl existe deux types de cartouches: pour les compre sseurs électriques, le filtre élimine les \nrésidus d'eau et d'huile, pour les compresseurs ent raînés par des moteurs thermiques, en plus \nde l'eau et de l'huile, le filtre élimine le CO \n  \nLes étapes pour le remplacement des cartouches sont les suivantes: \nUtilisez des gants de protection. \nDépressurisez l'ensemble du système avant d'effectuer toute opération. \nDévissez la tête de filtre et manipulez la avec soin pour éviter de l'endommager. \nSortez la cartouche de son emplacement en tirant sur le crochet métallique situé sur le dessus. \nEssuyez avec un chiffon propre l'intérieur du filtre. \nInsérez la nouvelle cartouche à l'intérieur du bloc filtre. \nVérifiez l'état du joint torique du filtre et le ch anger avec un joint torique d'origine, s'il est \nendommagé. \nVissez la tête de filtre à la main (ne pas utiliser d'outils). \n  \nLa durée de vie d'une cartouche dépend de nombreux facteurs, notamment des conditions de \nl'environnement ambiant, l'humidité de l'air, tempé rature, débit du compresseur, taille de la \ncartouche elle-même, etc \nLa nouvelle cartouche doit être maintenue dans un environnements sec. Les cartouches sont \nemballées sous vide pour maintenir leur efficacité et fiabilité. L'emballage doit rester fermé \njusqu'à ce que la cartouche soit utilisée. \nLa cartouche doit toujours être remplacée si elle a dépassé un temps de deux mois montés sur \nle compresseur même sans être utilisé. Il est recommandé d'utiliser uniquement des cartouches \nfournies par Nardi Compressori. Les cartouches ne doivent pas être régénérées, \nLes tableaux fournis ont été développés en utilisant des paramètres constants et des \ncartouches neuves telles que fournies par Nardi Compressori.",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 18
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n19 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 19
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n20 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n \n7.13 SOUPAPE DE MAINTIEN DE PRESSION:  \n \nCe type de soupape a pour but de maintenir une pres sion constante dans le filtre final. De cette maniè re, il est possible \nd'éliminer un plus grand volume d'eau, d'améliorer la qualité de l'air et la durée de vie de la cartou che. Lorsque le compresseur \nest en marche, La soupape reste fermée jusqu'à ce que la totalité du système atteigne entre 100 et 150 bars, puis s'ouvre. \n \nCette soupape est réglée d'origine par NARDI COMPRESSORI. Aucun étalonnage supplémentaire n'est nécessaire. \n7.14 CULASSES ET CLAPETS:  \n \nLes clapets d'aspiration et d'échappement sont de t ype \nlamelles ou à clapet. Normalement, dans les différe ntes \nétapes de la compression, il y a un clapet qui s'ou vre et se \nferme en fonction de l'écoulement d'air qui est cré é par le \nmouvement du piston. Le fonctionnement du système e st le \nmême dans toutes les étapes. La seule chose qui change est \nle type et la taille et la forme des clapets. \nIl est important que le Remplacement du clapet et s on \nnettoyage soit effectué par du personnel qualifié.  \n  \n \nLes différentes étapes de remplacement des clapets sont les suivantes: \n \n- Remplacez toutes les pièces des clapets et pas seulement certains éléments. \n- Nettoyez soigneusement les clapets et éliminez tous les dépôts de carbone sans rayer les surfaces. \n- Soyez prudent lors du remontage des clapets en suivant la bonne procédure. \nSi le clapet montre des rayures dues à l'usure, il doit être remplacé. \n- Remplacez les joints toriques.  \n- Portez une attention particulière à l'image sur la droite, ce qui montre l'ordre de serrage des vis de la culasse. \n- Après avoir effectué l'entretien des clapets, mett ez en marche le compresseur pendant 30 - 40 minutes,  puis \néteignez-le, dépressurisez l'ensemble. Vérifiez ensuite le serrage. \n- Les clapets doivent être vérifiés toutes les 500 heures de fonctionnement. \n- Après 1000 heures de fonctionnement les clapets et tous leurs composants doivent être remplacés (sauf celui \ndu 1° étage). \n \n7.15 Nettoyage du clapet - 1° étage   \n \nRegardez attentivement l'image ci-dessous pour le positionnement exact du clapet et assurez-vous \nque le mot \"TOP\" ou la lettre \"T\", inscrit sur la p laque de clapet,  soit orienté vers le haut. Si les  \njoints ne sont pas en bon état, ils doivent être remplacés.   \nNettoyez le clapet pour enlever la calamine. Attent ion à ne pas faire entrer de calamine à l'intérieur du clapet, \ncar cela nuirait à son étanchéité. Toujours nettoyer le clapet par-dessous. \n   \n                                   Compresseurs à 3  étages \n \n \n \nCompresseurs à 4 étages",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 20
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n21 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n \n7.16 Remplacement des clapets - 2° étage (sur compr esseur à 3 étages) : \n \n \nDans cet étage, les clapets d'admission et d'échappement sont dans 2 endroits différents, situés de chaque coté du cylindre.  \nPour remplacer les clapets, vous devez: \n Déconnecter l'arrivée et le départ des refroidisse urs  \n• Dévisser les 4 vis qui maintiennent le couvercle du clapet \n• Enlever toutes les pièces situées dans la chambre du clapet. \n• Nettoyer le clapet et si vous constatez le moindre problème, \nremplacez l'intégralité des pièces.. \n• Replacez tous les composants dans le même ordre et remplacez \ntous les joints. \n• Resserrez les vis du couvercle et re connectez les refroidisseurs.   \n \n7.17 Remplacement des clapets2° étage (compresseur à 3 étages) ou 3° étage (compresseurs à 4 étages): \n \nLes étapes pour le remplacement ou le nettoyage de ce clapet \nsont les suivantes:  \n \n  Pour remplacer le clapet, vous devez:  \n• Débrancher les tuyaux de refroidissement de la culasse.  \n• Retirer les vis et enlever complètement la culasse.  \n• Mettre la culasse dans un étau.  \n• Dévisser les corps du clapet (l'un de ces élément s doit être  \ndévissé avec un outil spécial Nardi Compressori).  \n• Nettoyer et enlever tous les débris.  \n• Si des pièces montrent des signes d'usure, change r les pièces \nusées.  \n• Remonter tous les composants en suivant le même o rdre et \nchanger les joints.  \n• Sur la base de la culasse il faut marquer a trois  points avec un \npoinçon après que l'ensemble soit remonté, ceci afi n d'éviter tout \ndesserrage.  \n• Tester le clapet par soufflage d'air comprimé dan s la direction \nd'écoulement.  \n• Vérifier le joint torique et le remplacer s'il est endommagé.  \n• Remonter la culasse.  \n• Re fixer les tubes de refroidissement.",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 21
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n22 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n7.18 Remplacement du clapet du dernier  étage:  \n \nLes étapes pour le remplacement ou le nettoyage du clapet sont les suivants :  \n• Débrancher les tuyaux de refroidissement de la culasse.  \n• Retirer les vis et démonter complètement la culasse.  \n• Mettre la culasse dans un étau.  \n• Enlever le clip maintenant le clapet.  \n• Sortir l'ensemble du clapet.  \n• Si des pièces montrent des signes d'usure, changer les pièces usées.  \n• Monter tous les composants en suivant le même ordre et changer les joints.  \n• Tester le clapet par soufflage d'air comprimé dans la direction d'écoulement.  \n• Remplacer les joints.  \n• Remonter la culasse.  \n• Re fixer les tubes de refroidissement. \n \n  \n \n \n \n \n \n7.19 SOUPAPES DE SECURITE  \nCes soupapes ont une importance fondamentale pour l a sécurité de \nl'utilisateur du compresseur. Ces soupapes sont tar ées à certaines pressions, ce qui permet à l'air de  s'échapper en \ncas d'anomalie de fonctionnement. Chaque cylindre e st doté d'une soupape de sécurité et chaque soupape  de \nsécurité a un tarage différent.  \n \nIIL EST INTERDIT DE CHANGER LE TARAGE ET LA PRESSION MAXIMALE \nD'UNE SOUPAPE DE SECURITE. TOUT CHANGEMENT PEUT CAUSER \nD'IMPORTANTS DOMMAGE ET ANNULER LA GARANTIE \n \n \n7.20 FLEXIBLES DE GONFLAGE:  \n \nIl est très important de garder les tuyaux de gonfl age dans des conditions optimales et \nde les remplacer périodiquement, au besoin. Nous re commandons de remplacer les \ntuyaux tous les deux ans, ou chaque fois que l'abra sion / rayures ou de la rouille sont \nvisibles sur les tuyaux ou les raccords. \nVous devez inspecter visuellement les tuyaux et les  raccords avant le gonflage \ndes bouteilles.  \nGardez les tuyaux à l'abri des rayons directs du so leil afin d'éviter le vieillissement \nprématuré et conservez-les à une température comprise entre 50/-40 ° C.  \nLe rayon minimum de courbure ne doit pas être inférieure à 400 mm.  \nNe pas travailler sur les tuyaux s'ils sont encore sous pression. Attendez que le \nsystème refroidisse complètement et vérifier soigneusement que les raccords soient bien \nserrés lors du remplacement des tuyaux.",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 22
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n23 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n7.21 PURGES AUTOMATIQUES:  \nLa vidange de l'eau de condensation et de l'huile d es deux séparateurs intermédiaires ainsi que l'humi dité résiduelle du filtre \nfinal à charbon actif a lieu simultanément et de fa çon automatique. \nCeci s'effectue grâce à un système  d'échappement u nique, ce qui \nréduit considérablement les coûts et simplifie gran dement \nl'opération. Cela permet plus de liberté aux utilis ateurs pendant le \nremplissage des bouteilles.  \nToutes les 6 minutes (cet intervalle de temps est l e réglage d'usine \npar défaut, mais il peut être réglé par l'utilisate ur à un intervalle de \ntemps plus appropriée à tout moment). L'électrovann e ouvre le flux \nd'air pendant 5 secondes, ce qui sert à déplacer les pistons, ouvrant \nainsi la liaison aux séparateurs intermédiaires et au filtre final.  \nPar défaut, le réglage en sortie d'usine est: \nPURGE FERME = 6 MINUTES (OFF) \nPURGE OUVERTE = 5 SECONDS (ON) \nCes paramètres peuvent être modifiés via le panneau de contrôle électronique. \n \n7.22 ARRET AUTOMATIQUE:  \n Le compresseur est équipé d'un système d'arrêt aut omatique qui stoppe le compresseur lorsque la press ion souhaitée \nest atteinte. Ce pressostat est étalonné par NARDI COMPRESSORI au moment de la fabrication et de l'ess ai du compresseur. \nDe cette façon, les utilisateurs n'ont pas besoin d e se tenir à côté du compresseur tout le temps lors que les blocs se \nremplissent, mais peuvent se consacrer à d'autres a ctivités. Une fois que les bouteilles sont remplies , le compresseur s'arrête \nautomatiquement, tout en maintenant la pression, l'utilisateur peut ainsi procéder à la fermeture des robinets de gonflage à tout \nmoment. La bouteille pleine peut alors être remplac ée par une vide (si des bouteilles supplémentaires doivent être remplies) et \nil suffit de redémarrer le compresseur en appuyant sur la touche START sur le panneau de commande élec tronique (sauf sur \nles modèles à moteur thermique). En cas de danger o u de défauts, appuyez sur le bouton d'urgence rouge , qui est situé sur le \npanneau de commande électronique et le compresseur s'arrête immédiatement. Pour redémarrer le compress eur après une \nsituation d'urgence, relâchez le bouton rouge (bouton) tournant dans le sens antihoraire et appuyez sur START. \n \n7.23 DESCRIPTION DU PANNEAU DE CONTROLE ELECTRONIQUE(mo dèles à moteur électrique uniquement): \nLe système de contrôle électronique NARDI COMPRESSO RI contrôle le \nbon fonctionnement du compresseur: gestion de la pr ession et de la \ntempérature de 1 ou plusieurs étages; gestion de la  pression d'entrée de \nl'air ou de l'azote (boosters pour l'industrie); ge stion du mode \nautomatique ou manuel; affichage du temps de foncti onnement du \ncompresseur et signale quand il faut effectuer une maintenance en \nfonction du temps d'utilisation; gestion du moteur électrique; réglage de \nla pression maximale et minimale en cours d'utilisa tion; Menus \ndisponibles en quatre langues; contraste de l'écran  réglable; gère des \nalarmes et des disfonctionnement en indiquant préci sément le problème; \nsorties informatiques pour l'interfaçage avec d'autres systèmes. \n \n1.  Bouton de mise en marche du compresseur. \n2.  Bouton d'arrêt du compresseur. \n3.  Interrupteur général. \n4.  Bouton de changement de page (PAGE) \n5.  Bouton pour monter ( ▲). \n6.  Bouton pour descendre( ▼). \n7.  Bouton de réinitialisation (RESET)  \n8.  LED jaune d'information (ALARME NON BLOQUANTE) \n9.  LED verte indiquant que le compresseur fonctionne. \n10.  LED rouge d'alarme générale (ALARME BLOQUANTE)",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 23
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n24 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n \n UTILISATION DU PANNEAU ELECTRONIQUE:  \n \nATTENTION: Le panneau de contrôle est un élément pe rfectionné qui vous permet de surveiller le \ncompresseur et dans le même temps de modifier les paramètres d'utilisation. \nLe panneau est fabriqué par Nardi Compresseurs au m oment de la production avec des paramètres standard  ou \npersonnalisés. \nLe panneau de commande est composé des boutons suivants: \nINTERRUPTEUR DE LIGNE:  Ce commutateur sert à alimenter le panneau et tout es les parties électriques. Quand il \nest sur la position “0” aucun composant n'est sous tension mais il est important de débrancher le comp resseur \navant toute intervention. Quand il est sur la posit ion “I” il bloque l'ouverture du panneau et le comp resseur ainsi \nque tout ses composants sont alimentés. \nBOUTON STOP:  Ce bouton permet d'arrêter le compresseur. Le bout on d'arrêt d'urgence (type \n\"coup de poing\" arrête l'alimentation électrique) p our réactiver l'alimentation, \nil faut le tourner d'un quart de tour.  \nBOUTON START:         Sert pour faire démarrer le compresseur. \nBOUTONS PAGE - ▲- ▼- RESET : Sert pour se déplacer dans les différents menus et pour modifier les paramètres.     \nLED INFORMATION:          La led jaune indique que le compresseur a un disfonctionnement.  \nLED COMPRESSEUR ON :         La led verte indique que le compresseur e st en marche. \nLED ALARME GENERALE :        La led rouge intermittente indique un prob lème ou une alarme. \n \nÉCRAN ACCUEIL  \n \nLa pression maximale est modifiable directement à p artir de l'écran d'accueil, \nen utilisant les flèches  ▲ et ▼ \nA partir de celui-ci, appuyez sur le bouton \"PAGE\" pour passer à l'écran de \nréglage du compresseur. \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant. \n \nRéglage de la pression de redémarrage du compresseu r, dans le cas ou celui-\nci est en fonctionnement AUTOMATIQUE. La pression e st réglable de 0 à 30 \nbars sous la pression d'arrêt préréglée. (ex. press .max. 300 bar ; press.min. \n270 bar) \n \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant. \n \nIndication, en temps réel des la pression des diffé rents étages (module \noptionnel). \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant \n \nIndication de la tension de la ligne et de la conso mmation du moteur \nélectrique (en ampères) \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 24
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n25 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \nIndication de la température des différents étages (module optionnel). \nIls sont différenciés par les lettres: A (1° étage) , B (2° étage), C (3° étage), D \n(4° étage), E (option),  \nF (option). \nAppuyez sur \"PAGE\" pour passer à l'écran suivant \n \n \nUtilisation et modification des paramètres:  \n \nEcran de démarrage du panneau de contrôle \nPour modifier les paramètres, appuyez en même temps  sur \"PAGE\" et les 2 \nflèches. A ce moment, vous devez avoir brièvement 1 étoile dans chaque angle \nde l'écran ainsi que l'indication de passage en mode réglage.  \nREGLAGES \n \nRéglage de la luminosité. \n      \nAppuyez sur \"PAGE\" pour passer à l'écran suivant \nRéglage du contraste \n       \nAppuyez sur \"PAGE\" pour passer à l'écran suivant   \n \n \nSélection de la langue: ITALIEN, ANGLAIS, FRANCAIS, ALLEMAND \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant \n \n \nRéglage en secondes du temps d'ouverture des purges. \n(par défaut 5 secondes) \nAppuyez sur \"PAGE\" pour passer à l'écran suivant \n \nRéglage en minutes du temps d'intervalle des purges  \n(par défaut 6 minutes) \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant \n \nSélection de l'unité de pression : BAR, PSI, MPA \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant   \n \n \nRéglage de la puissance maximale absorbée par le mo teur électrique. en cas \nd'ampérage trop haut, le panneau déclenche l'alarme  correspondante et \narrête le compresseur. \nAppuyez sur \"PAGE\" pour passer à l'écran suivant",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 25
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n26 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n \nPermet d'entrer un code pour la protection des paramètres \n \n \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant. \n \nRéglage de la gestion de la filtration. La gestion de la filtration calcule la durée \nde la cartouche et déclenche une alarme quand la cartouche est saturée.  \n \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant \n \nEntrez le code en fonction du type de filtration ut ilisée, selon le tableau ci-\ndessous \nPuis appuyez sur PAGE. \nCODE DES CARTOUCHES DE FILTRATION DES COMPRESSEURS PACIFIC ELECTRIQUES \n  \nPACIFIC 16 PACIFIC 23 PACIFIC 28 PACIFIC 30 PACIFIC  35 \n200 300 200 300 200 300 200 300 200 300 \nPAC-01 9100 13500  6300 9500 5200 7800 4800 7200 4100 6200 \nPAC-02 15900 23800  11000  16600 9000 13600  8400 12700  7200 10900  \nPAC-03 23100 34700  16100  24100 13200  19800  12300  18500  10500 15800  \n                      \n \nPACIFIC MX 40 PACIFIC MX 50 PACIFIC MX 60 PACIFIC M X 70   \n200 300 200 300 200 300 200 300     \nPAC-03 9200 13800  7300 11000 6100 9200 5200 7900     \nPAC-06 18400 27650  14700  22000 12200  18400  10500  15800      \n \n \n \nIndiquez le type de filtration, puis appuyez sur le  bouton RESET jusqu'à ce que \nla barre blanche termine sa progression. \nL'indication doit être la même sur les 2 lignes. \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant \n \nRéglage de la tension de la ligne électrique d'alimentation \n. \nAppuyez sur \"PAGE\" pour passer à l'écran suivant. \n \nAutorise, ou non, le contrôle du niveau d'huile. en  cas de contrôle \nautomatique, une alarme apparaitra sur l'écran si l e niveau d'huile est trop \nbas, et le compresseur sera arrêté. \nAppuyez sur \"PAGE\" pour passer à l'écran suivant.",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 26
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n27 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \nRéglage pour autoriser le démarrage progressif du m oteur électrique. Si le \nl'option est présente, vous devez l'activer afin qu e le moteur électrique du \ncompresser l'utilise. \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant \n \nRéglage du mode d'utilisation \"AUTOMATIQUE\" ou \"MAN UEL\" du \ncompresseur. En mode \"AUTOMATIQUE\", le compresseur redémarrera \nautomatiquement en dessous d'une pression préréglée.  \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant \n \nSélection du type de capteur de pression utilisé (e n option) et éventuellement \nd'une alarme de pression. Il est possible d'utilise r 4 capteurs de pression \ndifférents.  \n(En standard, sans capteur de pression) \n Appuyez sur \"PAGE\" pour passer à l'écran suivant \n \nRéglage de la pression d'alarme de chaque capteur. Un alarme sera \ndéclenchée en cas de pression top haute. Une alarme est déclenchée en cas de \nrupture du câble d'alimentation du capteur. \n4 ETAGES: 1°= 5 Bars; 2°= 20 Bars, 3°= 80 Bars \n3 STADI: 1°= 12 Bars; 2°= 80 Bars \nAppuyez sur \"PAGE\" pour passer à l'écran suivant. \n \nSélection du type d'unité pour la température: CELSIUS, FAHRENHEIT \nAppuyez sur \"PAGE\" pour passer à l'écran suivant \n \nActivation de la ou des capteurs de température. Il est possible de connecter 6 \ncapteurs de température: A, B, C, D, E, F. En cas d e rupture du câble \nd'alimentation d'une des sondes, une alarme se décl enche indiquant quelle \ncapteur a un problème.  \nAppuyez sur \"PAGE\" pour passer à l'écran suivant. \n \nRéglage de la température à laquelle l'alarme doit se déclencher. Ce réglage \nest possible uniquement si le capteur est activé, sinon, cette indication ne sera \npas visible. Si le compresseur atteint la limite de  température autorisée, il \ns'arrêtera automatiquement, une alarme sera déclenc hée, et l'écran indiquera \nquel capteur est concerné. \nPar défaut: A: 180°C ; B: 180°C; C: 180°C; D: 160°C \nAppuyez sur \"PAGE\" pour passer à l'écran suivant \n \nL'indication du temps avant la prochaine maintenanc e du compresseur  sert à \nprévenir l'utilisateur que le compresseur a besoin d'une révision. Quand il \nreste 20% du temps avant la maintenance, un message  apparait sur l'écran, \nsans arrêter le compresseur. \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 27
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n28 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \nUne fois effectuée la maintenance, il faut appuyer tenir appuyé le bouton \nRESET pour remettre à zéro le temps avant la prochaine maintenance. \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant \n \n \nRéglage des seuils limites pour la génération de l' alarme dans le cas de \nsurtension ou sous tension. \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant \n \nContrôle le nombre total de purges des condensats, pour surveiller les cycles \nde dépressurisation des filtres et des composants sous pression. \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant \n \n \nIndication de la pression maximale d'utilisation. Cette valeur est réglée lors de la fabrication du compresseur et ne \npeut être modifiée par l'utilisateur. Elle correspo nd au type de compresseur \net à la soupape de sécurité finale. \n \nAppuyez sur \"PAGE\" pour passer à l'écran suivant \n \nMaintenant, tous les paramètres sont définis. \nPOUR SAUVEGARDER LES DONNEES IL FAUT GARDER APPUYE LE BOUTON \n\"PAGE\"  \nSELECTIONNEZ \"OUI\" ET APPUYEZ DE NOUVEAU SUR LE BOUTON \"PAGE\"  \n \nMaintenant tous les paramètres utilisateur sont sauvegardés.",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 28
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n29 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n7.24 ACTIONS A MENER EN CAS D'ALARME:  \n \nLe panneau électronique peut déclencher plusieurs a larmes, normalement lorsque cela se produit, cela s ignifie \nque l'un ou plusieurs des valeurs des paramètres fi xés par NARDI COMPRESSORI (Les valeurs maximales ou  \nminimales) a été dépassé. Il se produit également e n raison d'un signal envoyé à partir de l'un des di fférents \ncapteurs placés à des emplacements clés dans le com presseur. Pour chaque alarme, l'écran affiche le me ssage \nindiquant le problème. en cas \"d'alarme générale\", la lumière LED rouge s'allume, l'alarme envoi un signal sonore \net le compresseur s'éteint automatiquement.  \nEn raison de la haute précision du panneau électron ique, une alarme peut facilement être déclenchée en  raison \nd'une surtension ou d'autres causes non liées à un dysfonctionnement du compresseur et / ou de ses \ncomposants. Nous vous conseillons de presser le bou ton \"RESET\" et de vous assurez que la même alarme n e \nse déclenche pas à nouveau. Si la même alarme se déclenche à nouveau, vous devez contacter votre revendeur \nlocal et signaler le problème. \n \n \n \nLes alarmes pouvant être déclenchées par le panneau de commande électronique sont les suivantes:  \nPROBLEME DE PHASE: Cette alarme indique que le moteur a été mal branché. \nPROBLEME DE SUR COURANT MOTEUR: Cette alarme indiqu e que le courant électrique consommé par le moteur est \nanormalement élevée.  \n \nPROBLEME DE SOUS MOTEUR COURANT: Cette alarme indique que le moteur ne fonctionne pas en raison du faible courant \n(moteur ne démarre pas). \nLIGNE EN SUR TENSION: Cette alarme indique que la tension électrique de la ligne est trop élevé (10% ).  \n \nLIGNE EN SOUS TENSION: Cette alarme indique que la tension électrique de la ligne est trop faible (-15%).  \n \nALERTE DE MAINTENANCE: Cette alarme indique que dans 200 ou 100 heures un entretien est nécessaire.  \n \nTEMPS DE SERVICE / BESOIN D'ENTRETIEN: Cette alarme indique que l'entretien est nécessaire.  \n \nSURCHAUFFE COMPRESSEUR: Cette alarme indique que le compresseur a atteint une température élevée.  \n \nCAPTEUR DE TEMPERATURE CASSE OU NON CONNECTE:  Cett e alarme indique que le capteur de température est \nendommagé ou n'est pas connecté \n \nNIVEAU D'HUILE (optionnel) :Cette alarme indique que le niveau d'huile est trop bas.  \n \n \n7.25 REGLEMENTATION SPECIALE DES DECHETS:  \n \nL'élimination du compresseur ou de ses composants d oit se faire en conformité avec les règles en vigue ur dans le pays \nd'installation.",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 29
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n30 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n7.26 DISFONCTIONNEMENTS:  \n \nPROBLEME CAUSE REMEDE  \nLe compresseur ne démarre pas  • pas de courant électrique  • Vérifiez la ligne électrique  \n  • fusible  grillé  • Remplacez l e fusible grillé  \n  • courant électrique trop faible  • Vérifiez la ligne électrique  \n      \nProtection thermique du moteur  • Consommation de courant trop élevée  • Controller le groupe compresseur  \n  • Réglage trop bas de la protection thermique  • Corrige r le réglage de la protection thermique  \n      \nLe moteur électrique ne fonctionne pas • Problèmes  avec le circuit électrique • Inverser les phases du moteur  \n    • Vérifier les fusibles  \n    • Assurez-vous que le courant soit suffisant  \n    • Assurez-vous que le moteur soit alimenté  \n      \nLa vitesse de rotation et le débit diminuent  \n• Le courant n'est pas suffisant  •Assurez-vous qu'il y a assez de courant  • Vérifier le moteur électrique  \n• la courroie patine • Vérifier la tension de la courroie  \n  • Remplacer la courroie  \n      \nLe débit d'air diminues (sans que la vitesse \nde rotation ne diminue) \n• Des raccords sont desserrés • Resserrer les raccords  \n• Des joints sont usés • Remplacer les joints  \n  • Le filtre d'aspiration est bouché • Remplacer ou nettoyer le filtre  \n  • Segmentation usée • Remplacer la segmentation  \n  • Tuyauterie d'aspiration bouchée • Contrôler la tuyauterie d'arrivée d'air  \n  • Les clapets fonctionnent mal • Remplacer ou nettoyer les clapets  \n      \nLe compresseur n'atteint pas sa pression \nmaximale •Segmentation usée • Remplacer la segmentation  \n •Pistons usés • Remplacer les pistons  \n  \n•Ouverture trop précoce de la soupape finale  \n• Nettoyer la soupape de sécurité  \n  •Controller la calibration correcte de la soupape  \n    •Remplacer la soupape de sécurité  \n      \nLa soupape de sécurité d'un étage \nintermédiaire  a une fuite \n• Pression de l'étage trop haute • Problème de pression dans l'étage suivant  \n• Ouverture prématurée de la soupape de \nsécurité \n• Nettoyer la soupape de sécurité  \n  • Contrôler le bon tarage de la soupape  \n    • Remplacer la soupape  \n      \nSurchauffe du compresseur  •Mauvais sens de rotation •Inverser les phases du moteur  \n  •Air d'admission insuffisant •Augmenter l'alimentation en air de la pièce  \n  \n•Les c lapets ne se referment pas \ncorrectement •Contrôler, nettoyer ou remplacer les clapets  \n    •Température ambiante trop élevée ( +45 °C Max)  \n      \nOdeur d'huile dans l'air • Cartouche de filtration finale saturée •Remplacer la cartouche  \n      \nConsommation d'huile excessive •Segmentation usée •Remplacer la segmentation  \n  •Pistons usés •Remplacer les pistons  \n  •Le filtre d'aspiration est bouché •Remplacer ou nettoyer le filtre  \n     \n      \nLe compresseur ne s'arrête pas \nautomatiquement \n•Mauvais réglage de la pression d'arrêt •Corriger le réglage  \n•Soupape de sécurité du dernier étage qui ne \nfonctionne pas \n•Nettoyer la soupape  \n  •Re tarer la soupape  \n    •Remplacer la soupape",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 30
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n31 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n  \nSPARE PARTS  \nPACIFIC \n VILEBRQUIN  \n \nPA001-045 Rev.00 \nDate 12/02/2011 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n CODE   DESCRIPTION    CODE   DESCRIPTION    CODE   DESCRIPTION   \nPA001 -005  vilebrequin   PA001 -025  Ro ulement   VD008 -010  Ecrou   \nPA001 -010  Co ntrepoids   PA001 -030  Roulement   VR030 -005  Rondelle   \nPA001 -015  Bielle avec axe de barbotage   PA001 -035  Roulement   VV025 -005  Circlip   \nPA001 -020  Bielle    VB008 -030  boulon   VV030 -005  circlip   \n \n  \nPIECES DETACHEES  \nPACIFIC E/P/EG/PG  \n Carter et vilebrequin et \n \nPA001-051 Rev.00  \nDate 12/02/2011",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 31
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n32 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \nventilation  \n \n \n \n \n \n \n \n \n \n \n \n \n CODE  DESCRIPTION  CODE  DESCRIPTION  CODE  DESCRIPTION  \nOR304-005  Joint torique  PA001-065   Joint spi  VB008-035  Boulon  \nPA001-044  Vilebrequin complet avec bielles  PA001-070  Protection de ventilateur  VD016-015  Ecrou  \nPA001-050  Carter  PA001-080  Ventilateur  VR016-020  Rondelle  \nPA001-055  Couvercle de carter  VB004-020  Boulon  VV006-010  Axe  \nPA001-060  Joint spi  VB006-006  Boulon  VV065-005  Clips  \n \n  \n \n  \nSPARE PARTS  \nPACIFIC insonorisés \"M\" \nCARTER, VILEBREQUIN  \n \nPA001-056 Rev.00 \nDate 12/02/2011",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 32
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n33 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n \n \n \n \n \n \n \n \n \n \n \n CODE   DESCRIPTION    CODE   DESCRIPTION    CODE   DESCRIPTION   \nOR304 -005  Joint torique   PA001 -065  Joint spi   VB008 -035  Boulon   \nPA001 -045  Vilebrequin complet avec bielles   PA001 -081  Poulie   VD016 -015  Ecrou   \nPA001 -050  Carter   PA001 -082  Ventilateur   VR016 -020  Rondelle   \nPA001 -055  Couvercle de carter   VB00 6-006  Boulon   VV006 -010  Axe   \nPA001 -060  Joint spi   VB006 -031  Boulon   VV065 -005  Clips   \n \n \n \n \n \n \n \n  \nPIECES DETACHEES  \nPACIFIC  \n Carter avec accessoires  \n \nPA001-060 Rev.01  \nDate 12/02/2011",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 33
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n34 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n \n \n \n \n \n \nCODE   DESCRIPTION   CODE   DESCRIPTION   CODE   DESCRIPTION  \nAC006-105 Robinet de vidange  PA001 -105  Bouchon avec aimant  PA003 -005  Tube de pompe à huile  \nAC008 -006   Ogive pour tube 12mm  PA001 -110  Fenêtre de niveau d'huile  PA003 -010  Tube de pompe à huile  \nAC008 -007   Ecrou pour tube 12 mm  PA001 -125  Support de refroidisseur  VB 004 -020  Boulon  \nAC014 -010  Bouchon  PA001 -126  Support de refroidisseur  VB004 -040  Boulon  \nHR117 -014  Raccord G1/4” pour tube 6mm  PA001 -135  Pompe à huile  VB006 -013  Boulon  \nHR120 -004  Raccord “L” G1/4” pour tube 6mm  PA001 -140  Chambre de filtre à huile  VB006 -046  Boulon  \nHR176 -002  Bouchon G1/4”  PA001 -145  filtre à huile  VB010 -010  Boulon  \nHR701 -013  Rondelle  joint  PA001 -150  Bouchon de chambre de filtre à huile  VD004 -010  Ecrou  \nOR022 -010  Joint torique  PA001 -155  Clapet anti retour  de pompe à huile  VD010 -015  Ecrou  \nOR0 34 -005  Joint torique  PA001 -200  Raccord de remplissage huile  VR010 -005  Rondelle  \nPA001 -085  Support de compresseur  PA001 -201  bouchon    \nPA001 -095  Support de refroidisseur  PA001 -208  Séparateur d'huile    \nPA001 -096  Support de refroidisseur  PA001 -205  Tube    \n \n \n \n  \nPIECES DETACHEES  \nPACIFIC 16  \n 1° étage  \n \nPA001-060 Rev.01  \nDate 12/02/2011",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 34
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n35 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \nCODE DESCRIPTION CODE DESCRIPTION CODE DESCRIPTION \nAC008-006  Ogive  PA002-005  Piston complet  PA002-190  Filtre d'admission complet  \nAC008-007  Ecrou  PA002-007  Jeu de segments  PA002-191  Cartouche de filtre d'admission  \nAC017-130  Raccord “L”  PA002-008  Piston  VB008-135  Boulon  \nHR125-007  Raccord “T” 3/8\"G pour tube 12 mm  PA002-020 Cylindre 1 st  étage  VB008-140  Boulon  \nHR173-007  Bouchon pour tube 12 mm  PA002-025  Plaque de clapet 1 st étage  VD008-007  Ecrou  \nOR094-005  Joint torique  PA002-036  Joint torique  VR008-006  Rondelle  \nOR100-005  Joint torique  PA002-040  Culasse 1 st étage    \n  \nPIECES DETACHEES  \nPACIFIC 23/27/3 2 \n 1° étage  \n \nPA001-060 Rev.01  \nDate 12/02/2011",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 35
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n36 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \nCODE DESCRIPTION CODE DESCRIPTION CODE DESCRIPTION \nAC008-006  Ogive  PA002-010  Piston complet  PA002-190  Filtre d'admission complet  \nAC008-007  Ecrou  PA002-012  Jeu de segments  PA002-191  Cartouche de filtre d'admission  \nAC017-130  Raccord “L”  PA002-013  Piston  VB008-135  Boulon  \nHR125-007  Raccord “T” 3/8\"G pour tube 12 mm  PA002-021  Cylindre 1 st  étage  VB008-140  Boulon  \nHR173-007  Bouchon pour tube 12 mm  PA002-030  Plaque de clapet 1 st étage  VD008-007  Ecrou  \nOR094-005  Joint torique  PA002-036  Joint torique  VR008-006  Rondelle  \nOR100-005  Joint torique  PA002-040  Culasse 1 st étage    \n \n \n  \nPIECES DETACHEES  \nPACIFIC 35  \n 1° - 2°  étage  \n \nPA001-060 Rev.01  \nDate 12/02/2011",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 36
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n37 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n \nCODE DESCRIPTION CODE DESCRIPTION CODE DESCRIPTION \nAC017-130 Raccord en L PA002-105  Piston complet  PA002-155 Couvercle de clapet 2° étage \nAC008-006  Ogive  PA002-107  Jeu de segments  PA002-160 Connexion \nAC008-007  Ecrou  PA002-108  Jeu de segments  PA002-190  Filtre d'admission complet  \nHR120-007  Raccord “T” 3/8\"G pour tube 12 mm  PA002-109  Piston  PA002-191  Cartouche de filtre d'admission  \nHR117-031 Raccord 1/4 G pour tube 12 mm PA002-125  Cylindre 1 st  étage  Pa110-081 Soupape de sécurité 1° étage \nHR120-032  Raccord “L” 1/2\"G pour tube 12 mm  PA002-120  Cylindre 2 st  étage  VB008-031 boulon \nHR173-007  Bouchon pour tube 12 mm  PA002-130  Joint de culasse  VB008-050 boulon \nOR028-005 Joint torique PA002-135  Plaque de clapet 1 st étage  VB008-105  Goujon  \nOR100-005  Joint torique  PA002-140  Joint de culasse  VD008-007  Ecrou  \nOR104-005  Joint torique  PA002-145  Culasse 1 st étage  VR008-006  Rondelle  \nOR120-005  Joint torique  PA002-150  Plaque de clapet 2 st étage    \n \n  \nPIECES DETACHEES  \nPACIFIC 16 /23/27  \n 2° étage  \n \nPA002-038 Rev.01  \nDate 12/02/2011",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 37
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n38 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n \n CODE  DESCRIPTION  CODE  DESCRIPTION  CODE  DESCRIPTION \nHR120-007  Raccord “L” 3/8\"G  pour tube 12 mm  PA002-581 Cylindre  VB008-026  Boulon  \nHR176-002  Bouchon1/4''  PA002-585  Clapet d'aspiration  VB008-036  Boulon  \nOR020-015  Joint torique  PA002-587  Siège de clapet  VB008-115  Boulon  \nOR053-006  Joint torique  PA002-588  Plaque de clapet  VD008-007  Ecrou  \nOR060-005  Joint torique  PA002-590  Ressort de clapet  VD008-015  Ecrou  \nOR066-005  Joint torique  PA002-591  Insert de clapet  VR008-006  Rondelle  \nPA002-505  Piston guide  PA002-592  Chambre de clapet  VR008-015  Rondelle  \nPA002-510  Cylindre  PA002-593  Insert de clapet  VR012-025  Rondelle  \nPA002-520 Piston complet avec segments  PA002-594  Chambre de clapet complète  VR029-005  Rondelle  \nPA002-521 Piston  PA002-595  Culasse",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n39 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n  \nPIECES DETACHEES  \nPACIFIC 32 2° étage  \n \nPA002-038 Rev.01  \nDate 12/02/2011  \n \n \n \n CODE  DESCRIPTION  CODE  DESCRIPTION  CODE  DESCRIPTION \nHR120-007  Raccord “L” 3/8\"G  pour tube 12 mm  PA002-582  Cylindre  VB008-026  Boulon  \nHR176-002  Bouchon1/4''  PA002-585  Clapet d'aspiration  VB008-036  Boulon  \nOR020-015  Joint torique  PA002-587  Siège de clapet  VB008-115  Boulon  \nOR053-006  Joint torique  PA002-588  Plaque de clapet  VD008-007  Ecrou  \nOR060-005  Joint torique  PA002-590  Ressort de clapet  VD008-015  Ecrou  \nOR066-005  Joint torique  PA002-591  Insert de clapet  VR008-006  Rondelle  \nPA002-505  Piston guide  PA002-592  Chambre de clapet  VR008-015  Rondelle  \nPA002-510  Cylindre  PA002-593  Insert de clapet  VR012-025  Rondelle  \nPA002-525  Piston complet avec segments  PA002-594  Chambre de clapet complète  VR029-005  Rondelle  \nPA002-526  Piston  PA002-595  Culasse",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 39
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n40 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n  \nPIECES DETACHEES  \nPACIFIC 35  \n 3° étage  \n \nPA002-038 Rev.01  \nDate 12/02/2011  \n \n \n \nCODE  DESCRIPTION  CODE  DESCRIPTION  CODE  DESCRIPTION \nHR120-007  Raccord “L” 3/8\"G  pour tube 12 mm  PA002-580  Cylindre  VB008-026  Boulon  \nHR176-002  Bouchon1/4''  PA002-585  Clapet d'aspiration  VB008-036  Boulon  \nOR020-015  Joint torique  PA002-587  Siège de clapet  VB008-115  Boulon  \nOR053-006  Joint torique  PA002-588  Plaque de clapet  VD008-007  Ecrou  \nOR060-005  Joint torique  PA002-590  Ressort de clapet  VD008-015  Ecrou  \nOR066-005  Joint torique  PA002-591  Insert de clapet  VR008-006  Rondelle  \nPA002-505  Piston guide  PA002-592  Chambre de clapet  VR008-015  Rondelle  \nPA002-510  Cylindre  PA002-593  Insert de clapet  VR012-025  Rondelle  \nPA002-515 Piston complet avec segments  PA002-594  Chambre de clapet complète  VR029-005  Rondelle  \nPA002-516 Piston  PA002-595  Culasse    \nPA002-516 Jeu de segments PA110-082 Soupape de sécurité",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 40
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n41 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n  \nPIECES DETACHEES  \nPACIFIC 16/23/27/35  \n Dernier étage  \n \nPA002-038 Rev.01  \nDate 12/02/2011  \n \n \n \n \n CODE  DESCRIPTION  CODE  DESCRIPTION  CODE  DESCRIPTION \nAT098-001  Ressort  PA002-511  Cylindre  PA004-676  Joint torique  \nHR117-017  Raccord direct  PA002-607  Jeux de segment  PA004-678  Joint torique  \nHR120-004  Raccord “L”  PA004-610   Piston complet avec segments  PA004-679  Clapet Setger  \nOR022-005 Joint torique PA004-615  Piston  PA004-683  Chapeau de clapet  \nOR024-005 Joint torique PA004-619  Chemise  PA004-685  Clapet d'aspiration  \nOR037-009 Joint torique  PA004-625  Cylindre  PA004-690  Corps de clapet  \nOR037-010  Joint torique  PA004-670  Coupleur de clapet  VB008-014 Boulon \nOR060-005  Joint torique  PA004-671  Clapet d'échappement  VB008-036 Boulon \nOR066-005  Joint torique  PA004-671  Chapeau de clapet  VR008-015  Rondelle  \nPA002-505  Piston guide",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 41
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n42 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n  \nPIECES DETACHEES  \nPACIFIC 3 2 \n Dernier étage  \n \nPA002-038 Rev.01  \nDate 12/02/2011  \n \n \n \n \n CODE  DESCRIPTION  CODE  DESCRIPTION  CODE  DESCRIPTION \nAT098-001  Ressort  PA002-511  Cylindre  PA004-676  Joint torique  \nHR117-017  Raccord direct  PA002-617  Jeux de segment  PA004-678  Joint torique  \nHR120-004  Raccord “L”  PA004-611   Piston complet avec segments  PA004-679  Clapet Setger  \nOR022-005 Joint torique PA004-616  Piston  PA004-683  Chapeau de clapet  \nOR024-005 Joint torique PA004-620  Chemise  PA004-685  Clapet d'aspiration  \nOR037-009  Joint torique  PA004-625  Cylindre  PA004-690  Corps de clapet  \nOR037-010  Joint torique  PA004-670  Coupleur de clapet  VB008-014 Boulon \nOR060-005  Joint torique  PA004-671  Clapet d'échappement  VB008-036 Boulon \nOR066-005  Joint torique  PA004-671  Chapeau de clapet  VR008-015  Rondelle  \nPA002-505  Piston guide",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 42
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n43 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n  \nPIECES DETACHEES  \nPACIFIC  \n Séparateur  \n \nPA002-038 Rev.01  \nDate 12/02/2011  \n  \n \n CODE   DESCRIPTION   CODE   DESCRIPTION    CODE   DESCRIPTION  \nAT140 -005  Corps de robinet de vidange  HR120 -007  Raccord “L” 3/8\"G  pour tube 12 mm   PA002 -714  Support de filtre séparateur  \nAT140 -100  Robinet de vidange complet  HR70 1-012  Rondelle joint  \n \n PA110 -100  soupape de sécurité  \nAT141-001  Clapet rilsan  OR053 -006  Joint torique   VB004 -021  Boulon  \nAT142 -001  Volant de robinet  PA002 -710  Corps de filtre séparateur   VB008-012  Boulon  \nHR101 -004  Ogive  PA002 -711  Tête de filtre séparateur   VR004 -010  Rondelle  \nHR102 -014  Ecrou de raccord  PA002 -712  Tube de séparateur   VR008-006  Rondelle  \nHR103 -141  Corps de raccord ¼’’ pour tube 6 mm INOX  PA002 -713  Tube de séparateur",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 43
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n44 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n  \nPIECES DETACHEES  \nPACIFIC  \n Séparateur  \n \nPA001-060 Rev.01  \nDate 12/02/2011  \n  \n \n \n CODE   DESCRIPTION   CODE   DESCRIPTION   CODE   DESCRIPTION  \nAT140 -005  Corps de robinet de vidange  OR017 -010  Joint torique  PA110 -102  soupape de sécurité PN 200 bar  \nAT140 -100  Robinet de vidange complet  OR053-006  Joint torique  PA110-103  soupape de séc urité PN 300 bar  \nAT141-001  Clapet rilsan  PA002-720  Corps de filtre séparateur  VB004-021  Boulon  \nAT142 -001  Volant de robinet  PA002-721  Filtre en bronze  VB006-051  Boulon  \nHR101 -004  Ogive  PA002-722  Couvercle  VB008-012  Boulon  \nHR102 -014  Ecrou de raccord  PA002-723  Couvercle  VR004-010  Rondelle  \nHR120-007  Raccord “L” 3/8\"G  pour tube 12 mm  PA002-724  Cartouche complète de filtre séparateur  VR008-006  Rondelle  \nHR120-114  Raccord “L” 1/4\"G pour tube 6 mm  PA002-725  Tête de filtre séparateur    \nHR125-141  Corps de rac cord “T” 1/4\"G pour tube 6 mm \nINOX  \nPA002-726  Support de filtre séparateur    \nHR701 -012  Rondelle joint  PA002-727  Tube de séparateur",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 44
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n45 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n \n \n  \nPIECES DETACHEES  \nPACIFIC 16/23/27/30  \n Refroidisseurs  \n \nPA001-060 Rev.01  \nDate 12/02/2011  \n \n CODE  DESCRIPTION  CODE  DESCRIPTION  CODE  DESCRIPTION \nAC014-010  Ecrou PA003-030  refroidisseur VB006-046  Boulon \nOR022-015  Joint torique PA003-035  Tube de connexion VD004-010  Ecrou \nPA001-095  Fixation pour refroidisseur PA003-040  refroidisseur  VD006-015  Ecrou \nPA001-096  Fixation pour refroidisseur  PA003-050  Tube   \nPA003-020  refroidisseur  VB004-040  Boulon",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 45
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n46 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n \n \n  \nPIECES DETACHEES  \nPACIFIC 35  \n Refroidisseurs  \n \nPA001-060 Rev.01  \nDate 12/02/2011  \n \n CODE  DESCRIPTION  CODE  DESCRIPTION  CODE  DESCRIPTION \nAC014-010  Ecrou PA003-025  refroidisseur VB004-040  Boulon \nOR022-015  Joint torique PA003-030  refroidisseur VB006-046  Boulon \nPA001-095  Fixation pour refroidisseur PA003-035 Tube de connexion VD004-010  Ecrou \nPA001-096  Fixation pour refroidisseur  PA003-040  refroidisseur  VD006-015  Ecrou \nPA003-015  refroidisseur  PA003-050  Tube",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 46
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n47 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n  \nPIECES DETACHEES  \nbloc filtre PAC 1 \n \nPA100-182 Rev.01  \nDate 02/05/2013  \n \n \n \n CODE   DESCRIPTION   CODE   DESCRIPTION   CODE   DESCRIPTION  \nAT140 -001  Corps de robinet de vidange  OR011 -004  Joint torique  PA100 -113  bloc filtre  \nAT140-100  Robinet de vidange complet  OR025-005  Joint torique  PA100-114  Tête de bloc filtre  \nAT141-001  Clapet rilsan  OR066-010  Joint torique  PA100-115  tube  \nAT142-001  Volant de robinet  OR068-005  Joint torique  PA100-117  Base de  filtre  \nAT142-002  Tube  PA100-050       Insert de clapet     PA100-123  Extension de filtre  \nHR101-004  Ogive  \n \nPA100-051  Piston de clapet  PA100-149  Clapet anti retour  \nHR102-014  Ecrou  de raccord  PA100-052  Guide de ressort  PA114-047  Connexion INOX  \nHR176-002  Bouchon1/4’’  PA100-053  bouchon  PA115-116  Ressort de clapet anti retour  \nHR701-012  Rondelle  PA100-054  Ecrou  PA115-119  Piston de clapet anti retour  \nOR002-005  Joint torique  PA100-060  Clapet de maintient complet  VB008-012  Boulon  \nOR003-005  Joint torique  PA100-101  Cartouche de filtration pour électrique  VB008-070  Boulon  \nOR009-005  Joint torique  PA100-102  Cartouche de filtration pour essence  VR006-015  Rondelle de ressort  \nOR009-010  Joint torique  PA100-110  Support de filtre  VV005-015  Sphère",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 47
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n48 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n  \nPIECES DETACHEES  \nPACIFIC  \n Bloc filtre PAC2  \n \nPA001-060 Rev.01  \nDate 12/02/2011  \n \n \n \n CODE   DESCRIPTION   CODE   DESCRIPTION   CODE   DESCRIPTION  \nAT140 -001  Corps de robinet de vidange  OR011 -004  Joint torique  PA100 -213  bloc filtre  \nAT140-100  Robinet de vidange complet  OR025-005  Jo int torique  PA100-114  Tête de bloc filtre  \nAT141-001  Clapet rilsan  OR066-010  Joint torique  PA100-115  tube  \nAT142-001  Volant de robinet  OR068-005  Joint torique  PA100-117  Base de filtre  \nAT142-002  Tube  PA100-050       Insert de clapet  PA100-123  Extension de f iltre  \nHR101-004  Ogive  \n \nPA100-051  Piston de clapet  PA100-149  Clapet anti retour  \nHR102-014  Ecrou  de raccord  PA100-052  Guide de ressort  PA114-047  Connexion INOX  \nHR176-002  Bouchon1/4’’  PA100-053  bouchon  PA115-116  Ressort de clapet anti retour  \nHR701-012  Ro ndelle  PA100-054  Ecrou  PA115-119  Piston de clapet anti retour  \nOR002-005  Joint torique  PA100-060  Clapet de maintient complet  VB008-012  Boulon  \nOR003-005  Joint torique  PA100-201  Cartouche de filtration pour électrique  VB008-070  Boulon  \nOR009-005  Joint toriq ue  PA100-202  Cartouche de filtration pour essence  VR006-015  Rondelle de ressort  \nOR009-010  Joint torique  PA100-110  Support de filtre  VV005-015  Sphere",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 48
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n49 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n  \nPIECES DETACHEES  \nPACIFIC  \n Bloc filtre PAC 3  \n \nPA001-060 Rev.01  \nDate 12/02/2011  \n \n \n CODE   DESCRIPTION   CODE   DESCRIPTION   CODE   DESCRIPTION  \nAT140 -001  Corps de robinet de vidange  OR011 -004  Joint torique  PA100 -313  bloc filtre  \nAT140-100  Robinet de vidange complet  OR025-005  Joint torique  PA100-114  Tête de bloc filtre  \nAT141-001  Clapet rilsan  OR066-010  Joint torique  PA100-115  tube  \nAT142 -001  Volant de robinet  OR068 -005  Joint torique  PA100 -117  Base de filtre  \nAT142-002  Tube  PA100-050       Insert de clapet  PA100-123  Extension de filtre  \nHR101-004  Ogive  \n \nPA100-051  Piston de clapet  PA100-149  Clapet anti retour  \nHR102-014  Ecrou  de raccord  PA100-052  Guide de ressort  PA114-047  Connexion INOX  \nHR176-002  Bouchon1/4’’  PA100-053  bouchon  PA115-116  Ressort de clapet anti retour  \nHR701 -012  Rondelle  PA100 -054  Ecrou  PA115 -119  Piston de clapet anti retour  \nOR002-005  Joint tori que  PA100-060  Clapet de maintient complet  VB008-012  Boulon  \nOR003-005  Joint torique  PA100-301  Cartouche de filtration pour électrique  VB008-070  Boulon  \nOR009-005  Joint torique  PA100-302  Cartouche de filtration pour essence  VR006-015  Rondelle de ressort  \nOR009-010  Joint torique  PA100-110  Support de filtre  VV005-015  Sphère",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 49
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n50 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n  \nPIECES DETACHEES  \nPACIFIC  \n Robinet de gonflage 300 bars  \n \nPA001-060 Rev.01  \nDate 12/02/2011  \n \n \n \n CODE   DESCRIPTION   CODE   DESCRIPTION   CODE   DESCRIPTION  \nOR007 -005  Joint torique  PA112 -015  Corps de robinet  PA112 -032  Ecrou  \nOR010-005  Joint torique  PA112-022  Guide cylindrique  PA112-034  Volant de robinet rouge 300 bars  \nOR011-015  Joint torique  PA112-023  Insert de piston de clapet  PA112-035  Filtre  \nPA112-003  Robinet de remplissage 300 BARS  PA112-024  Tige tournevis  PA112-901  Kit d'entretien robinet  \nPA112-006  Robinet de remplissage 300 BARS flow stop  PA112-025  Ecrou  VV005-015  Sphère  \nPA112-008  Volant DIN 300 rouge  PA112-026  Rondelle    \nPA112-009  Guide de volant  DIN  PA112-031  Ressort",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 50
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n51 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n  \nPIECES DETACHEES  \nPACIFIC  \n robinet de gonflage 200 Bar – 3000 psi  \n \nPA112-004 Rev.00  \nDate 12/02/2011  \n \n \n \n \n \n \n \n CODE   DESCRIPTION   CODE   DESCRIPTION   CODE   DESCRIPTION  \nOR007 -005  Joint torique  PA112 -012  Siège INT -CGA  PA112 -032  Ecrou  \nOR010-005  Joint torique  PA112-015  Cors de robinet  PA112-033  Volant de robinet noir 200 bars  \nOR011-015  Joint torique  PA112-022  Guide cylindrique  PA112-035  Filtre  \nPA112-002  Robinet de remplissage 200 BAR  PA112-023  Piston valve insert  PA112-109  Adaptateur étrier INT -CGA  \nPA112-005  Robinet de remplissag200 BAR flow stop  PA112-024  Tige tournevis  PA112-901  Kit d'entretien de robinet  \nPA112 -007  Volant DIN 200 noir  PA112 -025  Ecrou  VV005 -015  Sphère  \nPA112-009  Guide de volant DIN 200  PA112-026  Rondelle    \nPA112-011  Etrier  INT -CGA  PA112-031  Ressort",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 51
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n52 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n  \nSPARE PARTS  \nPACIFIC  \n Purges automatiques  \n \nPA114-015 Rev.01 \nDate 03/05/2013 \n \n \nCODE   DESCRIPTION    CODE   DESCRIPTION    CODE   DESCRIPTION   \nAC011 -200  Tube rilsan   OR063 -004  Joint torique   PA114 -049  Support de bloc purge   \nAC016-203  Connexion   OR075-005  Joint torique    PA114-060  Flexible avec raccord pour condensats   \nAC017-102  Raccord “L”   PA110-010  Ressort   PA116-101  Minuterie 12 Volt DC   \nHR101-004  Ogive   PA114-015  Corps de purge   PA116-102  Minuterie 230 Volt AC   \nHR102-014  Ecrou d e raccord   PA114-020  Piston de purge   PA116-105  Clapet de purge 12 Volt DC   \nHR117-031  Raccord  1/4\"G  pour tube 12 mm  \n \n PA114-025  Couvercle   PA116-106  Cl apet de purge 230 Volt AC   \nHR175-001  Connexion   PA114-030  Piston  HP   VB006-067  Boulon   \nHR176-002  Bo uchon 1/4\"G   PA114-031  Piston  LP   VB008-035  Boulon   \nHR301-001  Raccord   PA114-032  Ressort   VV005-015  Rondelle   \nHR339-001  Connexion  “L”   PA114-035  Raccord   VV005-016  Sphère   \nOR008-005  Joint torique   PA114-041  Siège      \nOR011-010  Joint torique   PA114-042  Réducteur      \nOR026-005  Joint torique   PA114-045  Connexion   inox",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 52
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n53 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n9                                      CARNET D'ENTRETIEN  \n \nTOUTES LES 25 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nNettoyage du filtre d'aspiration     \nContrôle du niveau d'huile(idéalement MAX)     \nContrôle des flexibles de gonflage     \nContrôle des refroidisseurs     \nContrôle des instruments (zéro des manomètres)     \nTOUTES LES 25 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nNettoyage du filtre d'aspiration     \nContrôle du niveau d'huile(idéalement MAX)     \nContrôle des flexibles de gonflage     \nContrôle des refroidisseurs     \nContrôle des instruments (zéro des manomètres)     \nTOUTES LES 25 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nNettoyage du filtre d'aspiration     \nContrôle du niveau d'huile(idéalement MAX)     \nContrôle des flexibles de gonflage     \nContrôle des refroidisseurs     \nContrôle des instruments (zéro des manomètres)     \nTOUTES LES 25 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nNettoyage du filtre d'aspiration     \nContrôle du niveau d'huile(idéalement MAX)     \nContrôle des flexibles de gonflage     \nContrôle des refroidisseurs     \nContrôle des instruments (zéro des manomètres)     \nTOUTES LES 25 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nNettoyage du filtre d'aspiration     \nContrôle du niveau d'huile(idéalement MAX)     \nContrôle des flexibles de gonflage     \nContrôle des refroidisseurs     \nContrôle des instruments (zéro des manomètres)     \nTOUTES LES 25 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nNettoyage du filtre d'aspiration     \nContrôle du niveau d'huile(idéalement MAX)     \nContrôle des flexibles de gonflage     \nContrôle des refroidisseurs",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 53
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n54 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \nContrôle des instruments (zéro des manomètres)     \nTOUTES LES 25 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nNettoyage du filtre d'aspiration     \nContrôle du niveau d'huile(idéalement MAX)     \nContrôle des flexibles de gonflage     \nContrôle des refroidisseurs     \nContrôle des instruments (zéro des manomètres)     \nTOUTES LES 25 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nNettoyage du filtre d'aspiration     \nContrôle du niveau d'huile(idéalement MAX)     \nContrôle des flexibles de gonflage     \nContrôle des refroidisseurs     \nContrôle des instruments (zéro des manomètres)     \nTOUTES LES 25 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nNettoyage du filtre d'aspiration     \nContrôle du niveau d'huile(idéalement MAX)     \nContrôle des flexibles de gonflage     \nContrôle des refroidisseurs     \nContrôle des instruments (zéro des manomètres)     \nTOUTES LES 25 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nNettoyage du filtre d'aspiration     \nContrôle du niveau d'huile(idéalement MAX)     \nContrôle des flexibles de gonflage     \nContrôle des refroidisseurs     \nContrôle des instruments (zéro des manomètres)     \nTOUTES LES 25 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nNettoyage du filtre d'aspiration     \nContrôle du niveau d'huile(idéalement MAX)     \nContrôle des flexibles de gonflage     \nContrôle des refroidisseurs     \nContrôle des instruments (zéro des manomètres)     \nTOUTES LES 25 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nNettoyage du filtre d'aspiration     \nContrôle du niveau d'huile(idéalement MAX)     \nContrôle des flexibles de gonflage     \nContrôle des refroidisseurs",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 54
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n55 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \nContrôle des instruments (zéro des manomètres)     \nSUIVANT LE TYPE DE FILTRATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtration (PAC FILTER )     \nContrôle des Joint toriques (Filtre et cartouche)     \nSUIVANT LE TYPE DE FILTRATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtration (PAC FILTER )     \nContrôle des Joint toriques (Filtre et cartouche)     \nSUIVANT LE TYPE DE FILTRATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtration (PAC FILTER)     \nContrôle des Joint toriques (Filtre et cartouche)     \nSUIVANT LE TYPE DE FILTRATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtration (PAC FILTER )     \nContrôle des Joint toriques (Filtre et cartouche)     \nSUIVANT LE TYPE DE FILTRATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtration (PAC FILTER )     \nContrôle des Joint toriques (Filtre et cartouche)     \nSUIVANT LE TYPE DE FILTRATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtration (PAC FILTER)     \nContrôle des Joint toriques (Filtre et cartouche)     \nSUIVANT LE TYPE DE FILTRATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtration (PAC FILTER )     \nContrôle des Joint toriques (Filtre et cartouche)     \nSUIVANT LE TYPE DE FILTRATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtration (PAC FILTER )     \nContrôle des Joint toriques (Filtre et cartouche)     \nSUIVANT LE TYPE DE FILTRATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtration (PAC FILTER )     \nContrôle des Joint toriques (Filtre et cartouche)     \nSUIVANT LE TYPE DE FILTRATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtration (PAC FILTER )     \nContrôle des Joint toriques (Filtre et cartouche)     \nSUIVANT LE TYPE DE FILTRATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtration (PAC FILTER )     \nContrôle des Joint toriques (Filtre et cartouche)",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 55
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n56 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \nSUIVANT LE TYPE DE FILTRATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtration (PAC FILTER )     \nContrôle des Joint toriques (Filtre et cartouche)     \nSUIVANT LE TYPE DE FILTRATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtration (PAC FILTER )     \nContrôle des Joint toriques (Filtre et cartouche)     \nSUIVANT LE TYPE DE FILTRATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtration (PAC FILTER )     \nContrôle des Joint toriques (Filtre et cartouche)     \nSUIVANT LE TYPE DE FILTRATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtration (PAC FILTER )     \nContrôle des Joint toriques (Filtre et cartouche)     \nTOUTES LES 250 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtre d'aspiration \n    \n    \n    \n    \nVérification du corps et de la base du filtre à charbon actif \n    \n    \n    \n    \nTOUTES LES 250 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtre d'aspiration \n    \n    \n    \n    \nVérification du corps et de la base du filtre à charbon actif \n    \n    \n    \n    \nTOUTES LES 250 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtre d'aspiration \n    \n    \n    \n    \nVérification du corps et de la base du filtre à charbon actif",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 56
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n57 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n    \n    \n    \nTOUTES LES 250 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtre d'aspiration \n    \n    \n    \n    \nVérification du corps et de la base du filtre à charbon actif \n    \n    \n    \n    \nTOUTES LES 250 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtre d'aspiration \n    \n    \n    \n    \nVérification du corps et de la base du filtre à charbon actif \n    \n    \n    \n    \nTOUTES LES 250 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nRemplacement de la cartouche de filtre d'aspiration \n    \n    \n    \n    \nVérification du corps et de la base du filtre à charbon actif \n    \n    \n    \n    \nTOUTES LES 500 HEURES D'UTILISATION ou 1 FOIS PAR \nAN  DATE SIGNATURE DU TECHNICIEN  \nINTERVENTION PAR UN TECHNICIEN AGREE Nardi Compressori   \nInspection et remplacement du filtre du dernier filtre \nséparateur. \n    \n    \n    \n    \nVidange",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 57
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n58 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n    \n    \n    \nContrôle du tarage de la soupape de sécurité \n    \n    \n    \n    \nTOUTES LES 500 HEURES D'UTILISATION ou 1 FOIS PAR \nAN  DATE SIGNATURE DU TECHNICIEN  \nINTERVENTION PAR UN TECHNICIEN AGREE Nardi Compressori   \nInspection et remplacement du filtre du dernier filtre \nséparateur. \n    \n    \n    \n    \nVidange  \n    \n    \n    \n    \nContrôle du tarage de la soupape de sécurité \n    \n    \n    \n    \n \n \n \nCHAQUE 1,000 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nINTERVENTION PAR UN TECHNICIEN AGREE Nardi Compressori   \nRemplacement des clapets \n    \n    \n    \nCHAQUE 1,000 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nINTERVENTION PAR UN TECHNICIEN AGREE Nardi Compressori   \nRemplacement des clapets \n    \n    \n    \nCHAQUE 1,000 HEURES D'UTILISATION  DATE SIGNATURE DU TECHNICIEN  \nINTERVENTION PAR UN TECHNICIEN AGREE Nardi Compressori   \nRemplacement des clapets",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 58
+    }
+  },
+  {
+    "type": "text",
+    "content": "Compresseurs    PACIFIC  \n \n59 | P a g e  \nPACIFIC   Rev.2019 \nNardi Compressori france / sarl VPMC.FR \n    \n    \nTOUS LES ANS OU A LA DEMANDE  DATE SIGNATURE DU TECHNICIEN  \nINTERVENTION PAR UN TECHNICIEN AGREE Nardi Compressori   \nAnalyse de l'air \n    \n    \n    \nVidange de l'huile \n    \n    \n    \nVérification du réglage du panneau de contrôle et de \nsoupape de sécurité \n    \n    \n    \nAPRES TOUTE REPARATION  DATE SIGNATURE DU TECHNICIEN  \nContrôle des robinets de gonflage \n    \n    \n    \nNettoyage du filtre à air \n    \n    \n    \nContrôle des tuyaux et du serrage des refroidisseurs \n    \n    \n    \nAPRES UNE LONGUE PERIODE D'INACTIVITE DATE SIGNATURE DU TECHNICIEN  \nContrôle des robinets de gonflage \n    \n    \n    \nNettoyage du filtre à air \n    \n    \n    \nContrôle des instruments (zéro des manomètres)",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 59
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_1_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 1,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_1_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 1,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "1 | INFORMATION DEBASE | page 05\n101\n. | Explicationdesicônes | page05\n102\n. | Précautions | page05\n103\n. | BrèveIntroduction | page05\n104\n. | Descriptiondubloccompresseur | page06\n105\n. | DescriptionduPACIFIC(Airrespirable) | page07\n106\n. | DonnéestechniquesPACIFIC | page08\n2 | REGLESDESECURITEPOUR L'UTILISATION | page 09\n201\n. | Identificationdesrèglesdesécuritépourlesutilisateurs | page09\n202\n. | Règlesdesécuritépourlesutilisateursetlabonneutilisationducompresseur | page09\n203\n. | Règlesessentiellesconcernantlasécurité | page09\n204\n. | Règlesgénéralesconcernantlasécurité | page10\n3 | GARANTIEETASSISTANCE | page 10\n301\n. | Garantieducompresseur | page10\n302\n. | EntretienetAssistance | page10\n4 | INSTALLATION | page 11\n401\n. | Déballageetpriseenmain | page11\n402\n. | Installationàl'airlibre | page11\n403\n. | Installationdansunepièceferméeetcaractéristiquesrequisespourlapièce | page11\n404\n. | Pièceavecventilationartificielle | page12\n405\n. | Conduitd'arrivéed'air | page12\n406\n. | Alimentationélectrique | page12\n5 | GUIDEDEDEMARRAGERAPIDE | page 13\n |  | \n6 | OPERATION ETUTILISATION | page 14\n601\n. | Préparation audémarrageducompresseur | page14\n602\n. | Démarrageducompresseur | page14\n603\n. | Utilisationdesvannesdesflexiblesdegonflage | page14",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 3,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": "7 ENTRETIEN ETREPARATION | page 15 | \n701 Opérationsd'entretien\n. | page15 | \n702 Systèmedelubrification\n. | page15 | \n703 Huile\n. | page15 | \n704 Vidangedel'huile\n. | page | 16\n705 ChangementdeTyped'huile\n. | page16 | \n706 Remplacementdufiltreàhuile\n. | page | 16\n707 Alarmedeniveaud'huile\n. | page | 17\n708 Remplacementdufiltreàair\n. | page17 | \n709 Entretiendesséparateursintermédiaires\n. | page | 17\n710 Cartouchedefiltrationpourl'airrespirable\n. | page18 | \n711 Cartouchedefiltrationàcharbonactif\n. | page18 | \n7 .12 Tableau de la durée de vie des différentes cartouches pour P27 – PAC FILTER 1 , 2 et 3 | page19 | \n713 Soupapedemaintiendepression\n. | page20 | \n714 Culassesetclapets\n. | page20 | \n715 Nettoyageduclapet 1°étage\n. | page | 20\n716 Remplacementduclapet2°étage(compresseurà4étages)\n. | page21 | \n717 Remplacementduclapet2°étage(compresseurà3étages)ou3°étage(compresseurà\n. | 4étages)page | 21\n718 Remplacementduclapet dudernierétage\n. | page | 22\n719 Soupapesdesécurité\n. | page22 | \n720 Flexiblesdegonflage\n. | page22 | \n721 Purgeautomatiquedescondensats\n. | page23 | \n722 Systèmed'arrêtautomatique\n. | page23 | \n723 Descriptionetutilisationdupanneaudecontrôleélectronique\n. . | page24 | \n724 Alarmesetactions\n. | page29 | \n725 Dispositionsspécialespourl'éliminationdesdéchets\n. | page29 | \n726 Dysfonctionnement\n. | page30 | \n8 PIECES DETACHEES | page 31 | \nVueséclatésduvilebrequinetdesbielles | page31 | \nVueséclatésducarteretventilateur | page32 | \nVueséclatésducarteretventilateursérie\"M\" | page33 | \nVueséclatéscarteravecsesaccessoires | page34 | \nVueséclatésdu1°étage P16 | page35 | \nVueséclatésdu1°étage P23/27/32 | page36 | \nVueséclatésdu1°étage P35 | page37 | \nVueséclatésdu2°étage P16/23/27 | page38 | \nVueséclatésdu2°étage P32 | page39 | \nVueséclatésdu3°étage P35 | page40 | \nVueséclatésdudernierétageP16/23/27/35 | page41 | \nVueséclatésdudernierétageP32 | page42 | \nVueséclatésdufiltreséparateur | page43 | \nVueséclatésdufiltreséparateur | page44 | \nVueséclatésdusystèmederefroidissementP16/23/27/30 | page45 | \nVueséclatésdusystèmederefroidissementP35 | page46 | \nVueséclatésblocfiltrePACFILTER1 | page47 | \nVueséclatésblocfiltrePACFILTER2 | page48 | \nVueséclatésblocfiltrePACFILTER3 | page49 | \nVueséclatésdurobinetdegonflage300Bar | page50 | \nVueséclatésdurobinetdegonflage200Bar | page51 | \nVueséclatésdusystèmedepurgeautomatique | page52 | \n9 CARNETD'ENTRETIEN | page 53 | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 4,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_6_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 6,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_6_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 6,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "Description |  | PACIFIC\n16 |  | PACIFIC\n23 | PACIFIC\n27 | PACIFIC\n30 | PACIFIC\n35\nPressiondeservice |  |  |  |  | 200ou300bars |  | \nDébit |  | 160 L/mn\n–\n96m3/h\n, |  | 230 L/mn\n–\n138m3/h\n, | 270 L/mn\n–\n162m3/h\n, | 300 L/mn\n–\n18m3/h | 350 L/mn\n–\n21m3/h\nSoupapedesécuritéfinale |  |  |  | 225barsou330bars |  |  | \nBloccompresseur |  | PACIFIC16 |  | PACIFIC23 | PACIFIC27 | PACIFIC32 | PACIFIC35\nNombred'étages |  |  |  | 3 |  |  | 4\nNombredebielles |  |  |  |  | 3 |  | \nPressiondu1°étage |  | 5Bars |  |  | 75Bars\n, |  | 3bars\nPressiondu2°étage |  | 55Bars |  |  | 65Bars |  | 16bars\nPressiondu3°étage |  |  |  | 225ou330bars |  |  | 80bars\nPressiondu4°étage |  |  |  |  |  |  | 225ou330\nCapacitéenhuile |  |  |  |  | 35Litres\n, |  | \nRégimederotation |  | 1350trs/mn |  | 1350trs/mn | 1550trs/mn | 1450trs/mn | 1550trs/mn\nTyped'huile |  |  |  | NARDISYNTHETICAL750+ |  |  | \nTempératuredefonctionnement |  |  |  | De+5°Cà+45°C |  |  | \nInclinaisonmaximaleducompresseur |  |  |  |  | 5° |  | \nAltitudemaximaled'utilisation |  |  |  |  | 2000mètres |  | \nPoidsdubloccompresseur |  |  |  | 47 | kg |  | 51kg\nNombredeséparateurshuile/eau |  |  |  | 2 |  |  | 3\nFiltration |  |  |  |  | PAC1** |  | \nMatériauxdesrefroidisseurs |  |  |  |  | Acierinox |  | \nAirrespirable |  |  |  | UNI EN 12021:2000 ANSI/CGA E Z180\n– – |  |  | \nTemps pour remplir un 15L à 200 bars (+/ - 5%) |  | 19' |  | 13' | 11' | 10' | 9'\nMoteur |  | Monophasé\n220volts |  |  | Triphasé | 380volts | \nVoltage |  | 230 |  |  | 230→690 |  | \nPuissance |  | 3Kw |  | 4Kw | 55Kw\n, | 55Kw\n, | 75Kw\n,\nNiveau sonore E -P/EG -PG/D/M en db |  | 74/79/85/63 |  | 75/80/85/66 | 76/79/89/70 | 75/7989/68 | 78/81/87/72\nTypedeprotection |  |  |  |  | IP54 |  | \nConsommation |  | 156A\n, |  | 87A\n, | 11A | 12A | 15A\n | **Filtrationstandard\n- |  |  |  |  |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 8,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_10_image_1.png",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 10,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_10_image_2.png",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 10,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "Volumeethauteurdelapièce |  |  |  |  | \nVolume >50 m³ - hauteur >2 ,3 m |  | Volume >100 m³ - Hauteur >3 m |  | Volume >200 m³ - Hauteur >4 m | \nEntrée(A) | Sortie(B) | Entrée(A) | Sortie(B) | Entrée(A) | Sortie(B)\n095m²\n, | 078m²\n, | 063m²\n, | 052m²\n, | 025m²\n, | 021m²\n,",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 11,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": "Distanceminimumdesmurs | \n | \nC | 010m\n,\nD | 050m\n,\nE | 100m\n,",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 11,
+      "table_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_11_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 11,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_14_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 14,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_16_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 16,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_16_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 16,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_18_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 18,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_19_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 19,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_20_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 20,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_20_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 20,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_21_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 21,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_22_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 22,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_23_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 23,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_23_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 23,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_24_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 24,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_24_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 24,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_24_image_3.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 24,
+      "image_number": 3
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_24_image_4.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 24,
+      "image_number": 4
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_25_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 25,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_25_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 25,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_25_image_3.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 25,
+      "image_number": 3
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_25_image_4.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 25,
+      "image_number": 4
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_25_image_5.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 25,
+      "image_number": 5
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_25_image_6.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 25,
+      "image_number": 6
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_25_image_7.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 25,
+      "image_number": 7
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_25_image_8.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 25,
+      "image_number": 8
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_25_image_9.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 25,
+      "image_number": 9
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODEDESCARTOUCHESDEFILTRATIONDESCOMPRESSEURSPACIFICELECTRIQUES |  |  |  |  |  |  |  |  |  | \n | PACIFIC16 |  | PACIFIC23 |  | PACIFIC28 |  | PACIFIC30 |  | PACIFIC35 | \n | 200 | 300 | 200 | 300 | 200 | 300 | 200 | 300 | 200 | 300\nPAC 01\n- | 9100 | 13500 | 6300 | 9500 | 5200 | 7800 | 4800 | 7200 | 4100 | 6200\nPAC 02\n- | 15900 | 23800 | 11000 | 16600 | 9000 | 13600 | 8400 | 12700 | 7200 | 10900\nPAC 03\n- | 23100 | 34700 | 16100 | 24100 | 13200 | 19800 | 12300 | 18500 | 10500 | 15800\n |  |  |  |  |  |  |  |  |  | \n | PACIFICMX40 |  | PACIFICMX50 |  | PACIFICMX60 |  | PACIFICMX70 |  |  | \n | 200 | 300 | 200 | 300 | 200 | 300 | 200 | 300 |  | \nPAC 03\n- | 9200 | 13800 | 7300 | 11000 | 6100 | 9200 | 5200 | 7900 |  | \nPAC 06\n- | 18400 | 27650 | 14700 | 22000 | 12200 | 18400 | 10500 | 15800 |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 26,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_26_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 26,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_26_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 26,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_26_image_3.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 26,
+      "image_number": 3
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_26_image_4.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 26,
+      "image_number": 4
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_26_image_5.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 26,
+      "image_number": 5
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_26_image_6.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 26,
+      "image_number": 6
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_27_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 27,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_27_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 27,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_27_image_3.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 27,
+      "image_number": 3
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_27_image_4.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 27,
+      "image_number": 4
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_27_image_5.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 27,
+      "image_number": 5
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_27_image_6.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 27,
+      "image_number": 6
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_27_image_7.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 27,
+      "image_number": 7
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_27_image_8.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 27,
+      "image_number": 8
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_28_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 28,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_28_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 28,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_28_image_3.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 28,
+      "image_number": 3
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_28_image_4.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 28,
+      "image_number": 4
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_28_image_5.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 28,
+      "image_number": 5
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_28_image_6.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 28,
+      "image_number": 6
+    }
+  },
+  {
+    "type": "table",
+    "content": "PROBLEME | CAUSE | REMEDE\nLecompresseurnedémarrepas | •pasdecourantélectrique | •Vérifiezlaligneélectrique\n | •fusible grillé | •Remplacezlefusiblegrillé\n | •courantélectriquetropfaible | •Vérifiezlaligneélectrique\n |  | \nProtectionthermiquedumoteur | •Consommationdecouranttropélevée | •Controllerlegroupecompresseur\n | •Réglagetropbasdelaprotectionthermique | •Corrigerleréglagedelaprotectionthermique\n |  | \nLemoteurélectriquenefonctionnepas | •Problèmes aveclecircuitélectrique | •Inverserlesphasesdumoteur\n |  | •Vérifierlesfusibles\n |  | \n |  | • Assurez-vous que le courant soit suffisant\n |  | \n |  | • Assurez-vous que le moteur soit alimenté\n |  | \n |  | \nLavitessederotationetledébitdiminuent | ' | •Assurez-vous qu'il y a assez de courant\n | •Lecourantnestpassuffisant | •Vérifierlemoteurélectrique\n |  | \n | •lacourroiepatine | •Vérifierlatensiondelacourroie\n |  | \n |  | •Remplacerlacourroie\n |  | \nLedébitd'airdiminues(sansquelavitesse | •Desraccordssontdesserrés | •Resserrerlesraccords\nderotationnediminue) | •Desjointssontusés | •Remplacerlesjoints\n | •Lefiltred'aspirationestbouché | •Remplacerounettoyerlefiltre\n | •Segmentationusée | •Remplacerlasegmentation\n | •Tuyauteried'aspirationbouchée | •Contrôlerlatuyauteried'arrivéed'air\n | •Lesclapetsfonctionnentmal | •Remplacerounettoyerlesclapets\n |  | \nLecompresseurn'atteintpassapression |  | \nmaximale | •Segmentationusée | •Remplacerlasegmentation\n | •Pistonsusés | •Remplacerlespistons\n |  | •Nettoyerlasoupapedesécurité\n | •Ouverturetropprécocedelasoupapefinale | •Controllerlacalibrationcorrectedelasoupape\n |  | •Remplacerlasoupapedesécurité\n |  | \nLasoupapedesécuritéd'unétage | •Pressiondel'étagetrophaute | •Problèmedepressiondansl'étagesuivant\nintermédiaire aunefuite | •Ouvertureprématuréedelasoupapede | •Nettoyerlasoupapedesécurité\n | sécurité | •Contrôlerlebontaragedelasoupape\n |  | •Remplacerlasoupape\n |  | \nSurchauffeducompresseur | •Mauvaissensderotation | •Inverserlesphasesdumoteur\n | •Aird'admissioninsuffisant | •Augmenterl'alimentationenairdelapièce\n | •Lesclapetsneserefermentpas | \n | correctement | •Contrôler nettoyer ou remplacer les clapets\n,\n |  | \n |  | •Températureambiantetropélevée(+45°CMax)\n |  | \nOdeurd'huiledansl'air | •Cartouchedefiltrationfinalesaturée | •Remplacerlacartouche\n |  | \nConsommationd'huileexcessive | •Segmentationusée | •Remplacerlasegmentation\n | •Pistonsusés | •Remplacerlespistons\n | •Lefiltred'aspirationestbouché | •Remplacerounettoyerlefiltre\n |  | \n |  | \nLecompresseurnes'arrêtepas | •Mauvaisréglagedelapressiond'arrêt | •Corrigerleréglage\nautomatiquement | •Soupapedesécuritédudernierétagequine | •Nettoyerlasoupape\n | fonctionnepas | •Retarerlasoupape\n |  | •Remplacerlasoupape\n |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 30,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION |  | CODE | DESCRIPTION |  | CODE | DESCRIPTION | \nPA001-005 | vilebrequin |  | PA001-025 | Roulement |  | VD008-010 | Ecrou | \nPA001-010 | Contrepoids |  | PA001-030 | Roulement |  | VR030-005 | Rondelle | \nPA001-015 | Bielleavecaxedebarbotage |  | PA001-035 | Roulement |  | VV025-005 | Circlip | \nPA001-020 | Bielle |  | VB008-030 | boulon |  | VV030-005 | circlip | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 31,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_31_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 31,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_31_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 31,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_31_image_3.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 31,
+      "image_number": 3
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nOR304-005 | Joint torique | PA001-065 | Joint spi | VB008-035 | Boulon\nPA001-044 | Vilebrequin complet avec bielles | PA001-070 | Protection de ventilateur | VD016-015 | Ecrou\nPA001-050 | Carter | PA001-080 | Ventilateur | VR016-020 | Rondelle\nPA001-055 | Couvercle de carter | VB004-020 | Boulon | VV006-010 | Axe\nPA001-060 | Joint spi | VB006-006 | Boulon | VV065-005 | Clips",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 32,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_32_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 32,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_32_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 32,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION |  | CODE | DESCRIPTION |  | CODE | DESCRIPTION | \nOR304-005 | Jointtorique |  | PA001-065 | Jointspi |  | VB008-035 | Boulon | \nPA001-045 | Vilebrequincompletavecbielles |  | PA001-081 | Poulie |  | VD016-015 | Ecrou | \nPA001-050 | Carter |  | PA001-082 | Ventilateur |  | VR016-020 | Rondelle | \nPA001-055 | Couvercledecarter |  | VB006-006 | Boulon |  | VV006-010 | Axe | \nPA001-060 | Jointspi |  | VB006-031 | Boulon |  | VV065-005 | Clips | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 33,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_33_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 33,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_33_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 33,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE |  | DESCRIPTION | CODE | DESCRIPTION\nAC006-105 | Robinetdevidange |  | PA001-105 | Bouchonavecaimant | PA003-005 | Tubedepompeàhuile\nAC008-006 | Ogivepourtube12mm |  | PA001-110 | Fenêtredeniveaud'huile | PA003-010 | Tubedepompeàhuile\nAC008-007 | Ecroupourtube12mm |  | PA001-125 | Supportderefroidisseur | VB004-020 | Boulon\nAC014-010 | Bouchon |  | PA001-126 | Supportderefroidisseur | VB004-040 | Boulon\nHR117-014 | RaccordG1/4”pourtube6mm |  | PA001-135 | Pompeàhuile | VB006-013 | Boulon\nHR120-004 | Raccord“L”G1/4”pourtube6mm |  | PA001-140 | Chambredefiltreàhuile | VB006-046 | Boulon\nHR176-002 | BouchonG1/4” |  | PA001-145 | filtreàhuile | VB010-010 | Boulon\nHR701-013 | Rondellejoint |  | PA001-150 | Bouchondechambredefiltreàhuile | VD004-010 | Ecrou\nOR022-010 | Jointtorique |  | PA001-155 | Clapetantiretourdepompeàhuile | VD010-015 | Ecrou\nOR034-005 | Jointtorique |  | PA001-200 | Raccordderemplissagehuile | VR010-005 | Rondelle\nPA001-085 | Supportdecompresseur |  | PA001-201 | bouchon |  | \nPA001-095 | Supportderefroidisseur |  | PA001-208 | Séparateurd'huile |  | \nPA001-096 | Supportderefroidisseur |  | PA001-205 | Tube |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 34,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_34_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 34,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_34_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 34,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_35_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 35,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_35_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 35,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_36_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 36,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_36_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 36,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_37_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 37,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_37_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 37,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nHR120-007 | Raccord “L” 3/8\"G pour tube 12 mm | PA002-581 | Cylindre | VB008-026 | Boulon\nHR176-002 | Bouchon1/4'' | PA002-585 | Clapet d'aspiration | VB008-036 | Boulon\nOR020-015 | Joint torique | PA002-587 | Siège de clapet | VB008-115 | Boulon\nOR053-006 | Joint torique | PA002-588 | Plaque de clapet | VD008-007 | Ecrou\nOR060-005 | Joint torique | PA002-590 | Ressort de clapet | VD008-015 | Ecrou\nOR066-005 | Joint torique | PA002-591 | Insert de clapet | VR008-006 | Rondelle\nPA002-505 | Piston guide | PA002-592 | Chambre de clapet | VR008-015 | Rondelle\nPA002-510 | Cylindre | PA002-593 | Insert de clapet | VR012-025 | Rondelle\nPA002-520 | Piston complet avec segments | PA002-594 | Chambre de clapet complète | VR029-005 | Rondelle\nPA002-521 | Piston | PA002-595 | Culasse |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_3.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 3
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_4.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 4
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_5.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 5
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_6.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 6
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_7.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 7
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_8.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 8
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_9.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 9
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_10.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 10
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_11.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 11
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_12.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 12
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_13.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 13
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_14.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 14
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_15.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 15
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_16.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 16
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_17.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 17
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_18.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 18
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_19.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 19
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_38_image_20.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "image_number": 20
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nHR120-007 | Raccord “L” 3/8\"G pour tube 12 mm | PA002-582 | Cylindre | VB008-026 | Boulon\nHR176-002 | Bouchon1/4'' | PA002-585 | Clapet d'aspiration | VB008-036 | Boulon\nOR020-015 | Joint torique | PA002-587 | Siège de clapet | VB008-115 | Boulon\nOR053-006 | Joint torique | PA002-588 | Plaque de clapet | VD008-007 | Ecrou\nOR060-005 | Joint torique | PA002-590 | Ressort de clapet | VD008-015 | Ecrou\nOR066-005 | Joint torique | PA002-591 | Insert de clapet | VR008-006 | Rondelle\nPA002-505 | Piston guide | PA002-592 | Chambre de clapet | VR008-015 | Rondelle\nPA002-510 | Cylindre | PA002-593 | Insert de clapet | VR012-025 | Rondelle\nPA002-525 | Piston complet avec segments | PA002-594 | Chambre de clapet complète | VR029-005 | Rondelle\nPA002-526 | Piston | PA002-595 | Culasse |  | \n |  |  |  |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 39,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_39_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 39,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_39_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 39,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nHR120-007 | Raccord “L” 3/8\"G pour tube 12 mm | PA002-580 | Cylindre | VB008-026 | Boulon\nHR176-002 | Bouchon1/4'' | PA002-585 | Clapet d'aspiration | VB008-036 | Boulon\nOR020-015 | Joint torique | PA002-587 | Siège de clapet | VB008-115 | Boulon\nOR053-006 | Joint torique | PA002-588 | Plaque de clapet | VD008-007 | Ecrou\nOR060-005 | Joint torique | PA002-590 | Ressort de clapet | VD008-015 | Ecrou\nOR066-005 | Joint torique | PA002-591 | Insert de clapet | VR008-006 | Rondelle\nPA002-505 | Piston guide | PA002-592 | Chambre de clapet | VR008-015 | Rondelle\nPA002-510 | Cylindre | PA002-593 | Insert de clapet | VR012-025 | Rondelle\nPA002-515 | Piston complet avec segments | PA002-594 | Chambre de clapet complète | VR029-005 | Rondelle\nPA002-516 | Piston | PA002-595 | Culasse |  | \nPA002-516 | Jeu de segments | PA110-082 | Soupape de sécurité |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 40,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_40_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 40,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_40_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 40,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT098-001 | Ressort | PA002-511 | Cylindre | PA004-676 | Joint torique\nHR117-017 | Raccord direct | PA002-607 | Jeux de segment | PA004-678 | Joint torique\nHR120-004 | Raccord “L” | PA004-610 | Piston complet avec segments | PA004-679 | Clapet Setger\nOR022-005 | Joint torique | PA004-615 | Piston | PA004-683 | Chapeau de clapet\nOR024-005 | Joint torique | PA004-619 | Chemise | PA004-685 | Clapet d'aspiration\nOR037-009 | Joint torique | PA004-625 | Cylindre | PA004-690 | Corps de clapet\nOR037-010 | Joint torique | PA004-670 | Coupleur de clapet | VB008-014 | Boulon\nOR060-005 | Joint torique | PA004-671 | Clapet d'échappement | VB008-036 | Boulon\nOR066-005 | Joint torique | PA004-671 | Chapeau de clapet | VR008-015 | Rondelle\nPA002-505 | Piston guide |  |  |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 41,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_41_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 41,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_41_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 41,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT098-001 | Ressort | PA002-511 | Cylindre | PA004-676 | Joint torique\nHR117-017 | Raccord direct | PA002-617 | Jeux de segment | PA004-678 | Joint torique\nHR120-004 | Raccord “L” | PA004-611 | Piston complet avec segments | PA004-679 | Clapet Setger\nOR022-005 | Joint torique | PA004-616 | Piston | PA004-683 | Chapeau de clapet\nOR024-005 | Joint torique | PA004-620 | Chemise | PA004-685 | Clapet d'aspiration\nOR037-009 | Joint torique | PA004-625 | Cylindre | PA004-690 | Corps de clapet\nOR037-010 | Joint torique | PA004-670 | Coupleur de clapet | VB008-014 | Boulon\nOR060-005 | Joint torique | PA004-671 | Clapet d'échappement | VB008-036 | Boulon\nOR066-005 | Joint torique | PA004-671 | Chapeau de clapet | VR008-015 | Rondelle\nPA002-505 | Piston guide |  |  |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 42,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_42_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 42,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_42_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 42,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_43_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 43,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_43_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 43,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT140-005 | Corpsderobinetdevidange | OR017-010 | Jointtorique | PA110-102 | soupapedesécuritéPN200bar\nAT140-100 | Robinetdevidangecomplet | OR053-006 | Jointtorique | PA110-103 | soupapedesécuritéPN300bar\nAT141-001 | Clapetrilsan | PA002-720 | Corpsdefiltreséparateur | VB004-021 | Boulon\nAT142-001 | Volantderobinet | PA002-721 | Filtreenbronze | VB006-051 | Boulon\nHR101-004 | Ogive | PA002-722 | Couvercle | VB008-012 | Boulon\nHR102-014 | Ecrouderaccord | PA002-723 | Couvercle | VR004-010 | Rondelle\nHR120-007 | Raccord“L”3/8\"G pourtube12mm | PA002-724 | Cartouchecomplètedefiltreséparateur | VR008-006 | Rondelle\nHR120-114 | Raccord“L”1/4\"Gpourtube6mm | PA002-725 | Têtedefiltreséparateur |  | \nHR125-141 | Corpsderaccord“T”1/4\"Gpourtube6mm | PA002-726 | Supportdefiltreséparateur |  | \nHR701-012 | IRN oO nXdellejoint | PA002-727 | Tubedeséparateur |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 44,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_44_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 44,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_44_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 44,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_45_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 45,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_45_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 45,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_46_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 46,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_46_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 46,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT140-001 | Corpsderobinetdevidange | OR011-004 | Jointtorique | PA100-113 | blocfiltre\nAT140-100 | Robinetdevidangecomplet | OR025-005 | Jointtorique | PA100-114 | Têtedeblocfiltre\nAT141-001 | Clapetrilsan | OR066-010 | Jointtorique | PA100-115 | tube\nAT142-001 | Volantderobinet | OR068-005 | Jointtorique | PA100-117 | Basedefiltre\nAT142-002 | Tube | PA100-050 | Insertdeclapet | PA100-123 | Extensiondefiltre\nHR101-004 | Ogive | PA100-051 | Pistondeclapet | PA100-149 | Clapetantiretour\nHR102-014 | Ecrouderaccord | PA100-052 | Guidederessort | PA114-047 | ConnexionINOX\nHR176-002 | Bouchon1/4’’ | PA100-053 | bouchon | PA115-116 | Ressortdeclapetantiretour\nHR701-012 | Rondelle | PA100-054 | Ecrou | PA115-119 | Pistondeclapetantiretour\nOR002-005 | Jointtorique | PA100-060 | Clapetdemaintientcomplet | VB008-012 | Boulon\nOR003-005 | Jointtorique | PA100-101 | Cartouchedefiltrationpourélectrique | VB008-070 | Boulon\nOR009-005 | Jointtorique | PA100-102 | Cartouchedefiltrationpouressence | VR006-015 | Rondellederessort\nOR009-010 | Jointtorique | PA100-110 | Supportdefiltre | VV005-015 | Sphère",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 47,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_47_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 47,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_47_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 47,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT140-001 | Corpsderobinetdevidange | OR011-004 | Jointtorique | PA100-213 | blocfiltre\nAT140-100 | Robinetdevidangecomplet | OR025-005 | Jointtorique | PA100-114 | Têtedeblocfiltre\nAT141-001 | Clapetrilsan | OR066-010 | Jointtorique | PA100-115 | tube\nAT142-001 | Volantderobinet | OR068-005 | Jointtorique | PA100-117 | Basedefiltre\nAT142-002 | Tube | PA100-050 | Insertdeclapet | PA100-123 | Extensiondefiltre\nHR101-004 | Ogive | PA100-051 | Pistondeclapet | PA100-149 | Clapetantiretour\nHR102-014 | Ecrouderaccord | PA100-052 | Guidederessort | PA114-047 | ConnexionINOX\nHR176-002 | Bouchon1/4’’ | PA100-053 | bouchon | PA115-116 | Ressortdeclapetantiretour\nHR701-012 | Rondelle | PA100-054 | Ecrou | PA115-119 | Pistondeclapetantiretour\nOR002-005 | Jointtorique | PA100-060 | Clapetdemaintientcomplet | VB008-012 | Boulon\nOR003-005 | Jointtorique | PA100-201 | Cartouchedefiltrationpourélectrique | VB008-070 | Boulon\nOR009-005 | Jointtorique | PA100-202 | Cartouchedefiltrationpouressence | VR006-015 | Rondellederessort\nOR009-010 | Jointtorique | PA100-110 | Supportdefiltre | VV005-015 | Sphere",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 48,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_48_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 48,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_48_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 48,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT140-001 | Corpsderobinetdevidange | OR011-004 | Jointtorique | PA100-313 | blocfiltre\nAT140-100 | Robinetdevidangecomplet | OR025-005 | Jointtorique | PA100-114 | Têtedeblocfiltre\nAT141-001 | Clapetrilsan | OR066-010 | Jointtorique | PA100-115 | tube\nAT142-001 | Volantderobinet | OR068-005 | Jointtorique | PA100-117 | Basedefiltre\nAT142-002 | Tube | PA100-050 | Insertdeclapet | PA100-123 | Extensiondefiltre\nHR101-004 | Ogive | PA100-051 | Pistondeclapet | PA100-149 | Clapetantiretour\nHR102-014 | Ecrouderaccord | PA100-052 | Guidederessort | PA114-047 | ConnexionINOX\nHR176-002 | Bouchon1/4’’ | PA100-053 | bouchon | PA115-116 | Ressortdeclapetantiretour\nHR701-012 | Rondelle | PA100-054 | Ecrou | PA115-119 | Pistondeclapetantiretour\nOR002-005 | Jointtorique | PA100-060 | Clapetdemaintientcomplet | VB008-012 | Boulon\nOR003-005 | Jointtorique | PA100-301 | Cartouchedefiltrationpourélectrique | VB008-070 | Boulon\nOR009-005 | Jointtorique | PA100-302 | Cartouchedefiltrationpouressence | VR006-015 | Rondellederessort\nOR009-010 | Jointtorique | PA100-110 | Supportdefiltre | VV005-015 | Sphère",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 49,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_49_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 49,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_49_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 49,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nOR007-005 | Jointtorique | PA112-015 | Corpsderobinet | PA112-032 | Ecrou\nOR010-005 | Jointtorique | PA112-022 | Guidecylindrique | PA112-034 | Volantderobinetrouge300bars\nOR011-015 | Jointtorique | PA112-023 | Insertdepistondeclapet | PA112-035 | Filtre\nPA112-003 | Robinetderemplissage300BARS | PA112-024 | Tigetournevis | PA112-901 | Kitd'entretienrobinet\nPA112-006 | Robinetderemplissage300BARSflowstop | PA112-025 | Ecrou | VV005-015 | Sphère\nPA112-008 | VolantDIN300rouge | PA112-026 | Rondelle |  | \nPA112-009 | Guidedevolant DIN | PA112-031 | Ressort |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 50,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_50_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 50,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_50_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 50,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nOR007-005 | Jointtorique | PA112-012 | Siège INT-CGA | PA112-032 | Ecrou\nOR010-005 | Jointtorique | PA112-015 | Corsderobinet | PA112-033 | Volantderobinetnoir200bars\nOR011-015 | Jointtorique | PA112-022 | Guidecylindrique | PA112-035 | Filtre\nPA112-002 | Robinetderemplissage200BAR | PA112-023 | Pistonvalveinsert | PA112-109 | Adaptateur étrier INT-CGA\nPA112-005 | Robinetderemplissag200BARflowstop | PA112-024 | Tigetournevis | PA112-901 | Kitd'entretienderobinet\nPA112-007 | VolantDIN200noir | PA112-025 | Ecrou | VV005-015 | Sphère\nPA112-009 | GuidedevolantDIN200 | PA112-026 | Rondelle |  | \nPA112-011 | Etrier INT-CGA | PA112-031 | Ressort |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 51,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_51_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 51,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_51_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 51,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION |  | CODE | DESCRIPTION |  | CODE | DESCRIPTION | \nAC011-200 | Tuberilsan |  | OR063-004 | Jointtorique |  | PA114-049 | Supportdeblocpurge | \nAC016-203 | Connexion |  | OR075-005 | Jointtorique |  | PA114-060 | Flexibleavecraccordpourcondensats | \nAC017-102 | Raccord“L” |  | PA110-010 | Ressort |  | PA116-101 | Minuterie12VoltDC | \nHR101-004 | Ogive |  | PA114-015 | Corpsdepurge |  | PA116-102 | Minuterie230VoltAC | \nHR102-014 | Ecrouderaccord |  | PA114-020 | Pistondepurge |  | PA116-105 | Clapetdepurge12VoltDC | \nHR117-031 | Raccord1/4\"G pourtube12mm |  | PA114-025 | Couvercle |  | PA116-106 | Clapetdepurge230VoltAC | \nHR175-001 | Connexion |  | PA114-030 | PistonHP |  | VB006-067 | Boulon | \nHR176-002 | Bouchon1/4\"G |  | PA114-031 | PistonLP |  | VB008-035 | Boulon | \nHR301-001 | Raccord |  | PA114-032 | Ressort |  | VV005-015 | Rondelle | \nHR339-001 | Connexion“L” |  | PA114-035 | Raccord |  | VV005-016 | Sphère | \nOR008-005 | Jointtorique |  | PA114-041 | Siège |  |  |  | \nOR011-010 | Jointtorique |  | PA114-042 | Réducteur |  |  |  | \nOR026-005 | Jointtorique |  | PA114-045 | Connexioninox |  |  |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 52,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_52_image_1.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 52,
+      "image_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "data/extracted/images/page_52_image_2.jpeg",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 52,
+      "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": " |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 53,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": "Contrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 54,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": "Contrôledesinstruments(zérodesmanomètres) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 55,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": " |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | \n |  | \n |  | \n |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | \n |  | \n |  | \n |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 56,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": " |  | \n |  | \n |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | \n |  | \n |  | \n |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | \n |  | \n |  | \n |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | \n |  | \n |  | \n |  | \nTOUTESLES500HEURESD'UTILISATIONou1FOISPAR |  | \n | DATE | SIGNATUREDUTECHNICIEN\nAN |  | \n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \n |  | \nInspectionetremplacementdufiltredudernierfiltre |  | \nséparateur\n. |  | \n |  | \nVidange |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 57,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": " |  | \n |  | \n |  | \n |  | \n |  | \nContrôledutaragedelasoupapedesécurité |  | \n |  | \n |  | \nTOUTESLES500HEURESD'UTILISATIONou1FOISPAR |  | \n | DATE | SIGNATUREDUTECHNICIEN\nAN |  | \n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \n |  | \nInspectionetremplacementdufiltredudernierfiltre |  | \nséparateur\n. |  | \n |  | \n |  | \n |  | \nVidange |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nContrôledutaragedelasoupapedesécurité |  | \n |  | \n |  | \n |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 58,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": " |  | \nCHAQUE1000HEURESD'UTILISATION\n, | DATE | SIGNATUREDUTECHNICIEN\n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \n |  | \nRemplacementdesclapets |  | \n |  | \n |  | \nCHAQUE1000HEURESD'UTILISATION\n, | DATE | SIGNATUREDUTECHNICIEN\n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \n |  | \nRemplacementdesclapets |  | \n |  | \n |  | \nCHAQUE1000HEURESD'UTILISATION\n, | DATE | SIGNATUREDUTECHNICIEN\n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \nRemplacementdesclapets |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 58,
+      "table_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": " |  | \n |  | \n |  | \nTOUSLESANSOUALADEMANDE | DATE | SIGNATUREDUTECHNICIEN\n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \n |  | \nAnalysedel'air |  | \n |  | \n |  | \nVidangedel'huile |  | \n |  | \n |  | \nVérificationduréglagedupanneaudecontrôleetde |  | \n |  | \nsoupapedesécurité |  | \n |  | \n |  | \n |  | \nAPRESTOUTEREPARATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \nContrôledesrobinetsdegonflage |  | \n |  | \n |  | \nNettoyagedufiltreàair |  | \n |  | \n |  | \nContrôledestuyauxetduserragedesrefroidisseurs |  | \n |  | \n |  | \nAPRESUNELONGUEPERIODED'INACTIVITE | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \nContrôledesrobinetsdegonflage |  | \n |  | \n |  | \nNettoyagedufiltreàair |  | \n |  | \n |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | ",
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 59,
+      "table_number": 1
+    }
+  }
+]

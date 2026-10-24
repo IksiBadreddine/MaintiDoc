@@ -1,0 +1,9 @@
+{
+  "type": "table",
+  "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nHR120-007 | Raccord “L” 3/8\"G pour tube 12 mm | PA002-582 | Cylindre | VB008-026 | Boulon\nHR176-002 | Bouchon1/4'' | PA002-585 | Clapet d'aspiration | VB008-036 | Boulon\nOR020-015 | Joint torique | PA002-587 | Siège de clapet | VB008-115 | Boulon\nOR053-006 | Joint torique | PA002-588 | Plaque de clapet | VD008-007 | Ecrou\nOR060-005 | Joint torique | PA002-590 | Ressort de clapet | VD008-015 | Ecrou\nOR066-005 | Joint torique | PA002-591 | Insert de clapet | VR008-006 | Rondelle\nPA002-505 | Piston guide | PA002-592 | Chambre de clapet | VR008-015 | Rondelle\nPA002-510 | Cylindre | PA002-593 | Insert de clapet | VR012-025 | Rondelle\nPA002-525 | Piston complet avec segments | PA002-594 | Chambre de clapet complète | VR029-005 | Rondelle\nPA002-526 | Piston | PA002-595 | Culasse |  | \n |  |  |  |  | ",
+  "metadata": {
+    "source": "maintenance_machine.pdf",
+    "page": 39,
+    "table_number": 1
+  }
+}

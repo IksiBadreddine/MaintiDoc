@@ -1,0 +1,9 @@
+{
+  "type": "table",
+  "content": "CODE | DESCRIPTION |  | CODE | DESCRIPTION |  | CODE | DESCRIPTION | \nAC011-200 | Tuberilsan |  | OR063-004 | Jointtorique |  | PA114-049 | Supportdeblocpurge | \nAC016-203 | Connexion |  | OR075-005 | Jointtorique |  | PA114-060 | Flexibleavecraccordpourcondensats | \nAC017-102 | Raccord“L” |  | PA110-010 | Ressort |  | PA116-101 | Minuterie12VoltDC | \nHR101-004 | Ogive |  | PA114-015 | Corpsdepurge |  | PA116-102 | Minuterie230VoltAC | \nHR102-014 | Ecrouderaccord |  | PA114-020 | Pistondepurge |  | PA116-105 | Clapetdepurge12VoltDC | \nHR117-031 | Raccord1/4\"G pourtube12mm |  | PA114-025 | Couvercle |  | PA116-106 | Clapetdepurge230VoltAC | \nHR175-001 | Connexion |  | PA114-030 | PistonHP |  | VB006-067 | Boulon | \nHR176-002 | Bouchon1/4\"G |  | PA114-031 | PistonLP |  | VB008-035 | Boulon | \nHR301-001 | Raccord |  | PA114-032 | Ressort |  | VV005-015 | Rondelle | \nHR339-001 | Connexion“L” |  | PA114-035 | Raccord |  | VV005-016 | Sphère | \nOR008-005 | Jointtorique |  | PA114-041 | Siège |  |  |  | \nOR011-010 | Jointtorique |  | PA114-042 | Réducteur |  |  |  | \nOR026-005 | Jointtorique |  | PA114-045 | Connexioninox |  |  |  | ",
+  "metadata": {
+    "source": "maintenance_machine.pdf",
+    "page": 52,
+    "table_number": 1
+  }
+}

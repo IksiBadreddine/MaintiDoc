@@ -1,0 +1,9 @@
+{
+  "type": "table",
+  "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT098-001 | Ressort | PA002-511 | Cylindre | PA004-676 | Joint torique\nHR117-017 | Raccord direct | PA002-607 | Jeux de segment | PA004-678 | Joint torique\nHR120-004 | Raccord “L” | PA004-610 | Piston complet avec segments | PA004-679 | Clapet Setger\nOR022-005 | Joint torique | PA004-615 | Piston | PA004-683 | Chapeau de clapet\nOR024-005 | Joint torique | PA004-619 | Chemise | PA004-685 | Clapet d'aspiration\nOR037-009 | Joint torique | PA004-625 | Cylindre | PA004-690 | Corps de clapet\nOR037-010 | Joint torique | PA004-670 | Coupleur de clapet | VB008-014 | Boulon\nOR060-005 | Joint torique | PA004-671 | Clapet d'échappement | VB008-036 | Boulon\nOR066-005 | Joint torique | PA004-671 | Chapeau de clapet | VR008-015 | Rondelle\nPA002-505 | Piston guide |  |  |  | ",
+  "metadata": {
+    "source": "maintenance_machine.pdf",
+    "page": 41,
+    "table_number": 1
+  }
+}

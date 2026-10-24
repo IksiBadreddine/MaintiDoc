@@ -1,0 +1,9 @@
+{
+  "type": "table",
+  "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nOR007-005 | Jointtorique | PA112-015 | Corpsderobinet | PA112-032 | Ecrou\nOR010-005 | Jointtorique | PA112-022 | Guidecylindrique | PA112-034 | Volantderobinetrouge300bars\nOR011-015 | Jointtorique | PA112-023 | Insertdepistondeclapet | PA112-035 | Filtre\nPA112-003 | Robinetderemplissage300BARS | PA112-024 | Tigetournevis | PA112-901 | Kitd'entretienrobinet\nPA112-006 | Robinetderemplissage300BARSflowstop | PA112-025 | Ecrou | VV005-015 | Sphère\nPA112-008 | VolantDIN300rouge | PA112-026 | Rondelle |  | \nPA112-009 | Guidedevolant DIN | PA112-031 | Ressort |  | ",
+  "metadata": {
+    "source": "maintenance_machine.pdf",
+    "page": 50,
+    "table_number": 1
+  }
+}
