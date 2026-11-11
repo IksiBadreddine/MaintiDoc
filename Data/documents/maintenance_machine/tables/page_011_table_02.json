@@ -1,6 +1,28 @@
 {
   "type": "table",
   "content": "Distanceminimumdesmurs | \n | \nC | 010m\n,\nD | 050m\n,\nE | 100m\n,",
+  "rows": [
+    [
+      "Distanceminimumdesmurs",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "C",
+      "010m\n,"
+    ],
+    [
+      "D",
+      "050m\n,"
+    ],
+    [
+      "E",
+      "100m\n,"
+    ]
+  ],
   "metadata": {
     "source": "maintenance_machine.pdf",
     "page": 11,

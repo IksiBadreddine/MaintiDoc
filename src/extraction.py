@@ -1,196 +1,76 @@
-
-from pathlib import Path
-from collections import Counter
+"""Extraction du PDF. Utiliser --rebuild pour nettoyer les anciens artefacts du document."""
+import argparse
 import json
 import shutil
+from collections import Counter
+from pathlib import Path
 
 import pymupdf
 from llama_index.core import SimpleDirectoryReader
+from config import PDF_PATH, DOCUMENT_DIR, MANIFEST_PATH
 
 
-# ==================================================
-# 1. CONFIGURATION
-# ==================================================
-
-BASE_DIR = Path(__file__).resolve().parent.parent
-
-PDF_PATH = BASE_DIR / "data" / "maintenance_machine.pdf"
-DOCUMENT_NAME = PDF_PATH.stem
-
-DOCUMENT_DIR = BASE_DIR / "data" / "documents" / DOCUMENT_NAME
-ORIGINAL_DIR = DOCUMENT_DIR / "original"
-TEXT_DIR = DOCUMENT_DIR / "text"
-TABLES_DIR = DOCUMENT_DIR / "tables"
-IMAGES_DIR = DOCUMENT_DIR / "images"
-PROCESSED_DIR = DOCUMENT_DIR / "processed"
-
-for directory in [
-    ORIGINAL_DIR,
-    TEXT_DIR,
-    TABLES_DIR,
-    IMAGES_DIR,
-    PROCESSED_DIR,
-]:
-    directory.mkdir(parents=True, exist_ok=True)
-
-# Conserver une copie du PDF original
-original_pdf = ORIGINAL_DIR / PDF_PATH.name
-
-if not original_pdf.exists():
-    shutil.copy2(PDF_PATH, original_pdf)
+def write_json(path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
 
 
-# ==================================================
-# 2. EXTRACTION DU TEXTE
-# ==================================================
+def main(rebuild=False):
+    if not PDF_PATH.is_file():
+        raise FileNotFoundError(f'PDF introuvable : {PDF_PATH}')
+    # Ne jamais effacer le PDF d'entrée, ni la base ChromaDB ici.
+    if rebuild:
+        for name in ('text', 'tables', 'images', 'processed'):
+            shutil.rmtree(DOCUMENT_DIR / name, ignore_errors=True)
+    original = DOCUMENT_DIR / 'original' / PDF_PATH.name
+    original.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(PDF_PATH, original)  # actualiser la copie, même si le PDF a changé
 
-print("1. Extraction du texte...")
+    elements = []
+    text_dir = DOCUMENT_DIR / 'text'
+    table_dir = DOCUMENT_DIR / 'tables'
+    image_dir = DOCUMENT_DIR / 'images'
+    for doc in SimpleDirectoryReader(input_files=[str(PDF_PATH)]).load_data():
+        page = int(doc.metadata['page_label'])
+        content = doc.text.strip()
+        if not content:
+            continue
+        item = {'type': 'text', 'content': content,
+                'metadata': {'source': PDF_PATH.name, 'page': page}}
+        elements.append(item)
+        write_json(text_dir / f'page_{page:03d}.json', item)
 
-documents = SimpleDirectoryReader(
-    input_files=[str(PDF_PATH)]
-).load_data()
+    with pymupdf.open(PDF_PATH) as pdf:
+        for page_number, page in enumerate(pdf, 1):
+            for table_number, table in enumerate(page.find_tables().tables, 1):
+                rows = [[str(c).strip() if c is not None else '' for c in row]
+                        for row in table.extract()]
+                content = '\n'.join(' | '.join(row) for row in rows)
+                if not content.strip():
+                    continue
+                item = {'type': 'table', 'content': content, 'rows': rows,
+                        'metadata': {'source': PDF_PATH.name, 'page': page_number,
+                                     'table_number': table_number}}
+                elements.append(item)
+                write_json(table_dir / f'page_{page_number:03d}_table_{table_number:02d}.json', item)
+            for image_number, info in enumerate(page.get_images(full=True), 1):
+                extracted = pdf.extract_image(info[0])
+                if not extracted or not extracted.get('image'):
+                    continue
+                filename = f'page_{page_number:03d}_image_{image_number:02d}.{extracted["ext"]}'
+                image_dir.mkdir(parents=True, exist_ok=True)
+                (image_dir / filename).write_bytes(extracted['image'])
+                elements.append({'type': 'image', 'content': f'images/{filename}',
+                                 'metadata': {'source': PDF_PATH.name, 'page': page_number,
+                                              'image_number': image_number}})
 
-text_elements = []
-
-for document in documents:
-    page_number = int(document.metadata["page_label"])
-    content = document.text.strip()
-
-    if not content:
-        continue
-
-    element = {
-        "type": "text",
-        "content": content,
-        "metadata": {
-            "source": PDF_PATH.name,
-            "page": page_number,
-        },
-    }
-
-    text_elements.append(element)
-
-    # Un fichier JSON par page
-    output_file = TEXT_DIR / f"page_{page_number:03d}.json"
-
-    with output_file.open("w", encoding="utf-8") as file:
-        json.dump(element, file, ensure_ascii=False, indent=2)
-
-
-# ==================================================
-# 3. EXTRACTION DES TABLEAUX ET DES IMAGES
-# ==================================================
-
-print("2. Extraction des tableaux et des images...")
-
-pdf = pymupdf.open(PDF_PATH)
-
-table_elements = []
-image_elements = []
-
-total_images = 0
-
-try:
-    for page_number, page in enumerate(pdf, start=1):
-
-        # ---------- TABLEAUX ----------
-        tables = page.find_tables()
-
-        for table_number, table in enumerate(
-            tables.tables, start=1
-        ):
-            rows = table.extract()
-
-            table_text = "\n".join(
-                " | ".join(
-                    str(cell).strip() if cell is not None else ""
-                    for cell in row
-                )
-                for row in rows
-            )
-
-            if not table_text.strip():
-                continue
-
-            element = {
-                "type": "table",
-                "content": table_text,
-                "metadata": {
-                    "source": PDF_PATH.name,
-                    "page": page_number,
-                    "table_number": table_number,
-                },
-            }
-
-            table_elements.append(element)
-
-            output_file = (
-                TABLES_DIR
-                / f"page_{page_number:03d}_table_{table_number:02d}.json"
-            )
-
-            with output_file.open("w", encoding="utf-8") as file:
-                json.dump(element, file, ensure_ascii=False, indent=2)
-
-        # ---------- IMAGES ----------
-        for image_number, image_info in enumerate(
-            page.get_images(full=True), start=1
-        ):
-            xref = image_info[0]
-            image_data = pdf.extract_image(xref)
-
-            image_filename = (
-                f"page_{page_number:03d}_image_{image_number:02d}."
-                f"{image_data['ext']}"
-            )
-
-            image_path = IMAGES_DIR / image_filename
-            image_path.write_bytes(image_data["image"])
-
-            image_elements.append({
-                "type": "image",
-                "content": str(image_path.relative_to(DOCUMENT_DIR)),
-                "metadata": {
-                    "source": PDF_PATH.name,
-                    "page": page_number,
-                    "image_number": image_number,
-                },
-            })
-
-            total_images += 1
-
-finally:
-    pdf.close()
+    write_json(MANIFEST_PATH, elements)
+    counts = Counter(e['type'] for e in elements)
+    print(f'Manifeste : {MANIFEST_PATH}\nÉléments : {len(elements)} ; répartition : {dict(counts)}')
+    print('Attention : les tableaux sont aussi susceptibles de figurer dans le texte des pages.')
 
 
-# ==================================================
-# 4. CORPUS UNIFIÉ POUR LE TRAITEMENT SUIVANT
-# ==================================================
-
-print("3. Création du manifeste unifié...")
-
-all_elements = text_elements + table_elements + image_elements
-
-manifest_path = PROCESSED_DIR / "extracted_data.json"
-
-with manifest_path.open("w", encoding="utf-8") as file:
-    json.dump(all_elements, file, ensure_ascii=False, indent=2)
-
-
-# ==================================================
-# 5. RÉSUMÉ
-# ==================================================
-
-counts = Counter(element["type"] for element in all_elements)
-
-print("\n--- Résultat de l'extraction ---")
-print(f"Pages de texte : {len(text_elements)}")
-print(f"Tableaux extraits : {len(table_elements)}")
-print(f"Images extraites : {total_images}")
-print(f"Nombre total d'éléments : {len(all_elements)}")
-print(f"Répartition : {dict(counts)}")
-print(f"\nDossier du document : {DOCUMENT_DIR}")
-print(f"Texte : {TEXT_DIR}")
-print(f"Tableaux : {TABLES_DIR}")
-print(f"Images : {IMAGES_DIR}")
-print(f"Manifeste : {manifest_path}")
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--rebuild', action='store_true', help='Nettoyer les sorties de ce PDF avant extraction')
+    main(parser.parse_args().rebuild)

@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": 1,
+    "question": "Quelles sont les causes possibles si le compresseur ne démarre pas ?",
+    "expected_pages": [30],
+    "category": "dysfonctionnement"
+  },
+  {
+    "id": 2,
+    "question": "Quelles sont les étapes pour effectuer la vidange de l'huile ?",
+    "expected_pages": [16],
+    "category": "maintenance"
+  },
+  {
+    "id": 3,
+    "question": "À quelle fréquence les purges automatiques se déclenchent-elles ?",
+    "expected_pages": [23],
+    "category": "fonctionnement"
+  }
+]

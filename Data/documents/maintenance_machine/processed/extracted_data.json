@@ -472,285 +472,6 @@
     }
   },
   {
-    "type": "table",
-    "content": "1 | INFORMATION DEBASE | page 05\n101\n. | Explicationdesicônes | page05\n102\n. | Précautions | page05\n103\n. | BrèveIntroduction | page05\n104\n. | Descriptiondubloccompresseur | page06\n105\n. | DescriptionduPACIFIC(Airrespirable) | page07\n106\n. | DonnéestechniquesPACIFIC | page08\n2 | REGLESDESECURITEPOUR L'UTILISATION | page 09\n201\n. | Identificationdesrèglesdesécuritépourlesutilisateurs | page09\n202\n. | Règlesdesécuritépourlesutilisateursetlabonneutilisationducompresseur | page09\n203\n. | Règlesessentiellesconcernantlasécurité | page09\n204\n. | Règlesgénéralesconcernantlasécurité | page10\n3 | GARANTIEETASSISTANCE | page 10\n301\n. | Garantieducompresseur | page10\n302\n. | EntretienetAssistance | page10\n4 | INSTALLATION | page 11\n401\n. | Déballageetpriseenmain | page11\n402\n. | Installationàl'airlibre | page11\n403\n. | Installationdansunepièceferméeetcaractéristiquesrequisespourlapièce | page11\n404\n. | Pièceavecventilationartificielle | page12\n405\n. | Conduitd'arrivéed'air | page12\n406\n. | Alimentationélectrique | page12\n5 | GUIDEDEDEMARRAGERAPIDE | page 13\n |  | \n6 | OPERATION ETUTILISATION | page 14\n601\n. | Préparation audémarrageducompresseur | page14\n602\n. | Démarrageducompresseur | page14\n603\n. | Utilisationdesvannesdesflexiblesdegonflage | page14",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 3,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "7 ENTRETIEN ETREPARATION | page 15 | \n701 Opérationsd'entretien\n. | page15 | \n702 Systèmedelubrification\n. | page15 | \n703 Huile\n. | page15 | \n704 Vidangedel'huile\n. | page | 16\n705 ChangementdeTyped'huile\n. | page16 | \n706 Remplacementdufiltreàhuile\n. | page | 16\n707 Alarmedeniveaud'huile\n. | page | 17\n708 Remplacementdufiltreàair\n. | page17 | \n709 Entretiendesséparateursintermédiaires\n. | page | 17\n710 Cartouchedefiltrationpourl'airrespirable\n. | page18 | \n711 Cartouchedefiltrationàcharbonactif\n. | page18 | \n7 .12 Tableau de la durée de vie des différentes cartouches pour P27 – PAC FILTER 1 , 2 et 3 | page19 | \n713 Soupapedemaintiendepression\n. | page20 | \n714 Culassesetclapets\n. | page20 | \n715 Nettoyageduclapet 1°étage\n. | page | 20\n716 Remplacementduclapet2°étage(compresseurà4étages)\n. | page21 | \n717 Remplacementduclapet2°étage(compresseurà3étages)ou3°étage(compresseurà\n. | 4étages)page | 21\n718 Remplacementduclapet dudernierétage\n. | page | 22\n719 Soupapesdesécurité\n. | page22 | \n720 Flexiblesdegonflage\n. | page22 | \n721 Purgeautomatiquedescondensats\n. | page23 | \n722 Systèmed'arrêtautomatique\n. | page23 | \n723 Descriptionetutilisationdupanneaudecontrôleélectronique\n. . | page24 | \n724 Alarmesetactions\n. | page29 | \n725 Dispositionsspécialespourl'éliminationdesdéchets\n. | page29 | \n726 Dysfonctionnement\n. | page30 | \n8 PIECES DETACHEES | page 31 | \nVueséclatésduvilebrequinetdesbielles | page31 | \nVueséclatésducarteretventilateur | page32 | \nVueséclatésducarteretventilateursérie\"M\" | page33 | \nVueséclatéscarteravecsesaccessoires | page34 | \nVueséclatésdu1°étage P16 | page35 | \nVueséclatésdu1°étage P23/27/32 | page36 | \nVueséclatésdu1°étage P35 | page37 | \nVueséclatésdu2°étage P16/23/27 | page38 | \nVueséclatésdu2°étage P32 | page39 | \nVueséclatésdu3°étage P35 | page40 | \nVueséclatésdudernierétageP16/23/27/35 | page41 | \nVueséclatésdudernierétageP32 | page42 | \nVueséclatésdufiltreséparateur | page43 | \nVueséclatésdufiltreséparateur | page44 | \nVueséclatésdusystèmederefroidissementP16/23/27/30 | page45 | \nVueséclatésdusystèmederefroidissementP35 | page46 | \nVueséclatésblocfiltrePACFILTER1 | page47 | \nVueséclatésblocfiltrePACFILTER2 | page48 | \nVueséclatésblocfiltrePACFILTER3 | page49 | \nVueséclatésdurobinetdegonflage300Bar | page50 | \nVueséclatésdurobinetdegonflage200Bar | page51 | \nVueséclatésdusystèmedepurgeautomatique | page52 | \n9 CARNETD'ENTRETIEN | page 53 | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 4,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "Description |  | PACIFIC\n16 |  | PACIFIC\n23 | PACIFIC\n27 | PACIFIC\n30 | PACIFIC\n35\nPressiondeservice |  |  |  |  | 200ou300bars |  | \nDébit |  | 160 L/mn\n–\n96m3/h\n, |  | 230 L/mn\n–\n138m3/h\n, | 270 L/mn\n–\n162m3/h\n, | 300 L/mn\n–\n18m3/h | 350 L/mn\n–\n21m3/h\nSoupapedesécuritéfinale |  |  |  | 225barsou330bars |  |  | \nBloccompresseur |  | PACIFIC16 |  | PACIFIC23 | PACIFIC27 | PACIFIC32 | PACIFIC35\nNombred'étages |  |  |  | 3 |  |  | 4\nNombredebielles |  |  |  |  | 3 |  | \nPressiondu1°étage |  | 5Bars |  |  | 75Bars\n, |  | 3bars\nPressiondu2°étage |  | 55Bars |  |  | 65Bars |  | 16bars\nPressiondu3°étage |  |  |  | 225ou330bars |  |  | 80bars\nPressiondu4°étage |  |  |  |  |  |  | 225ou330\nCapacitéenhuile |  |  |  |  | 35Litres\n, |  | \nRégimederotation |  | 1350trs/mn |  | 1350trs/mn | 1550trs/mn | 1450trs/mn | 1550trs/mn\nTyped'huile |  |  |  | NARDISYNTHETICAL750+ |  |  | \nTempératuredefonctionnement |  |  |  | De+5°Cà+45°C |  |  | \nInclinaisonmaximaleducompresseur |  |  |  |  | 5° |  | \nAltitudemaximaled'utilisation |  |  |  |  | 2000mètres |  | \nPoidsdubloccompresseur |  |  |  | 47 | kg |  | 51kg\nNombredeséparateurshuile/eau |  |  |  | 2 |  |  | 3\nFiltration |  |  |  |  | PAC1** |  | \nMatériauxdesrefroidisseurs |  |  |  |  | Acierinox |  | \nAirrespirable |  |  |  | UNI EN 12021:2000 ANSI/CGA E Z180\n– – |  |  | \nTemps pour remplir un 15L à 200 bars (+/ - 5%) |  | 19' |  | 13' | 11' | 10' | 9'\nMoteur |  | Monophasé\n220volts |  |  | Triphasé | 380volts | \nVoltage |  | 230 |  |  | 230→690 |  | \nPuissance |  | 3Kw |  | 4Kw | 55Kw\n, | 55Kw\n, | 75Kw\n,\nNiveau sonore E -P/EG -PG/D/M en db |  | 74/79/85/63 |  | 75/80/85/66 | 76/79/89/70 | 75/7989/68 | 78/81/87/72\nTypedeprotection |  |  |  |  | IP54 |  | \nConsommation |  | 156A\n, |  | 87A\n, | 11A | 12A | 15A\n | **Filtrationstandard\n- |  |  |  |  |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 8,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "Volumeethauteurdelapièce |  |  |  |  | \nVolume >50 m³ - hauteur >2 ,3 m |  | Volume >100 m³ - Hauteur >3 m |  | Volume >200 m³ - Hauteur >4 m | \nEntrée(A) | Sortie(B) | Entrée(A) | Sortie(B) | Entrée(A) | Sortie(B)\n095m²\n, | 078m²\n, | 063m²\n, | 052m²\n, | 025m²\n, | 021m²\n,",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 11,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "Distanceminimumdesmurs | \n | \nC | 010m\n,\nD | 050m\n,\nE | 100m\n,",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 11,
-      "table_number": 2
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODEDESCARTOUCHESDEFILTRATIONDESCOMPRESSEURSPACIFICELECTRIQUES |  |  |  |  |  |  |  |  |  | \n | PACIFIC16 |  | PACIFIC23 |  | PACIFIC28 |  | PACIFIC30 |  | PACIFIC35 | \n | 200 | 300 | 200 | 300 | 200 | 300 | 200 | 300 | 200 | 300\nPAC 01\n- | 9100 | 13500 | 6300 | 9500 | 5200 | 7800 | 4800 | 7200 | 4100 | 6200\nPAC 02\n- | 15900 | 23800 | 11000 | 16600 | 9000 | 13600 | 8400 | 12700 | 7200 | 10900\nPAC 03\n- | 23100 | 34700 | 16100 | 24100 | 13200 | 19800 | 12300 | 18500 | 10500 | 15800\n |  |  |  |  |  |  |  |  |  | \n | PACIFICMX40 |  | PACIFICMX50 |  | PACIFICMX60 |  | PACIFICMX70 |  |  | \n | 200 | 300 | 200 | 300 | 200 | 300 | 200 | 300 |  | \nPAC 03\n- | 9200 | 13800 | 7300 | 11000 | 6100 | 9200 | 5200 | 7900 |  | \nPAC 06\n- | 18400 | 27650 | 14700 | 22000 | 12200 | 18400 | 10500 | 15800 |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 26,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "PROBLEME | CAUSE | REMEDE\nLecompresseurnedémarrepas | •pasdecourantélectrique | •Vérifiezlaligneélectrique\n | •fusible grillé | •Remplacezlefusiblegrillé\n | •courantélectriquetropfaible | •Vérifiezlaligneélectrique\n |  | \nProtectionthermiquedumoteur | •Consommationdecouranttropélevée | •Controllerlegroupecompresseur\n | •Réglagetropbasdelaprotectionthermique | •Corrigerleréglagedelaprotectionthermique\n |  | \nLemoteurélectriquenefonctionnepas | •Problèmes aveclecircuitélectrique | •Inverserlesphasesdumoteur\n |  | •Vérifierlesfusibles\n |  | \n |  | • Assurez-vous que le courant soit suffisant\n |  | \n |  | • Assurez-vous que le moteur soit alimenté\n |  | \n |  | \nLavitessederotationetledébitdiminuent | ' | •Assurez-vous qu'il y a assez de courant\n | •Lecourantnestpassuffisant | •Vérifierlemoteurélectrique\n |  | \n | •lacourroiepatine | •Vérifierlatensiondelacourroie\n |  | \n |  | •Remplacerlacourroie\n |  | \nLedébitd'airdiminues(sansquelavitesse | •Desraccordssontdesserrés | •Resserrerlesraccords\nderotationnediminue) | •Desjointssontusés | •Remplacerlesjoints\n | •Lefiltred'aspirationestbouché | •Remplacerounettoyerlefiltre\n | •Segmentationusée | •Remplacerlasegmentation\n | •Tuyauteried'aspirationbouchée | •Contrôlerlatuyauteried'arrivéed'air\n | •Lesclapetsfonctionnentmal | •Remplacerounettoyerlesclapets\n |  | \nLecompresseurn'atteintpassapression |  | \nmaximale | •Segmentationusée | •Remplacerlasegmentation\n | •Pistonsusés | •Remplacerlespistons\n |  | •Nettoyerlasoupapedesécurité\n | •Ouverturetropprécocedelasoupapefinale | •Controllerlacalibrationcorrectedelasoupape\n |  | •Remplacerlasoupapedesécurité\n |  | \nLasoupapedesécuritéd'unétage | •Pressiondel'étagetrophaute | •Problèmedepressiondansl'étagesuivant\nintermédiaire aunefuite | •Ouvertureprématuréedelasoupapede | •Nettoyerlasoupapedesécurité\n | sécurité | •Contrôlerlebontaragedelasoupape\n |  | •Remplacerlasoupape\n |  | \nSurchauffeducompresseur | •Mauvaissensderotation | •Inverserlesphasesdumoteur\n | •Aird'admissioninsuffisant | •Augmenterl'alimentationenairdelapièce\n | •Lesclapetsneserefermentpas | \n | correctement | •Contrôler nettoyer ou remplacer les clapets\n,\n |  | \n |  | •Températureambiantetropélevée(+45°CMax)\n |  | \nOdeurd'huiledansl'air | •Cartouchedefiltrationfinalesaturée | •Remplacerlacartouche\n |  | \nConsommationd'huileexcessive | •Segmentationusée | •Remplacerlasegmentation\n | •Pistonsusés | •Remplacerlespistons\n | •Lefiltred'aspirationestbouché | •Remplacerounettoyerlefiltre\n |  | \n |  | \nLecompresseurnes'arrêtepas | •Mauvaisréglagedelapressiond'arrêt | •Corrigerleréglage\nautomatiquement | •Soupapedesécuritédudernierétagequine | •Nettoyerlasoupape\n | fonctionnepas | •Retarerlasoupape\n |  | •Remplacerlasoupape\n |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 30,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODE | DESCRIPTION |  | CODE | DESCRIPTION |  | CODE | DESCRIPTION | \nPA001-005 | vilebrequin |  | PA001-025 | Roulement |  | VD008-010 | Ecrou | \nPA001-010 | Contrepoids |  | PA001-030 | Roulement |  | VR030-005 | Rondelle | \nPA001-015 | Bielleavecaxedebarbotage |  | PA001-035 | Roulement |  | VV025-005 | Circlip | \nPA001-020 | Bielle |  | VB008-030 | boulon |  | VV030-005 | circlip | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 31,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nOR304-005 | Joint torique | PA001-065 | Joint spi | VB008-035 | Boulon\nPA001-044 | Vilebrequin complet avec bielles | PA001-070 | Protection de ventilateur | VD016-015 | Ecrou\nPA001-050 | Carter | PA001-080 | Ventilateur | VR016-020 | Rondelle\nPA001-055 | Couvercle de carter | VB004-020 | Boulon | VV006-010 | Axe\nPA001-060 | Joint spi | VB006-006 | Boulon | VV065-005 | Clips",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 32,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODE | DESCRIPTION |  | CODE | DESCRIPTION |  | CODE | DESCRIPTION | \nOR304-005 | Jointtorique |  | PA001-065 | Jointspi |  | VB008-035 | Boulon | \nPA001-045 | Vilebrequincompletavecbielles |  | PA001-081 | Poulie |  | VD016-015 | Ecrou | \nPA001-050 | Carter |  | PA001-082 | Ventilateur |  | VR016-020 | Rondelle | \nPA001-055 | Couvercledecarter |  | VB006-006 | Boulon |  | VV006-010 | Axe | \nPA001-060 | Jointspi |  | VB006-031 | Boulon |  | VV065-005 | Clips | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 33,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODE | DESCRIPTION | CODE |  | DESCRIPTION | CODE | DESCRIPTION\nAC006-105 | Robinetdevidange |  | PA001-105 | Bouchonavecaimant | PA003-005 | Tubedepompeàhuile\nAC008-006 | Ogivepourtube12mm |  | PA001-110 | Fenêtredeniveaud'huile | PA003-010 | Tubedepompeàhuile\nAC008-007 | Ecroupourtube12mm |  | PA001-125 | Supportderefroidisseur | VB004-020 | Boulon\nAC014-010 | Bouchon |  | PA001-126 | Supportderefroidisseur | VB004-040 | Boulon\nHR117-014 | RaccordG1/4”pourtube6mm |  | PA001-135 | Pompeàhuile | VB006-013 | Boulon\nHR120-004 | Raccord“L”G1/4”pourtube6mm |  | PA001-140 | Chambredefiltreàhuile | VB006-046 | Boulon\nHR176-002 | BouchonG1/4” |  | PA001-145 | filtreàhuile | VB010-010 | Boulon\nHR701-013 | Rondellejoint |  | PA001-150 | Bouchondechambredefiltreàhuile | VD004-010 | Ecrou\nOR022-010 | Jointtorique |  | PA001-155 | Clapetantiretourdepompeàhuile | VD010-015 | Ecrou\nOR034-005 | Jointtorique |  | PA001-200 | Raccordderemplissagehuile | VR010-005 | Rondelle\nPA001-085 | Supportdecompresseur |  | PA001-201 | bouchon |  | \nPA001-095 | Supportderefroidisseur |  | PA001-208 | Séparateurd'huile |  | \nPA001-096 | Supportderefroidisseur |  | PA001-205 | Tube |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 34,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nHR120-007 | Raccord “L” 3/8\"G pour tube 12 mm | PA002-581 | Cylindre | VB008-026 | Boulon\nHR176-002 | Bouchon1/4'' | PA002-585 | Clapet d'aspiration | VB008-036 | Boulon\nOR020-015 | Joint torique | PA002-587 | Siège de clapet | VB008-115 | Boulon\nOR053-006 | Joint torique | PA002-588 | Plaque de clapet | VD008-007 | Ecrou\nOR060-005 | Joint torique | PA002-590 | Ressort de clapet | VD008-015 | Ecrou\nOR066-005 | Joint torique | PA002-591 | Insert de clapet | VR008-006 | Rondelle\nPA002-505 | Piston guide | PA002-592 | Chambre de clapet | VR008-015 | Rondelle\nPA002-510 | Cylindre | PA002-593 | Insert de clapet | VR012-025 | Rondelle\nPA002-520 | Piston complet avec segments | PA002-594 | Chambre de clapet complète | VR029-005 | Rondelle\nPA002-521 | Piston | PA002-595 | Culasse |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 38,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nHR120-007 | Raccord “L” 3/8\"G pour tube 12 mm | PA002-582 | Cylindre | VB008-026 | Boulon\nHR176-002 | Bouchon1/4'' | PA002-585 | Clapet d'aspiration | VB008-036 | Boulon\nOR020-015 | Joint torique | PA002-587 | Siège de clapet | VB008-115 | Boulon\nOR053-006 | Joint torique | PA002-588 | Plaque de clapet | VD008-007 | Ecrou\nOR060-005 | Joint torique | PA002-590 | Ressort de clapet | VD008-015 | Ecrou\nOR066-005 | Joint torique | PA002-591 | Insert de clapet | VR008-006 | Rondelle\nPA002-505 | Piston guide | PA002-592 | Chambre de clapet | VR008-015 | Rondelle\nPA002-510 | Cylindre | PA002-593 | Insert de clapet | VR012-025 | Rondelle\nPA002-525 | Piston complet avec segments | PA002-594 | Chambre de clapet complète | VR029-005 | Rondelle\nPA002-526 | Piston | PA002-595 | Culasse |  | \n |  |  |  |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 39,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nHR120-007 | Raccord “L” 3/8\"G pour tube 12 mm | PA002-580 | Cylindre | VB008-026 | Boulon\nHR176-002 | Bouchon1/4'' | PA002-585 | Clapet d'aspiration | VB008-036 | Boulon\nOR020-015 | Joint torique | PA002-587 | Siège de clapet | VB008-115 | Boulon\nOR053-006 | Joint torique | PA002-588 | Plaque de clapet | VD008-007 | Ecrou\nOR060-005 | Joint torique | PA002-590 | Ressort de clapet | VD008-015 | Ecrou\nOR066-005 | Joint torique | PA002-591 | Insert de clapet | VR008-006 | Rondelle\nPA002-505 | Piston guide | PA002-592 | Chambre de clapet | VR008-015 | Rondelle\nPA002-510 | Cylindre | PA002-593 | Insert de clapet | VR012-025 | Rondelle\nPA002-515 | Piston complet avec segments | PA002-594 | Chambre de clapet complète | VR029-005 | Rondelle\nPA002-516 | Piston | PA002-595 | Culasse |  | \nPA002-516 | Jeu de segments | PA110-082 | Soupape de sécurité |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 40,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT098-001 | Ressort | PA002-511 | Cylindre | PA004-676 | Joint torique\nHR117-017 | Raccord direct | PA002-607 | Jeux de segment | PA004-678 | Joint torique\nHR120-004 | Raccord “L” | PA004-610 | Piston complet avec segments | PA004-679 | Clapet Setger\nOR022-005 | Joint torique | PA004-615 | Piston | PA004-683 | Chapeau de clapet\nOR024-005 | Joint torique | PA004-619 | Chemise | PA004-685 | Clapet d'aspiration\nOR037-009 | Joint torique | PA004-625 | Cylindre | PA004-690 | Corps de clapet\nOR037-010 | Joint torique | PA004-670 | Coupleur de clapet | VB008-014 | Boulon\nOR060-005 | Joint torique | PA004-671 | Clapet d'échappement | VB008-036 | Boulon\nOR066-005 | Joint torique | PA004-671 | Chapeau de clapet | VR008-015 | Rondelle\nPA002-505 | Piston guide |  |  |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 41,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT098-001 | Ressort | PA002-511 | Cylindre | PA004-676 | Joint torique\nHR117-017 | Raccord direct | PA002-617 | Jeux de segment | PA004-678 | Joint torique\nHR120-004 | Raccord “L” | PA004-611 | Piston complet avec segments | PA004-679 | Clapet Setger\nOR022-005 | Joint torique | PA004-616 | Piston | PA004-683 | Chapeau de clapet\nOR024-005 | Joint torique | PA004-620 | Chemise | PA004-685 | Clapet d'aspiration\nOR037-009 | Joint torique | PA004-625 | Cylindre | PA004-690 | Corps de clapet\nOR037-010 | Joint torique | PA004-670 | Coupleur de clapet | VB008-014 | Boulon\nOR060-005 | Joint torique | PA004-671 | Clapet d'échappement | VB008-036 | Boulon\nOR066-005 | Joint torique | PA004-671 | Chapeau de clapet | VR008-015 | Rondelle\nPA002-505 | Piston guide |  |  |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 42,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT140-005 | Corpsderobinetdevidange | OR017-010 | Jointtorique | PA110-102 | soupapedesécuritéPN200bar\nAT140-100 | Robinetdevidangecomplet | OR053-006 | Jointtorique | PA110-103 | soupapedesécuritéPN300bar\nAT141-001 | Clapetrilsan | PA002-720 | Corpsdefiltreséparateur | VB004-021 | Boulon\nAT142-001 | Volantderobinet | PA002-721 | Filtreenbronze | VB006-051 | Boulon\nHR101-004 | Ogive | PA002-722 | Couvercle | VB008-012 | Boulon\nHR102-014 | Ecrouderaccord | PA002-723 | Couvercle | VR004-010 | Rondelle\nHR120-007 | Raccord“L”3/8\"G pourtube12mm | PA002-724 | Cartouchecomplètedefiltreséparateur | VR008-006 | Rondelle\nHR120-114 | Raccord“L”1/4\"Gpourtube6mm | PA002-725 | Têtedefiltreséparateur |  | \nHR125-141 | Corpsderaccord“T”1/4\"Gpourtube6mm | PA002-726 | Supportdefiltreséparateur |  | \nHR701-012 | IRN oO nXdellejoint | PA002-727 | Tubedeséparateur |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 44,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT140-001 | Corpsderobinetdevidange | OR011-004 | Jointtorique | PA100-113 | blocfiltre\nAT140-100 | Robinetdevidangecomplet | OR025-005 | Jointtorique | PA100-114 | Têtedeblocfiltre\nAT141-001 | Clapetrilsan | OR066-010 | Jointtorique | PA100-115 | tube\nAT142-001 | Volantderobinet | OR068-005 | Jointtorique | PA100-117 | Basedefiltre\nAT142-002 | Tube | PA100-050 | Insertdeclapet | PA100-123 | Extensiondefiltre\nHR101-004 | Ogive | PA100-051 | Pistondeclapet | PA100-149 | Clapetantiretour\nHR102-014 | Ecrouderaccord | PA100-052 | Guidederessort | PA114-047 | ConnexionINOX\nHR176-002 | Bouchon1/4’’ | PA100-053 | bouchon | PA115-116 | Ressortdeclapetantiretour\nHR701-012 | Rondelle | PA100-054 | Ecrou | PA115-119 | Pistondeclapetantiretour\nOR002-005 | Jointtorique | PA100-060 | Clapetdemaintientcomplet | VB008-012 | Boulon\nOR003-005 | Jointtorique | PA100-101 | Cartouchedefiltrationpourélectrique | VB008-070 | Boulon\nOR009-005 | Jointtorique | PA100-102 | Cartouchedefiltrationpouressence | VR006-015 | Rondellederessort\nOR009-010 | Jointtorique | PA100-110 | Supportdefiltre | VV005-015 | Sphère",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 47,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT140-001 | Corpsderobinetdevidange | OR011-004 | Jointtorique | PA100-213 | blocfiltre\nAT140-100 | Robinetdevidangecomplet | OR025-005 | Jointtorique | PA100-114 | Têtedeblocfiltre\nAT141-001 | Clapetrilsan | OR066-010 | Jointtorique | PA100-115 | tube\nAT142-001 | Volantderobinet | OR068-005 | Jointtorique | PA100-117 | Basedefiltre\nAT142-002 | Tube | PA100-050 | Insertdeclapet | PA100-123 | Extensiondefiltre\nHR101-004 | Ogive | PA100-051 | Pistondeclapet | PA100-149 | Clapetantiretour\nHR102-014 | Ecrouderaccord | PA100-052 | Guidederessort | PA114-047 | ConnexionINOX\nHR176-002 | Bouchon1/4’’ | PA100-053 | bouchon | PA115-116 | Ressortdeclapetantiretour\nHR701-012 | Rondelle | PA100-054 | Ecrou | PA115-119 | Pistondeclapetantiretour\nOR002-005 | Jointtorique | PA100-060 | Clapetdemaintientcomplet | VB008-012 | Boulon\nOR003-005 | Jointtorique | PA100-201 | Cartouchedefiltrationpourélectrique | VB008-070 | Boulon\nOR009-005 | Jointtorique | PA100-202 | Cartouchedefiltrationpouressence | VR006-015 | Rondellederessort\nOR009-010 | Jointtorique | PA100-110 | Supportdefiltre | VV005-015 | Sphere",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 48,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT140-001 | Corpsderobinetdevidange | OR011-004 | Jointtorique | PA100-313 | blocfiltre\nAT140-100 | Robinetdevidangecomplet | OR025-005 | Jointtorique | PA100-114 | Têtedeblocfiltre\nAT141-001 | Clapetrilsan | OR066-010 | Jointtorique | PA100-115 | tube\nAT142-001 | Volantderobinet | OR068-005 | Jointtorique | PA100-117 | Basedefiltre\nAT142-002 | Tube | PA100-050 | Insertdeclapet | PA100-123 | Extensiondefiltre\nHR101-004 | Ogive | PA100-051 | Pistondeclapet | PA100-149 | Clapetantiretour\nHR102-014 | Ecrouderaccord | PA100-052 | Guidederessort | PA114-047 | ConnexionINOX\nHR176-002 | Bouchon1/4’’ | PA100-053 | bouchon | PA115-116 | Ressortdeclapetantiretour\nHR701-012 | Rondelle | PA100-054 | Ecrou | PA115-119 | Pistondeclapetantiretour\nOR002-005 | Jointtorique | PA100-060 | Clapetdemaintientcomplet | VB008-012 | Boulon\nOR003-005 | Jointtorique | PA100-301 | Cartouchedefiltrationpourélectrique | VB008-070 | Boulon\nOR009-005 | Jointtorique | PA100-302 | Cartouchedefiltrationpouressence | VR006-015 | Rondellederessort\nOR009-010 | Jointtorique | PA100-110 | Supportdefiltre | VV005-015 | Sphère",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 49,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nOR007-005 | Jointtorique | PA112-015 | Corpsderobinet | PA112-032 | Ecrou\nOR010-005 | Jointtorique | PA112-022 | Guidecylindrique | PA112-034 | Volantderobinetrouge300bars\nOR011-015 | Jointtorique | PA112-023 | Insertdepistondeclapet | PA112-035 | Filtre\nPA112-003 | Robinetderemplissage300BARS | PA112-024 | Tigetournevis | PA112-901 | Kitd'entretienrobinet\nPA112-006 | Robinetderemplissage300BARSflowstop | PA112-025 | Ecrou | VV005-015 | Sphère\nPA112-008 | VolantDIN300rouge | PA112-026 | Rondelle |  | \nPA112-009 | Guidedevolant DIN | PA112-031 | Ressort |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 50,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nOR007-005 | Jointtorique | PA112-012 | Siège INT-CGA | PA112-032 | Ecrou\nOR010-005 | Jointtorique | PA112-015 | Corsderobinet | PA112-033 | Volantderobinetnoir200bars\nOR011-015 | Jointtorique | PA112-022 | Guidecylindrique | PA112-035 | Filtre\nPA112-002 | Robinetderemplissage200BAR | PA112-023 | Pistonvalveinsert | PA112-109 | Adaptateur étrier INT-CGA\nPA112-005 | Robinetderemplissag200BARflowstop | PA112-024 | Tigetournevis | PA112-901 | Kitd'entretienderobinet\nPA112-007 | VolantDIN200noir | PA112-025 | Ecrou | VV005-015 | Sphère\nPA112-009 | GuidedevolantDIN200 | PA112-026 | Rondelle |  | \nPA112-011 | Etrier INT-CGA | PA112-031 | Ressort |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 51,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "CODE | DESCRIPTION |  | CODE | DESCRIPTION |  | CODE | DESCRIPTION | \nAC011-200 | Tuberilsan |  | OR063-004 | Jointtorique |  | PA114-049 | Supportdeblocpurge | \nAC016-203 | Connexion |  | OR075-005 | Jointtorique |  | PA114-060 | Flexibleavecraccordpourcondensats | \nAC017-102 | Raccord“L” |  | PA110-010 | Ressort |  | PA116-101 | Minuterie12VoltDC | \nHR101-004 | Ogive |  | PA114-015 | Corpsdepurge |  | PA116-102 | Minuterie230VoltAC | \nHR102-014 | Ecrouderaccord |  | PA114-020 | Pistondepurge |  | PA116-105 | Clapetdepurge12VoltDC | \nHR117-031 | Raccord1/4\"G pourtube12mm |  | PA114-025 | Couvercle |  | PA116-106 | Clapetdepurge230VoltAC | \nHR175-001 | Connexion |  | PA114-030 | PistonHP |  | VB006-067 | Boulon | \nHR176-002 | Bouchon1/4\"G |  | PA114-031 | PistonLP |  | VB008-035 | Boulon | \nHR301-001 | Raccord |  | PA114-032 | Ressort |  | VV005-015 | Rondelle | \nHR339-001 | Connexion“L” |  | PA114-035 | Raccord |  | VV005-016 | Sphère | \nOR008-005 | Jointtorique |  | PA114-041 | Siège |  |  |  | \nOR011-010 | Jointtorique |  | PA114-042 | Réducteur |  |  |  | \nOR026-005 | Jointtorique |  | PA114-045 | Connexioninox |  |  |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 52,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": " |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 53,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "Contrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 54,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": "Contrôledesinstruments(zérodesmanomètres) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 55,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": " |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | \n |  | \n |  | \n |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | \n |  | \n |  | \n |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 56,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": " |  | \n |  | \n |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | \n |  | \n |  | \n |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | \n |  | \n |  | \n |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | \n |  | \n |  | \n |  | \nTOUTESLES500HEURESD'UTILISATIONou1FOISPAR |  | \n | DATE | SIGNATUREDUTECHNICIEN\nAN |  | \n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \n |  | \nInspectionetremplacementdufiltredudernierfiltre |  | \nséparateur\n. |  | \n |  | \nVidange |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 57,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": " |  | \n |  | \n |  | \n |  | \n |  | \nContrôledutaragedelasoupapedesécurité |  | \n |  | \n |  | \nTOUTESLES500HEURESD'UTILISATIONou1FOISPAR |  | \n | DATE | SIGNATUREDUTECHNICIEN\nAN |  | \n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \n |  | \nInspectionetremplacementdufiltredudernierfiltre |  | \nséparateur\n. |  | \n |  | \n |  | \n |  | \nVidange |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nContrôledutaragedelasoupapedesécurité |  | \n |  | \n |  | \n |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 58,
-      "table_number": 1
-    }
-  },
-  {
-    "type": "table",
-    "content": " |  | \nCHAQUE1000HEURESD'UTILISATION\n, | DATE | SIGNATUREDUTECHNICIEN\n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \n |  | \nRemplacementdesclapets |  | \n |  | \n |  | \nCHAQUE1000HEURESD'UTILISATION\n, | DATE | SIGNATUREDUTECHNICIEN\n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \n |  | \nRemplacementdesclapets |  | \n |  | \n |  | \nCHAQUE1000HEURESD'UTILISATION\n, | DATE | SIGNATUREDUTECHNICIEN\n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \nRemplacementdesclapets |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 58,
-      "table_number": 2
-    }
-  },
-  {
-    "type": "table",
-    "content": " |  | \n |  | \n |  | \nTOUSLESANSOUALADEMANDE | DATE | SIGNATUREDUTECHNICIEN\n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \n |  | \nAnalysedel'air |  | \n |  | \n |  | \nVidangedel'huile |  | \n |  | \n |  | \nVérificationduréglagedupanneaudecontrôleetde |  | \n |  | \nsoupapedesécurité |  | \n |  | \n |  | \n |  | \nAPRESTOUTEREPARATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \nContrôledesrobinetsdegonflage |  | \n |  | \n |  | \nNettoyagedufiltreàair |  | \n |  | \n |  | \nContrôledestuyauxetduserragedesrefroidisseurs |  | \n |  | \n |  | \nAPRESUNELONGUEPERIODED'INACTIVITE | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \nContrôledesrobinetsdegonflage |  | \n |  | \n |  | \nNettoyagedufiltreàair |  | \n |  | \n |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | ",
-    "metadata": {
-      "source": "maintenance_machine.pdf",
-      "page": 59,
-      "table_number": 1
-    }
-  },
-  {
     "type": "image",
     "content": "images/page_001_image_01.jpeg",
     "metadata": {
@@ -766,6 +487,423 @@
       "source": "maintenance_machine.pdf",
       "page": 1,
       "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "1 | INFORMATION DEBASE | page 05\n101\n. | Explicationdesicônes | page05\n102\n. | Précautions | page05\n103\n. | BrèveIntroduction | page05\n104\n. | Descriptiondubloccompresseur | page06\n105\n. | DescriptionduPACIFIC(Airrespirable) | page07\n106\n. | DonnéestechniquesPACIFIC | page08\n2 | REGLESDESECURITEPOUR L'UTILISATION | page 09\n201\n. | Identificationdesrèglesdesécuritépourlesutilisateurs | page09\n202\n. | Règlesdesécuritépourlesutilisateursetlabonneutilisationducompresseur | page09\n203\n. | Règlesessentiellesconcernantlasécurité | page09\n204\n. | Règlesgénéralesconcernantlasécurité | page10\n3 | GARANTIEETASSISTANCE | page 10\n301\n. | Garantieducompresseur | page10\n302\n. | EntretienetAssistance | page10\n4 | INSTALLATION | page 11\n401\n. | Déballageetpriseenmain | page11\n402\n. | Installationàl'airlibre | page11\n403\n. | Installationdansunepièceferméeetcaractéristiquesrequisespourlapièce | page11\n404\n. | Pièceavecventilationartificielle | page12\n405\n. | Conduitd'arrivéed'air | page12\n406\n. | Alimentationélectrique | page12\n5 | GUIDEDEDEMARRAGERAPIDE | page 13\n |  | \n6 | OPERATION ETUTILISATION | page 14\n601\n. | Préparation audémarrageducompresseur | page14\n602\n. | Démarrageducompresseur | page14\n603\n. | Utilisationdesvannesdesflexiblesdegonflage | page14",
+    "rows": [
+      [
+        "1",
+        "INFORMATION DEBASE",
+        "page 05"
+      ],
+      [
+        "101\n.",
+        "Explicationdesicônes",
+        "page05"
+      ],
+      [
+        "102\n.",
+        "Précautions",
+        "page05"
+      ],
+      [
+        "103\n.",
+        "BrèveIntroduction",
+        "page05"
+      ],
+      [
+        "104\n.",
+        "Descriptiondubloccompresseur",
+        "page06"
+      ],
+      [
+        "105\n.",
+        "DescriptionduPACIFIC(Airrespirable)",
+        "page07"
+      ],
+      [
+        "106\n.",
+        "DonnéestechniquesPACIFIC",
+        "page08"
+      ],
+      [
+        "2",
+        "REGLESDESECURITEPOUR L'UTILISATION",
+        "page 09"
+      ],
+      [
+        "201\n.",
+        "Identificationdesrèglesdesécuritépourlesutilisateurs",
+        "page09"
+      ],
+      [
+        "202\n.",
+        "Règlesdesécuritépourlesutilisateursetlabonneutilisationducompresseur",
+        "page09"
+      ],
+      [
+        "203\n.",
+        "Règlesessentiellesconcernantlasécurité",
+        "page09"
+      ],
+      [
+        "204\n.",
+        "Règlesgénéralesconcernantlasécurité",
+        "page10"
+      ],
+      [
+        "3",
+        "GARANTIEETASSISTANCE",
+        "page 10"
+      ],
+      [
+        "301\n.",
+        "Garantieducompresseur",
+        "page10"
+      ],
+      [
+        "302\n.",
+        "EntretienetAssistance",
+        "page10"
+      ],
+      [
+        "4",
+        "INSTALLATION",
+        "page 11"
+      ],
+      [
+        "401\n.",
+        "Déballageetpriseenmain",
+        "page11"
+      ],
+      [
+        "402\n.",
+        "Installationàl'airlibre",
+        "page11"
+      ],
+      [
+        "403\n.",
+        "Installationdansunepièceferméeetcaractéristiquesrequisespourlapièce",
+        "page11"
+      ],
+      [
+        "404\n.",
+        "Pièceavecventilationartificielle",
+        "page12"
+      ],
+      [
+        "405\n.",
+        "Conduitd'arrivéed'air",
+        "page12"
+      ],
+      [
+        "406\n.",
+        "Alimentationélectrique",
+        "page12"
+      ],
+      [
+        "5",
+        "GUIDEDEDEMARRAGERAPIDE",
+        "page 13"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "6",
+        "OPERATION ETUTILISATION",
+        "page 14"
+      ],
+      [
+        "601\n.",
+        "Préparation audémarrageducompresseur",
+        "page14"
+      ],
+      [
+        "602\n.",
+        "Démarrageducompresseur",
+        "page14"
+      ],
+      [
+        "603\n.",
+        "Utilisationdesvannesdesflexiblesdegonflage",
+        "page14"
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 3,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": "7 ENTRETIEN ETREPARATION | page 15 | \n701 Opérationsd'entretien\n. | page15 | \n702 Systèmedelubrification\n. | page15 | \n703 Huile\n. | page15 | \n704 Vidangedel'huile\n. | page | 16\n705 ChangementdeTyped'huile\n. | page16 | \n706 Remplacementdufiltreàhuile\n. | page | 16\n707 Alarmedeniveaud'huile\n. | page | 17\n708 Remplacementdufiltreàair\n. | page17 | \n709 Entretiendesséparateursintermédiaires\n. | page | 17\n710 Cartouchedefiltrationpourl'airrespirable\n. | page18 | \n711 Cartouchedefiltrationàcharbonactif\n. | page18 | \n7 .12 Tableau de la durée de vie des différentes cartouches pour P27 – PAC FILTER 1 , 2 et 3 | page19 | \n713 Soupapedemaintiendepression\n. | page20 | \n714 Culassesetclapets\n. | page20 | \n715 Nettoyageduclapet 1°étage\n. | page | 20\n716 Remplacementduclapet2°étage(compresseurà4étages)\n. | page21 | \n717 Remplacementduclapet2°étage(compresseurà3étages)ou3°étage(compresseurà\n. | 4étages)page | 21\n718 Remplacementduclapet dudernierétage\n. | page | 22\n719 Soupapesdesécurité\n. | page22 | \n720 Flexiblesdegonflage\n. | page22 | \n721 Purgeautomatiquedescondensats\n. | page23 | \n722 Systèmed'arrêtautomatique\n. | page23 | \n723 Descriptionetutilisationdupanneaudecontrôleélectronique\n. . | page24 | \n724 Alarmesetactions\n. | page29 | \n725 Dispositionsspécialespourl'éliminationdesdéchets\n. | page29 | \n726 Dysfonctionnement\n. | page30 | \n8 PIECES DETACHEES | page 31 | \nVueséclatésduvilebrequinetdesbielles | page31 | \nVueséclatésducarteretventilateur | page32 | \nVueséclatésducarteretventilateursérie\"M\" | page33 | \nVueséclatéscarteravecsesaccessoires | page34 | \nVueséclatésdu1°étage P16 | page35 | \nVueséclatésdu1°étage P23/27/32 | page36 | \nVueséclatésdu1°étage P35 | page37 | \nVueséclatésdu2°étage P16/23/27 | page38 | \nVueséclatésdu2°étage P32 | page39 | \nVueséclatésdu3°étage P35 | page40 | \nVueséclatésdudernierétageP16/23/27/35 | page41 | \nVueséclatésdudernierétageP32 | page42 | \nVueséclatésdufiltreséparateur | page43 | \nVueséclatésdufiltreséparateur | page44 | \nVueséclatésdusystèmederefroidissementP16/23/27/30 | page45 | \nVueséclatésdusystèmederefroidissementP35 | page46 | \nVueséclatésblocfiltrePACFILTER1 | page47 | \nVueséclatésblocfiltrePACFILTER2 | page48 | \nVueséclatésblocfiltrePACFILTER3 | page49 | \nVueséclatésdurobinetdegonflage300Bar | page50 | \nVueséclatésdurobinetdegonflage200Bar | page51 | \nVueséclatésdusystèmedepurgeautomatique | page52 | \n9 CARNETD'ENTRETIEN | page 53 | ",
+    "rows": [
+      [
+        "7 ENTRETIEN ETREPARATION",
+        "page 15",
+        ""
+      ],
+      [
+        "701 Opérationsd'entretien\n.",
+        "page15",
+        ""
+      ],
+      [
+        "702 Systèmedelubrification\n.",
+        "page15",
+        ""
+      ],
+      [
+        "703 Huile\n.",
+        "page15",
+        ""
+      ],
+      [
+        "704 Vidangedel'huile\n.",
+        "page",
+        "16"
+      ],
+      [
+        "705 ChangementdeTyped'huile\n.",
+        "page16",
+        ""
+      ],
+      [
+        "706 Remplacementdufiltreàhuile\n.",
+        "page",
+        "16"
+      ],
+      [
+        "707 Alarmedeniveaud'huile\n.",
+        "page",
+        "17"
+      ],
+      [
+        "708 Remplacementdufiltreàair\n.",
+        "page17",
+        ""
+      ],
+      [
+        "709 Entretiendesséparateursintermédiaires\n.",
+        "page",
+        "17"
+      ],
+      [
+        "710 Cartouchedefiltrationpourl'airrespirable\n.",
+        "page18",
+        ""
+      ],
+      [
+        "711 Cartouchedefiltrationàcharbonactif\n.",
+        "page18",
+        ""
+      ],
+      [
+        "7 .12 Tableau de la durée de vie des différentes cartouches pour P27 – PAC FILTER 1 , 2 et 3",
+        "page19",
+        ""
+      ],
+      [
+        "713 Soupapedemaintiendepression\n.",
+        "page20",
+        ""
+      ],
+      [
+        "714 Culassesetclapets\n.",
+        "page20",
+        ""
+      ],
+      [
+        "715 Nettoyageduclapet 1°étage\n.",
+        "page",
+        "20"
+      ],
+      [
+        "716 Remplacementduclapet2°étage(compresseurà4étages)\n.",
+        "page21",
+        ""
+      ],
+      [
+        "717 Remplacementduclapet2°étage(compresseurà3étages)ou3°étage(compresseurà\n.",
+        "4étages)page",
+        "21"
+      ],
+      [
+        "718 Remplacementduclapet dudernierétage\n.",
+        "page",
+        "22"
+      ],
+      [
+        "719 Soupapesdesécurité\n.",
+        "page22",
+        ""
+      ],
+      [
+        "720 Flexiblesdegonflage\n.",
+        "page22",
+        ""
+      ],
+      [
+        "721 Purgeautomatiquedescondensats\n.",
+        "page23",
+        ""
+      ],
+      [
+        "722 Systèmed'arrêtautomatique\n.",
+        "page23",
+        ""
+      ],
+      [
+        "723 Descriptionetutilisationdupanneaudecontrôleélectronique\n. .",
+        "page24",
+        ""
+      ],
+      [
+        "724 Alarmesetactions\n.",
+        "page29",
+        ""
+      ],
+      [
+        "725 Dispositionsspécialespourl'éliminationdesdéchets\n.",
+        "page29",
+        ""
+      ],
+      [
+        "726 Dysfonctionnement\n.",
+        "page30",
+        ""
+      ],
+      [
+        "8 PIECES DETACHEES",
+        "page 31",
+        ""
+      ],
+      [
+        "Vueséclatésduvilebrequinetdesbielles",
+        "page31",
+        ""
+      ],
+      [
+        "Vueséclatésducarteretventilateur",
+        "page32",
+        ""
+      ],
+      [
+        "Vueséclatésducarteretventilateursérie\"M\"",
+        "page33",
+        ""
+      ],
+      [
+        "Vueséclatéscarteravecsesaccessoires",
+        "page34",
+        ""
+      ],
+      [
+        "Vueséclatésdu1°étage P16",
+        "page35",
+        ""
+      ],
+      [
+        "Vueséclatésdu1°étage P23/27/32",
+        "page36",
+        ""
+      ],
+      [
+        "Vueséclatésdu1°étage P35",
+        "page37",
+        ""
+      ],
+      [
+        "Vueséclatésdu2°étage P16/23/27",
+        "page38",
+        ""
+      ],
+      [
+        "Vueséclatésdu2°étage P32",
+        "page39",
+        ""
+      ],
+      [
+        "Vueséclatésdu3°étage P35",
+        "page40",
+        ""
+      ],
+      [
+        "VueséclatésdudernierétageP16/23/27/35",
+        "page41",
+        ""
+      ],
+      [
+        "VueséclatésdudernierétageP32",
+        "page42",
+        ""
+      ],
+      [
+        "Vueséclatésdufiltreséparateur",
+        "page43",
+        ""
+      ],
+      [
+        "Vueséclatésdufiltreséparateur",
+        "page44",
+        ""
+      ],
+      [
+        "VueséclatésdusystèmederefroidissementP16/23/27/30",
+        "page45",
+        ""
+      ],
+      [
+        "VueséclatésdusystèmederefroidissementP35",
+        "page46",
+        ""
+      ],
+      [
+        "VueséclatésblocfiltrePACFILTER1",
+        "page47",
+        ""
+      ],
+      [
+        "VueséclatésblocfiltrePACFILTER2",
+        "page48",
+        ""
+      ],
+      [
+        "VueséclatésblocfiltrePACFILTER3",
+        "page49",
+        ""
+      ],
+      [
+        "Vueséclatésdurobinetdegonflage300Bar",
+        "page50",
+        ""
+      ],
+      [
+        "Vueséclatésdurobinetdegonflage200Bar",
+        "page51",
+        ""
+      ],
+      [
+        "Vueséclatésdusystèmedepurgeautomatique",
+        "page52",
+        ""
+      ],
+      [
+        "9 CARNETD'ENTRETIEN",
+        "page 53",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 4,
+      "table_number": 1
     }
   },
   {
@@ -787,6 +925,317 @@
     }
   },
   {
+    "type": "table",
+    "content": "Description |  | PACIFIC\n16 |  | PACIFIC\n23 | PACIFIC\n27 | PACIFIC\n30 | PACIFIC\n35\nPressiondeservice |  |  |  |  | 200ou300bars |  | \nDébit |  | 160 L/mn\n–\n96m3/h\n, |  | 230 L/mn\n–\n138m3/h\n, | 270 L/mn\n–\n162m3/h\n, | 300 L/mn\n–\n18m3/h | 350 L/mn\n–\n21m3/h\nSoupapedesécuritéfinale |  |  |  | 225barsou330bars |  |  | \nBloccompresseur |  | PACIFIC16 |  | PACIFIC23 | PACIFIC27 | PACIFIC32 | PACIFIC35\nNombred'étages |  |  |  | 3 |  |  | 4\nNombredebielles |  |  |  |  | 3 |  | \nPressiondu1°étage |  | 5Bars |  |  | 75Bars\n, |  | 3bars\nPressiondu2°étage |  | 55Bars |  |  | 65Bars |  | 16bars\nPressiondu3°étage |  |  |  | 225ou330bars |  |  | 80bars\nPressiondu4°étage |  |  |  |  |  |  | 225ou330\nCapacitéenhuile |  |  |  |  | 35Litres\n, |  | \nRégimederotation |  | 1350trs/mn |  | 1350trs/mn | 1550trs/mn | 1450trs/mn | 1550trs/mn\nTyped'huile |  |  |  | NARDISYNTHETICAL750+ |  |  | \nTempératuredefonctionnement |  |  |  | De+5°Cà+45°C |  |  | \nInclinaisonmaximaleducompresseur |  |  |  |  | 5° |  | \nAltitudemaximaled'utilisation |  |  |  |  | 2000mètres |  | \nPoidsdubloccompresseur |  |  |  | 47 | kg |  | 51kg\nNombredeséparateurshuile/eau |  |  |  | 2 |  |  | 3\nFiltration |  |  |  |  | PAC1** |  | \nMatériauxdesrefroidisseurs |  |  |  |  | Acierinox |  | \nAirrespirable |  |  |  | UNI EN 12021:2000 ANSI/CGA E Z180\n– – |  |  | \nTemps pour remplir un 15L à 200 bars (+/ - 5%) |  | 19' |  | 13' | 11' | 10' | 9'\nMoteur |  | Monophasé\n220volts |  |  | Triphasé | 380volts | \nVoltage |  | 230 |  |  | 230→690 |  | \nPuissance |  | 3Kw |  | 4Kw | 55Kw\n, | 55Kw\n, | 75Kw\n,\nNiveau sonore E -P/EG -PG/D/M en db |  | 74/79/85/63 |  | 75/80/85/66 | 76/79/89/70 | 75/7989/68 | 78/81/87/72\nTypedeprotection |  |  |  |  | IP54 |  | \nConsommation |  | 156A\n, |  | 87A\n, | 11A | 12A | 15A\n | **Filtrationstandard\n- |  |  |  |  |  | ",
+    "rows": [
+      [
+        "Description",
+        "",
+        "PACIFIC\n16",
+        "",
+        "PACIFIC\n23",
+        "PACIFIC\n27",
+        "PACIFIC\n30",
+        "PACIFIC\n35"
+      ],
+      [
+        "Pressiondeservice",
+        "",
+        "",
+        "",
+        "",
+        "200ou300bars",
+        "",
+        ""
+      ],
+      [
+        "Débit",
+        "",
+        "160 L/mn\n–\n96m3/h\n,",
+        "",
+        "230 L/mn\n–\n138m3/h\n,",
+        "270 L/mn\n–\n162m3/h\n,",
+        "300 L/mn\n–\n18m3/h",
+        "350 L/mn\n–\n21m3/h"
+      ],
+      [
+        "Soupapedesécuritéfinale",
+        "",
+        "",
+        "",
+        "225barsou330bars",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Bloccompresseur",
+        "",
+        "PACIFIC16",
+        "",
+        "PACIFIC23",
+        "PACIFIC27",
+        "PACIFIC32",
+        "PACIFIC35"
+      ],
+      [
+        "Nombred'étages",
+        "",
+        "",
+        "",
+        "3",
+        "",
+        "",
+        "4"
+      ],
+      [
+        "Nombredebielles",
+        "",
+        "",
+        "",
+        "",
+        "3",
+        "",
+        ""
+      ],
+      [
+        "Pressiondu1°étage",
+        "",
+        "5Bars",
+        "",
+        "",
+        "75Bars\n,",
+        "",
+        "3bars"
+      ],
+      [
+        "Pressiondu2°étage",
+        "",
+        "55Bars",
+        "",
+        "",
+        "65Bars",
+        "",
+        "16bars"
+      ],
+      [
+        "Pressiondu3°étage",
+        "",
+        "",
+        "",
+        "225ou330bars",
+        "",
+        "",
+        "80bars"
+      ],
+      [
+        "Pressiondu4°étage",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "225ou330"
+      ],
+      [
+        "Capacitéenhuile",
+        "",
+        "",
+        "",
+        "",
+        "35Litres\n,",
+        "",
+        ""
+      ],
+      [
+        "Régimederotation",
+        "",
+        "1350trs/mn",
+        "",
+        "1350trs/mn",
+        "1550trs/mn",
+        "1450trs/mn",
+        "1550trs/mn"
+      ],
+      [
+        "Typed'huile",
+        "",
+        "",
+        "",
+        "NARDISYNTHETICAL750+",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Températuredefonctionnement",
+        "",
+        "",
+        "",
+        "De+5°Cà+45°C",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Inclinaisonmaximaleducompresseur",
+        "",
+        "",
+        "",
+        "",
+        "5°",
+        "",
+        ""
+      ],
+      [
+        "Altitudemaximaled'utilisation",
+        "",
+        "",
+        "",
+        "",
+        "2000mètres",
+        "",
+        ""
+      ],
+      [
+        "Poidsdubloccompresseur",
+        "",
+        "",
+        "",
+        "47",
+        "kg",
+        "",
+        "51kg"
+      ],
+      [
+        "Nombredeséparateurshuile/eau",
+        "",
+        "",
+        "",
+        "2",
+        "",
+        "",
+        "3"
+      ],
+      [
+        "Filtration",
+        "",
+        "",
+        "",
+        "",
+        "PAC1**",
+        "",
+        ""
+      ],
+      [
+        "Matériauxdesrefroidisseurs",
+        "",
+        "",
+        "",
+        "",
+        "Acierinox",
+        "",
+        ""
+      ],
+      [
+        "Airrespirable",
+        "",
+        "",
+        "",
+        "UNI EN 12021:2000 ANSI/CGA E Z180\n– –",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Temps pour remplir un 15L à 200 bars (+/ - 5%)",
+        "",
+        "19'",
+        "",
+        "13'",
+        "11'",
+        "10'",
+        "9'"
+      ],
+      [
+        "Moteur",
+        "",
+        "Monophasé\n220volts",
+        "",
+        "",
+        "Triphasé",
+        "380volts",
+        ""
+      ],
+      [
+        "Voltage",
+        "",
+        "230",
+        "",
+        "",
+        "230→690",
+        "",
+        ""
+      ],
+      [
+        "Puissance",
+        "",
+        "3Kw",
+        "",
+        "4Kw",
+        "55Kw\n,",
+        "55Kw\n,",
+        "75Kw\n,"
+      ],
+      [
+        "Niveau sonore E -P/EG -PG/D/M en db",
+        "",
+        "74/79/85/63",
+        "",
+        "75/80/85/66",
+        "76/79/89/70",
+        "75/7989/68",
+        "78/81/87/72"
+      ],
+      [
+        "Typedeprotection",
+        "",
+        "",
+        "",
+        "",
+        "IP54",
+        "",
+        ""
+      ],
+      [
+        "Consommation",
+        "",
+        "156A\n,",
+        "",
+        "87A\n,",
+        "11A",
+        "12A",
+        "15A"
+      ],
+      [
+        "",
+        "**Filtrationstandard\n-",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 8,
+      "table_number": 1
+    }
+  },
+  {
     "type": "image",
     "content": "images/page_010_image_01.png",
     "metadata": {
@@ -802,6 +1251,80 @@
       "source": "maintenance_machine.pdf",
       "page": 10,
       "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "Volumeethauteurdelapièce |  |  |  |  | \nVolume >50 m³ - hauteur >2 ,3 m |  | Volume >100 m³ - Hauteur >3 m |  | Volume >200 m³ - Hauteur >4 m | \nEntrée(A) | Sortie(B) | Entrée(A) | Sortie(B) | Entrée(A) | Sortie(B)\n095m²\n, | 078m²\n, | 063m²\n, | 052m²\n, | 025m²\n, | 021m²\n,",
+    "rows": [
+      [
+        "Volumeethauteurdelapièce",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Volume >50 m³ - hauteur >2 ,3 m",
+        "",
+        "Volume >100 m³ - Hauteur >3 m",
+        "",
+        "Volume >200 m³ - Hauteur >4 m",
+        ""
+      ],
+      [
+        "Entrée(A)",
+        "Sortie(B)",
+        "Entrée(A)",
+        "Sortie(B)",
+        "Entrée(A)",
+        "Sortie(B)"
+      ],
+      [
+        "095m²\n,",
+        "078m²\n,",
+        "063m²\n,",
+        "052m²\n,",
+        "025m²\n,",
+        "021m²\n,"
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 11,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": "Distanceminimumdesmurs | \n | \nC | 010m\n,\nD | 050m\n,\nE | 100m\n,",
+    "rows": [
+      [
+        "Distanceminimumdesmurs",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "C",
+        "010m\n,"
+      ],
+      [
+        "D",
+        "050m\n,"
+      ],
+      [
+        "E",
+        "100m\n,"
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 11,
+      "table_number": 2
     }
   },
   {
@@ -1030,6 +1553,160 @@
     }
   },
   {
+    "type": "table",
+    "content": "CODEDESCARTOUCHESDEFILTRATIONDESCOMPRESSEURSPACIFICELECTRIQUES |  |  |  |  |  |  |  |  |  | \n | PACIFIC16 |  | PACIFIC23 |  | PACIFIC28 |  | PACIFIC30 |  | PACIFIC35 | \n | 200 | 300 | 200 | 300 | 200 | 300 | 200 | 300 | 200 | 300\nPAC 01\n- | 9100 | 13500 | 6300 | 9500 | 5200 | 7800 | 4800 | 7200 | 4100 | 6200\nPAC 02\n- | 15900 | 23800 | 11000 | 16600 | 9000 | 13600 | 8400 | 12700 | 7200 | 10900\nPAC 03\n- | 23100 | 34700 | 16100 | 24100 | 13200 | 19800 | 12300 | 18500 | 10500 | 15800\n |  |  |  |  |  |  |  |  |  | \n | PACIFICMX40 |  | PACIFICMX50 |  | PACIFICMX60 |  | PACIFICMX70 |  |  | \n | 200 | 300 | 200 | 300 | 200 | 300 | 200 | 300 |  | \nPAC 03\n- | 9200 | 13800 | 7300 | 11000 | 6100 | 9200 | 5200 | 7900 |  | \nPAC 06\n- | 18400 | 27650 | 14700 | 22000 | 12200 | 18400 | 10500 | 15800 |  | ",
+    "rows": [
+      [
+        "CODEDESCARTOUCHESDEFILTRATIONDESCOMPRESSEURSPACIFICELECTRIQUES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "PACIFIC16",
+        "",
+        "PACIFIC23",
+        "",
+        "PACIFIC28",
+        "",
+        "PACIFIC30",
+        "",
+        "PACIFIC35",
+        ""
+      ],
+      [
+        "",
+        "200",
+        "300",
+        "200",
+        "300",
+        "200",
+        "300",
+        "200",
+        "300",
+        "200",
+        "300"
+      ],
+      [
+        "PAC 01\n-",
+        "9100",
+        "13500",
+        "6300",
+        "9500",
+        "5200",
+        "7800",
+        "4800",
+        "7200",
+        "4100",
+        "6200"
+      ],
+      [
+        "PAC 02\n-",
+        "15900",
+        "23800",
+        "11000",
+        "16600",
+        "9000",
+        "13600",
+        "8400",
+        "12700",
+        "7200",
+        "10900"
+      ],
+      [
+        "PAC 03\n-",
+        "23100",
+        "34700",
+        "16100",
+        "24100",
+        "13200",
+        "19800",
+        "12300",
+        "18500",
+        "10500",
+        "15800"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "PACIFICMX40",
+        "",
+        "PACIFICMX50",
+        "",
+        "PACIFICMX60",
+        "",
+        "PACIFICMX70",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "200",
+        "300",
+        "200",
+        "300",
+        "200",
+        "300",
+        "200",
+        "300",
+        "",
+        ""
+      ],
+      [
+        "PAC 03\n-",
+        "9200",
+        "13800",
+        "7300",
+        "11000",
+        "6100",
+        "9200",
+        "5200",
+        "7900",
+        "",
+        ""
+      ],
+      [
+        "PAC 06\n-",
+        "18400",
+        "27650",
+        "14700",
+        "22000",
+        "12200",
+        "18400",
+        "10500",
+        "15800",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 26,
+      "table_number": 1
+    }
+  },
+  {
     "type": "image",
     "content": "images/page_026_image_01.jpeg",
     "metadata": {
@@ -1210,6 +1887,388 @@
     }
   },
   {
+    "type": "table",
+    "content": "PROBLEME | CAUSE | REMEDE\nLecompresseurnedémarrepas | •pasdecourantélectrique | •Vérifiezlaligneélectrique\n | •fusible grillé | •Remplacezlefusiblegrillé\n | •courantélectriquetropfaible | •Vérifiezlaligneélectrique\n |  | \nProtectionthermiquedumoteur | •Consommationdecouranttropélevée | •Controllerlegroupecompresseur\n | •Réglagetropbasdelaprotectionthermique | •Corrigerleréglagedelaprotectionthermique\n |  | \nLemoteurélectriquenefonctionnepas | •Problèmes aveclecircuitélectrique | •Inverserlesphasesdumoteur\n |  | •Vérifierlesfusibles\n |  | \n |  | • Assurez-vous que le courant soit suffisant\n |  | \n |  | • Assurez-vous que le moteur soit alimenté\n |  | \n |  | \nLavitessederotationetledébitdiminuent | ' | •Assurez-vous qu'il y a assez de courant\n | •Lecourantnestpassuffisant | •Vérifierlemoteurélectrique\n |  | \n | •lacourroiepatine | •Vérifierlatensiondelacourroie\n |  | \n |  | •Remplacerlacourroie\n |  | \nLedébitd'airdiminues(sansquelavitesse | •Desraccordssontdesserrés | •Resserrerlesraccords\nderotationnediminue) | •Desjointssontusés | •Remplacerlesjoints\n | •Lefiltred'aspirationestbouché | •Remplacerounettoyerlefiltre\n | •Segmentationusée | •Remplacerlasegmentation\n | •Tuyauteried'aspirationbouchée | •Contrôlerlatuyauteried'arrivéed'air\n | •Lesclapetsfonctionnentmal | •Remplacerounettoyerlesclapets\n |  | \nLecompresseurn'atteintpassapression |  | \nmaximale | •Segmentationusée | •Remplacerlasegmentation\n | •Pistonsusés | •Remplacerlespistons\n |  | •Nettoyerlasoupapedesécurité\n | •Ouverturetropprécocedelasoupapefinale | •Controllerlacalibrationcorrectedelasoupape\n |  | •Remplacerlasoupapedesécurité\n |  | \nLasoupapedesécuritéd'unétage | •Pressiondel'étagetrophaute | •Problèmedepressiondansl'étagesuivant\nintermédiaire aunefuite | •Ouvertureprématuréedelasoupapede | •Nettoyerlasoupapedesécurité\n | sécurité | •Contrôlerlebontaragedelasoupape\n |  | •Remplacerlasoupape\n |  | \nSurchauffeducompresseur | •Mauvaissensderotation | •Inverserlesphasesdumoteur\n | •Aird'admissioninsuffisant | •Augmenterl'alimentationenairdelapièce\n | •Lesclapetsneserefermentpas | \n | correctement | •Contrôler nettoyer ou remplacer les clapets\n,\n |  | \n |  | •Températureambiantetropélevée(+45°CMax)\n |  | \nOdeurd'huiledansl'air | •Cartouchedefiltrationfinalesaturée | •Remplacerlacartouche\n |  | \nConsommationd'huileexcessive | •Segmentationusée | •Remplacerlasegmentation\n | •Pistonsusés | •Remplacerlespistons\n | •Lefiltred'aspirationestbouché | •Remplacerounettoyerlefiltre\n |  | \n |  | \nLecompresseurnes'arrêtepas | •Mauvaisréglagedelapressiond'arrêt | •Corrigerleréglage\nautomatiquement | •Soupapedesécuritédudernierétagequine | •Nettoyerlasoupape\n | fonctionnepas | •Retarerlasoupape\n |  | •Remplacerlasoupape\n |  | ",
+    "rows": [
+      [
+        "PROBLEME",
+        "CAUSE",
+        "REMEDE"
+      ],
+      [
+        "Lecompresseurnedémarrepas",
+        "•pasdecourantélectrique",
+        "•Vérifiezlaligneélectrique"
+      ],
+      [
+        "",
+        "•fusible grillé",
+        "•Remplacezlefusiblegrillé"
+      ],
+      [
+        "",
+        "•courantélectriquetropfaible",
+        "•Vérifiezlaligneélectrique"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Protectionthermiquedumoteur",
+        "•Consommationdecouranttropélevée",
+        "•Controllerlegroupecompresseur"
+      ],
+      [
+        "",
+        "•Réglagetropbasdelaprotectionthermique",
+        "•Corrigerleréglagedelaprotectionthermique"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Lemoteurélectriquenefonctionnepas",
+        "•Problèmes aveclecircuitélectrique",
+        "•Inverserlesphasesdumoteur"
+      ],
+      [
+        "",
+        "",
+        "•Vérifierlesfusibles"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "• Assurez-vous que le courant soit suffisant"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "• Assurez-vous que le moteur soit alimenté"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Lavitessederotationetledébitdiminuent",
+        "'",
+        "•Assurez-vous qu'il y a assez de courant"
+      ],
+      [
+        "",
+        "•Lecourantnestpassuffisant",
+        "•Vérifierlemoteurélectrique"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "•lacourroiepatine",
+        "•Vérifierlatensiondelacourroie"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "•Remplacerlacourroie"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Ledébitd'airdiminues(sansquelavitesse",
+        "•Desraccordssontdesserrés",
+        "•Resserrerlesraccords"
+      ],
+      [
+        "derotationnediminue)",
+        "•Desjointssontusés",
+        "•Remplacerlesjoints"
+      ],
+      [
+        "",
+        "•Lefiltred'aspirationestbouché",
+        "•Remplacerounettoyerlefiltre"
+      ],
+      [
+        "",
+        "•Segmentationusée",
+        "•Remplacerlasegmentation"
+      ],
+      [
+        "",
+        "•Tuyauteried'aspirationbouchée",
+        "•Contrôlerlatuyauteried'arrivéed'air"
+      ],
+      [
+        "",
+        "•Lesclapetsfonctionnentmal",
+        "•Remplacerounettoyerlesclapets"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Lecompresseurn'atteintpassapression",
+        "",
+        ""
+      ],
+      [
+        "maximale",
+        "•Segmentationusée",
+        "•Remplacerlasegmentation"
+      ],
+      [
+        "",
+        "•Pistonsusés",
+        "•Remplacerlespistons"
+      ],
+      [
+        "",
+        "",
+        "•Nettoyerlasoupapedesécurité"
+      ],
+      [
+        "",
+        "•Ouverturetropprécocedelasoupapefinale",
+        "•Controllerlacalibrationcorrectedelasoupape"
+      ],
+      [
+        "",
+        "",
+        "•Remplacerlasoupapedesécurité"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Lasoupapedesécuritéd'unétage",
+        "•Pressiondel'étagetrophaute",
+        "•Problèmedepressiondansl'étagesuivant"
+      ],
+      [
+        "intermédiaire aunefuite",
+        "•Ouvertureprématuréedelasoupapede",
+        "•Nettoyerlasoupapedesécurité"
+      ],
+      [
+        "",
+        "sécurité",
+        "•Contrôlerlebontaragedelasoupape"
+      ],
+      [
+        "",
+        "",
+        "•Remplacerlasoupape"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Surchauffeducompresseur",
+        "•Mauvaissensderotation",
+        "•Inverserlesphasesdumoteur"
+      ],
+      [
+        "",
+        "•Aird'admissioninsuffisant",
+        "•Augmenterl'alimentationenairdelapièce"
+      ],
+      [
+        "",
+        "•Lesclapetsneserefermentpas",
+        ""
+      ],
+      [
+        "",
+        "correctement",
+        "•Contrôler nettoyer ou remplacer les clapets\n,"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "•Températureambiantetropélevée(+45°CMax)"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Odeurd'huiledansl'air",
+        "•Cartouchedefiltrationfinalesaturée",
+        "•Remplacerlacartouche"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Consommationd'huileexcessive",
+        "•Segmentationusée",
+        "•Remplacerlasegmentation"
+      ],
+      [
+        "",
+        "•Pistonsusés",
+        "•Remplacerlespistons"
+      ],
+      [
+        "",
+        "•Lefiltred'aspirationestbouché",
+        "•Remplacerounettoyerlefiltre"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Lecompresseurnes'arrêtepas",
+        "•Mauvaisréglagedelapressiond'arrêt",
+        "•Corrigerleréglage"
+      ],
+      [
+        "automatiquement",
+        "•Soupapedesécuritédudernierétagequine",
+        "•Nettoyerlasoupape"
+      ],
+      [
+        "",
+        "fonctionnepas",
+        "•Retarerlasoupape"
+      ],
+      [
+        "",
+        "",
+        "•Remplacerlasoupape"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 30,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION |  | CODE | DESCRIPTION |  | CODE | DESCRIPTION | \nPA001-005 | vilebrequin |  | PA001-025 | Roulement |  | VD008-010 | Ecrou | \nPA001-010 | Contrepoids |  | PA001-030 | Roulement |  | VR030-005 | Rondelle | \nPA001-015 | Bielleavecaxedebarbotage |  | PA001-035 | Roulement |  | VV025-005 | Circlip | \nPA001-020 | Bielle |  | VB008-030 | boulon |  | VV030-005 | circlip | ",
+    "rows": [
+      [
+        "CODE",
+        "DESCRIPTION",
+        "",
+        "CODE",
+        "DESCRIPTION",
+        "",
+        "CODE",
+        "DESCRIPTION",
+        ""
+      ],
+      [
+        "PA001-005",
+        "vilebrequin",
+        "",
+        "PA001-025",
+        "Roulement",
+        "",
+        "VD008-010",
+        "Ecrou",
+        ""
+      ],
+      [
+        "PA001-010",
+        "Contrepoids",
+        "",
+        "PA001-030",
+        "Roulement",
+        "",
+        "VR030-005",
+        "Rondelle",
+        ""
+      ],
+      [
+        "PA001-015",
+        "Bielleavecaxedebarbotage",
+        "",
+        "PA001-035",
+        "Roulement",
+        "",
+        "VV025-005",
+        "Circlip",
+        ""
+      ],
+      [
+        "PA001-020",
+        "Bielle",
+        "",
+        "VB008-030",
+        "boulon",
+        "",
+        "VV030-005",
+        "circlip",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 31,
+      "table_number": 1
+    }
+  },
+  {
     "type": "image",
     "content": "images/page_031_image_01.jpeg",
     "metadata": {
@@ -1237,6 +2296,65 @@
     }
   },
   {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nOR304-005 | Joint torique | PA001-065 | Joint spi | VB008-035 | Boulon\nPA001-044 | Vilebrequin complet avec bielles | PA001-070 | Protection de ventilateur | VD016-015 | Ecrou\nPA001-050 | Carter | PA001-080 | Ventilateur | VR016-020 | Rondelle\nPA001-055 | Couvercle de carter | VB004-020 | Boulon | VV006-010 | Axe\nPA001-060 | Joint spi | VB006-006 | Boulon | VV065-005 | Clips",
+    "rows": [
+      [
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION"
+      ],
+      [
+        "OR304-005",
+        "Joint torique",
+        "PA001-065",
+        "Joint spi",
+        "VB008-035",
+        "Boulon"
+      ],
+      [
+        "PA001-044",
+        "Vilebrequin complet avec bielles",
+        "PA001-070",
+        "Protection de ventilateur",
+        "VD016-015",
+        "Ecrou"
+      ],
+      [
+        "PA001-050",
+        "Carter",
+        "PA001-080",
+        "Ventilateur",
+        "VR016-020",
+        "Rondelle"
+      ],
+      [
+        "PA001-055",
+        "Couvercle de carter",
+        "VB004-020",
+        "Boulon",
+        "VV006-010",
+        "Axe"
+      ],
+      [
+        "PA001-060",
+        "Joint spi",
+        "VB006-006",
+        "Boulon",
+        "VV065-005",
+        "Clips"
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 32,
+      "table_number": 1
+    }
+  },
+  {
     "type": "image",
     "content": "images/page_032_image_01.jpeg",
     "metadata": {
@@ -1255,6 +2373,83 @@
     }
   },
   {
+    "type": "table",
+    "content": "CODE | DESCRIPTION |  | CODE | DESCRIPTION |  | CODE | DESCRIPTION | \nOR304-005 | Jointtorique |  | PA001-065 | Jointspi |  | VB008-035 | Boulon | \nPA001-045 | Vilebrequincompletavecbielles |  | PA001-081 | Poulie |  | VD016-015 | Ecrou | \nPA001-050 | Carter |  | PA001-082 | Ventilateur |  | VR016-020 | Rondelle | \nPA001-055 | Couvercledecarter |  | VB006-006 | Boulon |  | VV006-010 | Axe | \nPA001-060 | Jointspi |  | VB006-031 | Boulon |  | VV065-005 | Clips | ",
+    "rows": [
+      [
+        "CODE",
+        "DESCRIPTION",
+        "",
+        "CODE",
+        "DESCRIPTION",
+        "",
+        "CODE",
+        "DESCRIPTION",
+        ""
+      ],
+      [
+        "OR304-005",
+        "Jointtorique",
+        "",
+        "PA001-065",
+        "Jointspi",
+        "",
+        "VB008-035",
+        "Boulon",
+        ""
+      ],
+      [
+        "PA001-045",
+        "Vilebrequincompletavecbielles",
+        "",
+        "PA001-081",
+        "Poulie",
+        "",
+        "VD016-015",
+        "Ecrou",
+        ""
+      ],
+      [
+        "PA001-050",
+        "Carter",
+        "",
+        "PA001-082",
+        "Ventilateur",
+        "",
+        "VR016-020",
+        "Rondelle",
+        ""
+      ],
+      [
+        "PA001-055",
+        "Couvercledecarter",
+        "",
+        "VB006-006",
+        "Boulon",
+        "",
+        "VV006-010",
+        "Axe",
+        ""
+      ],
+      [
+        "PA001-060",
+        "Jointspi",
+        "",
+        "VB006-031",
+        "Boulon",
+        "",
+        "VV065-005",
+        "Clips",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 33,
+      "table_number": 1
+    }
+  },
+  {
     "type": "image",
     "content": "images/page_033_image_01.jpeg",
     "metadata": {
@@ -1270,6 +2465,143 @@
       "source": "maintenance_machine.pdf",
       "page": 33,
       "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE |  | DESCRIPTION | CODE | DESCRIPTION\nAC006-105 | Robinetdevidange |  | PA001-105 | Bouchonavecaimant | PA003-005 | Tubedepompeàhuile\nAC008-006 | Ogivepourtube12mm |  | PA001-110 | Fenêtredeniveaud'huile | PA003-010 | Tubedepompeàhuile\nAC008-007 | Ecroupourtube12mm |  | PA001-125 | Supportderefroidisseur | VB004-020 | Boulon\nAC014-010 | Bouchon |  | PA001-126 | Supportderefroidisseur | VB004-040 | Boulon\nHR117-014 | RaccordG1/4”pourtube6mm |  | PA001-135 | Pompeàhuile | VB006-013 | Boulon\nHR120-004 | Raccord“L”G1/4”pourtube6mm |  | PA001-140 | Chambredefiltreàhuile | VB006-046 | Boulon\nHR176-002 | BouchonG1/4” |  | PA001-145 | filtreàhuile | VB010-010 | Boulon\nHR701-013 | Rondellejoint |  | PA001-150 | Bouchondechambredefiltreàhuile | VD004-010 | Ecrou\nOR022-010 | Jointtorique |  | PA001-155 | Clapetantiretourdepompeàhuile | VD010-015 | Ecrou\nOR034-005 | Jointtorique |  | PA001-200 | Raccordderemplissagehuile | VR010-005 | Rondelle\nPA001-085 | Supportdecompresseur |  | PA001-201 | bouchon |  | \nPA001-095 | Supportderefroidisseur |  | PA001-208 | Séparateurd'huile |  | \nPA001-096 | Supportderefroidisseur |  | PA001-205 | Tube |  | ",
+    "rows": [
+      [
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION"
+      ],
+      [
+        "AC006-105",
+        "Robinetdevidange",
+        "",
+        "PA001-105",
+        "Bouchonavecaimant",
+        "PA003-005",
+        "Tubedepompeàhuile"
+      ],
+      [
+        "AC008-006",
+        "Ogivepourtube12mm",
+        "",
+        "PA001-110",
+        "Fenêtredeniveaud'huile",
+        "PA003-010",
+        "Tubedepompeàhuile"
+      ],
+      [
+        "AC008-007",
+        "Ecroupourtube12mm",
+        "",
+        "PA001-125",
+        "Supportderefroidisseur",
+        "VB004-020",
+        "Boulon"
+      ],
+      [
+        "AC014-010",
+        "Bouchon",
+        "",
+        "PA001-126",
+        "Supportderefroidisseur",
+        "VB004-040",
+        "Boulon"
+      ],
+      [
+        "HR117-014",
+        "RaccordG1/4”pourtube6mm",
+        "",
+        "PA001-135",
+        "Pompeàhuile",
+        "VB006-013",
+        "Boulon"
+      ],
+      [
+        "HR120-004",
+        "Raccord“L”G1/4”pourtube6mm",
+        "",
+        "PA001-140",
+        "Chambredefiltreàhuile",
+        "VB006-046",
+        "Boulon"
+      ],
+      [
+        "HR176-002",
+        "BouchonG1/4”",
+        "",
+        "PA001-145",
+        "filtreàhuile",
+        "VB010-010",
+        "Boulon"
+      ],
+      [
+        "HR701-013",
+        "Rondellejoint",
+        "",
+        "PA001-150",
+        "Bouchondechambredefiltreàhuile",
+        "VD004-010",
+        "Ecrou"
+      ],
+      [
+        "OR022-010",
+        "Jointtorique",
+        "",
+        "PA001-155",
+        "Clapetantiretourdepompeàhuile",
+        "VD010-015",
+        "Ecrou"
+      ],
+      [
+        "OR034-005",
+        "Jointtorique",
+        "",
+        "PA001-200",
+        "Raccordderemplissagehuile",
+        "VR010-005",
+        "Rondelle"
+      ],
+      [
+        "PA001-085",
+        "Supportdecompresseur",
+        "",
+        "PA001-201",
+        "bouchon",
+        "",
+        ""
+      ],
+      [
+        "PA001-095",
+        "Supportderefroidisseur",
+        "",
+        "PA001-208",
+        "Séparateurd'huile",
+        "",
+        ""
+      ],
+      [
+        "PA001-096",
+        "Supportderefroidisseur",
+        "",
+        "PA001-205",
+        "Tube",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 34,
+      "table_number": 1
     }
   },
   {
@@ -1342,6 +2674,105 @@
       "source": "maintenance_machine.pdf",
       "page": 37,
       "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nHR120-007 | Raccord “L” 3/8\"G pour tube 12 mm | PA002-581 | Cylindre | VB008-026 | Boulon\nHR176-002 | Bouchon1/4'' | PA002-585 | Clapet d'aspiration | VB008-036 | Boulon\nOR020-015 | Joint torique | PA002-587 | Siège de clapet | VB008-115 | Boulon\nOR053-006 | Joint torique | PA002-588 | Plaque de clapet | VD008-007 | Ecrou\nOR060-005 | Joint torique | PA002-590 | Ressort de clapet | VD008-015 | Ecrou\nOR066-005 | Joint torique | PA002-591 | Insert de clapet | VR008-006 | Rondelle\nPA002-505 | Piston guide | PA002-592 | Chambre de clapet | VR008-015 | Rondelle\nPA002-510 | Cylindre | PA002-593 | Insert de clapet | VR012-025 | Rondelle\nPA002-520 | Piston complet avec segments | PA002-594 | Chambre de clapet complète | VR029-005 | Rondelle\nPA002-521 | Piston | PA002-595 | Culasse |  | ",
+    "rows": [
+      [
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION"
+      ],
+      [
+        "HR120-007",
+        "Raccord “L” 3/8\"G pour tube 12 mm",
+        "PA002-581",
+        "Cylindre",
+        "VB008-026",
+        "Boulon"
+      ],
+      [
+        "HR176-002",
+        "Bouchon1/4''",
+        "PA002-585",
+        "Clapet d'aspiration",
+        "VB008-036",
+        "Boulon"
+      ],
+      [
+        "OR020-015",
+        "Joint torique",
+        "PA002-587",
+        "Siège de clapet",
+        "VB008-115",
+        "Boulon"
+      ],
+      [
+        "OR053-006",
+        "Joint torique",
+        "PA002-588",
+        "Plaque de clapet",
+        "VD008-007",
+        "Ecrou"
+      ],
+      [
+        "OR060-005",
+        "Joint torique",
+        "PA002-590",
+        "Ressort de clapet",
+        "VD008-015",
+        "Ecrou"
+      ],
+      [
+        "OR066-005",
+        "Joint torique",
+        "PA002-591",
+        "Insert de clapet",
+        "VR008-006",
+        "Rondelle"
+      ],
+      [
+        "PA002-505",
+        "Piston guide",
+        "PA002-592",
+        "Chambre de clapet",
+        "VR008-015",
+        "Rondelle"
+      ],
+      [
+        "PA002-510",
+        "Cylindre",
+        "PA002-593",
+        "Insert de clapet",
+        "VR012-025",
+        "Rondelle"
+      ],
+      [
+        "PA002-520",
+        "Piston complet avec segments",
+        "PA002-594",
+        "Chambre de clapet complète",
+        "VR029-005",
+        "Rondelle"
+      ],
+      [
+        "PA002-521",
+        "Piston",
+        "PA002-595",
+        "Culasse",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 38,
+      "table_number": 1
     }
   },
   {
@@ -1525,6 +2956,113 @@
     }
   },
   {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nHR120-007 | Raccord “L” 3/8\"G pour tube 12 mm | PA002-582 | Cylindre | VB008-026 | Boulon\nHR176-002 | Bouchon1/4'' | PA002-585 | Clapet d'aspiration | VB008-036 | Boulon\nOR020-015 | Joint torique | PA002-587 | Siège de clapet | VB008-115 | Boulon\nOR053-006 | Joint torique | PA002-588 | Plaque de clapet | VD008-007 | Ecrou\nOR060-005 | Joint torique | PA002-590 | Ressort de clapet | VD008-015 | Ecrou\nOR066-005 | Joint torique | PA002-591 | Insert de clapet | VR008-006 | Rondelle\nPA002-505 | Piston guide | PA002-592 | Chambre de clapet | VR008-015 | Rondelle\nPA002-510 | Cylindre | PA002-593 | Insert de clapet | VR012-025 | Rondelle\nPA002-525 | Piston complet avec segments | PA002-594 | Chambre de clapet complète | VR029-005 | Rondelle\nPA002-526 | Piston | PA002-595 | Culasse |  | \n |  |  |  |  | ",
+    "rows": [
+      [
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION"
+      ],
+      [
+        "HR120-007",
+        "Raccord “L” 3/8\"G pour tube 12 mm",
+        "PA002-582",
+        "Cylindre",
+        "VB008-026",
+        "Boulon"
+      ],
+      [
+        "HR176-002",
+        "Bouchon1/4''",
+        "PA002-585",
+        "Clapet d'aspiration",
+        "VB008-036",
+        "Boulon"
+      ],
+      [
+        "OR020-015",
+        "Joint torique",
+        "PA002-587",
+        "Siège de clapet",
+        "VB008-115",
+        "Boulon"
+      ],
+      [
+        "OR053-006",
+        "Joint torique",
+        "PA002-588",
+        "Plaque de clapet",
+        "VD008-007",
+        "Ecrou"
+      ],
+      [
+        "OR060-005",
+        "Joint torique",
+        "PA002-590",
+        "Ressort de clapet",
+        "VD008-015",
+        "Ecrou"
+      ],
+      [
+        "OR066-005",
+        "Joint torique",
+        "PA002-591",
+        "Insert de clapet",
+        "VR008-006",
+        "Rondelle"
+      ],
+      [
+        "PA002-505",
+        "Piston guide",
+        "PA002-592",
+        "Chambre de clapet",
+        "VR008-015",
+        "Rondelle"
+      ],
+      [
+        "PA002-510",
+        "Cylindre",
+        "PA002-593",
+        "Insert de clapet",
+        "VR012-025",
+        "Rondelle"
+      ],
+      [
+        "PA002-525",
+        "Piston complet avec segments",
+        "PA002-594",
+        "Chambre de clapet complète",
+        "VR029-005",
+        "Rondelle"
+      ],
+      [
+        "PA002-526",
+        "Piston",
+        "PA002-595",
+        "Culasse",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 39,
+      "table_number": 1
+    }
+  },
+  {
     "type": "image",
     "content": "images/page_039_image_01.jpeg",
     "metadata": {
@@ -1540,6 +3078,113 @@
       "source": "maintenance_machine.pdf",
       "page": 39,
       "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nHR120-007 | Raccord “L” 3/8\"G pour tube 12 mm | PA002-580 | Cylindre | VB008-026 | Boulon\nHR176-002 | Bouchon1/4'' | PA002-585 | Clapet d'aspiration | VB008-036 | Boulon\nOR020-015 | Joint torique | PA002-587 | Siège de clapet | VB008-115 | Boulon\nOR053-006 | Joint torique | PA002-588 | Plaque de clapet | VD008-007 | Ecrou\nOR060-005 | Joint torique | PA002-590 | Ressort de clapet | VD008-015 | Ecrou\nOR066-005 | Joint torique | PA002-591 | Insert de clapet | VR008-006 | Rondelle\nPA002-505 | Piston guide | PA002-592 | Chambre de clapet | VR008-015 | Rondelle\nPA002-510 | Cylindre | PA002-593 | Insert de clapet | VR012-025 | Rondelle\nPA002-515 | Piston complet avec segments | PA002-594 | Chambre de clapet complète | VR029-005 | Rondelle\nPA002-516 | Piston | PA002-595 | Culasse |  | \nPA002-516 | Jeu de segments | PA110-082 | Soupape de sécurité |  | ",
+    "rows": [
+      [
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION"
+      ],
+      [
+        "HR120-007",
+        "Raccord “L” 3/8\"G pour tube 12 mm",
+        "PA002-580",
+        "Cylindre",
+        "VB008-026",
+        "Boulon"
+      ],
+      [
+        "HR176-002",
+        "Bouchon1/4''",
+        "PA002-585",
+        "Clapet d'aspiration",
+        "VB008-036",
+        "Boulon"
+      ],
+      [
+        "OR020-015",
+        "Joint torique",
+        "PA002-587",
+        "Siège de clapet",
+        "VB008-115",
+        "Boulon"
+      ],
+      [
+        "OR053-006",
+        "Joint torique",
+        "PA002-588",
+        "Plaque de clapet",
+        "VD008-007",
+        "Ecrou"
+      ],
+      [
+        "OR060-005",
+        "Joint torique",
+        "PA002-590",
+        "Ressort de clapet",
+        "VD008-015",
+        "Ecrou"
+      ],
+      [
+        "OR066-005",
+        "Joint torique",
+        "PA002-591",
+        "Insert de clapet",
+        "VR008-006",
+        "Rondelle"
+      ],
+      [
+        "PA002-505",
+        "Piston guide",
+        "PA002-592",
+        "Chambre de clapet",
+        "VR008-015",
+        "Rondelle"
+      ],
+      [
+        "PA002-510",
+        "Cylindre",
+        "PA002-593",
+        "Insert de clapet",
+        "VR012-025",
+        "Rondelle"
+      ],
+      [
+        "PA002-515",
+        "Piston complet avec segments",
+        "PA002-594",
+        "Chambre de clapet complète",
+        "VR029-005",
+        "Rondelle"
+      ],
+      [
+        "PA002-516",
+        "Piston",
+        "PA002-595",
+        "Culasse",
+        "",
+        ""
+      ],
+      [
+        "PA002-516",
+        "Jeu de segments",
+        "PA110-082",
+        "Soupape de sécurité",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 40,
+      "table_number": 1
     }
   },
   {
@@ -1561,6 +3206,105 @@
     }
   },
   {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT098-001 | Ressort | PA002-511 | Cylindre | PA004-676 | Joint torique\nHR117-017 | Raccord direct | PA002-607 | Jeux de segment | PA004-678 | Joint torique\nHR120-004 | Raccord “L” | PA004-610 | Piston complet avec segments | PA004-679 | Clapet Setger\nOR022-005 | Joint torique | PA004-615 | Piston | PA004-683 | Chapeau de clapet\nOR024-005 | Joint torique | PA004-619 | Chemise | PA004-685 | Clapet d'aspiration\nOR037-009 | Joint torique | PA004-625 | Cylindre | PA004-690 | Corps de clapet\nOR037-010 | Joint torique | PA004-670 | Coupleur de clapet | VB008-014 | Boulon\nOR060-005 | Joint torique | PA004-671 | Clapet d'échappement | VB008-036 | Boulon\nOR066-005 | Joint torique | PA004-671 | Chapeau de clapet | VR008-015 | Rondelle\nPA002-505 | Piston guide |  |  |  | ",
+    "rows": [
+      [
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION"
+      ],
+      [
+        "AT098-001",
+        "Ressort",
+        "PA002-511",
+        "Cylindre",
+        "PA004-676",
+        "Joint torique"
+      ],
+      [
+        "HR117-017",
+        "Raccord direct",
+        "PA002-607",
+        "Jeux de segment",
+        "PA004-678",
+        "Joint torique"
+      ],
+      [
+        "HR120-004",
+        "Raccord “L”",
+        "PA004-610",
+        "Piston complet avec segments",
+        "PA004-679",
+        "Clapet Setger"
+      ],
+      [
+        "OR022-005",
+        "Joint torique",
+        "PA004-615",
+        "Piston",
+        "PA004-683",
+        "Chapeau de clapet"
+      ],
+      [
+        "OR024-005",
+        "Joint torique",
+        "PA004-619",
+        "Chemise",
+        "PA004-685",
+        "Clapet d'aspiration"
+      ],
+      [
+        "OR037-009",
+        "Joint torique",
+        "PA004-625",
+        "Cylindre",
+        "PA004-690",
+        "Corps de clapet"
+      ],
+      [
+        "OR037-010",
+        "Joint torique",
+        "PA004-670",
+        "Coupleur de clapet",
+        "VB008-014",
+        "Boulon"
+      ],
+      [
+        "OR060-005",
+        "Joint torique",
+        "PA004-671",
+        "Clapet d'échappement",
+        "VB008-036",
+        "Boulon"
+      ],
+      [
+        "OR066-005",
+        "Joint torique",
+        "PA004-671",
+        "Chapeau de clapet",
+        "VR008-015",
+        "Rondelle"
+      ],
+      [
+        "PA002-505",
+        "Piston guide",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 41,
+      "table_number": 1
+    }
+  },
+  {
     "type": "image",
     "content": "images/page_041_image_01.jpeg",
     "metadata": {
@@ -1576,6 +3320,105 @@
       "source": "maintenance_machine.pdf",
       "page": 41,
       "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT098-001 | Ressort | PA002-511 | Cylindre | PA004-676 | Joint torique\nHR117-017 | Raccord direct | PA002-617 | Jeux de segment | PA004-678 | Joint torique\nHR120-004 | Raccord “L” | PA004-611 | Piston complet avec segments | PA004-679 | Clapet Setger\nOR022-005 | Joint torique | PA004-616 | Piston | PA004-683 | Chapeau de clapet\nOR024-005 | Joint torique | PA004-620 | Chemise | PA004-685 | Clapet d'aspiration\nOR037-009 | Joint torique | PA004-625 | Cylindre | PA004-690 | Corps de clapet\nOR037-010 | Joint torique | PA004-670 | Coupleur de clapet | VB008-014 | Boulon\nOR060-005 | Joint torique | PA004-671 | Clapet d'échappement | VB008-036 | Boulon\nOR066-005 | Joint torique | PA004-671 | Chapeau de clapet | VR008-015 | Rondelle\nPA002-505 | Piston guide |  |  |  | ",
+    "rows": [
+      [
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION"
+      ],
+      [
+        "AT098-001",
+        "Ressort",
+        "PA002-511",
+        "Cylindre",
+        "PA004-676",
+        "Joint torique"
+      ],
+      [
+        "HR117-017",
+        "Raccord direct",
+        "PA002-617",
+        "Jeux de segment",
+        "PA004-678",
+        "Joint torique"
+      ],
+      [
+        "HR120-004",
+        "Raccord “L”",
+        "PA004-611",
+        "Piston complet avec segments",
+        "PA004-679",
+        "Clapet Setger"
+      ],
+      [
+        "OR022-005",
+        "Joint torique",
+        "PA004-616",
+        "Piston",
+        "PA004-683",
+        "Chapeau de clapet"
+      ],
+      [
+        "OR024-005",
+        "Joint torique",
+        "PA004-620",
+        "Chemise",
+        "PA004-685",
+        "Clapet d'aspiration"
+      ],
+      [
+        "OR037-009",
+        "Joint torique",
+        "PA004-625",
+        "Cylindre",
+        "PA004-690",
+        "Corps de clapet"
+      ],
+      [
+        "OR037-010",
+        "Joint torique",
+        "PA004-670",
+        "Coupleur de clapet",
+        "VB008-014",
+        "Boulon"
+      ],
+      [
+        "OR060-005",
+        "Joint torique",
+        "PA004-671",
+        "Clapet d'échappement",
+        "VB008-036",
+        "Boulon"
+      ],
+      [
+        "OR066-005",
+        "Joint torique",
+        "PA004-671",
+        "Chapeau de clapet",
+        "VR008-015",
+        "Rondelle"
+      ],
+      [
+        "PA002-505",
+        "Piston guide",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 42,
+      "table_number": 1
     }
   },
   {
@@ -1612,6 +3455,105 @@
       "source": "maintenance_machine.pdf",
       "page": 43,
       "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT140-005 | Corpsderobinetdevidange | OR017-010 | Jointtorique | PA110-102 | soupapedesécuritéPN200bar\nAT140-100 | Robinetdevidangecomplet | OR053-006 | Jointtorique | PA110-103 | soupapedesécuritéPN300bar\nAT141-001 | Clapetrilsan | PA002-720 | Corpsdefiltreséparateur | VB004-021 | Boulon\nAT142-001 | Volantderobinet | PA002-721 | Filtreenbronze | VB006-051 | Boulon\nHR101-004 | Ogive | PA002-722 | Couvercle | VB008-012 | Boulon\nHR102-014 | Ecrouderaccord | PA002-723 | Couvercle | VR004-010 | Rondelle\nHR120-007 | Raccord“L”3/8\"G pourtube12mm | PA002-724 | Cartouchecomplètedefiltreséparateur | VR008-006 | Rondelle\nHR120-114 | Raccord“L”1/4\"Gpourtube6mm | PA002-725 | Têtedefiltreséparateur |  | \nHR125-141 | Corpsderaccord“T”1/4\"Gpourtube6mm | PA002-726 | Supportdefiltreséparateur |  | \nHR701-012 | IRN oO nXdellejoint | PA002-727 | Tubedeséparateur |  | ",
+    "rows": [
+      [
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION"
+      ],
+      [
+        "AT140-005",
+        "Corpsderobinetdevidange",
+        "OR017-010",
+        "Jointtorique",
+        "PA110-102",
+        "soupapedesécuritéPN200bar"
+      ],
+      [
+        "AT140-100",
+        "Robinetdevidangecomplet",
+        "OR053-006",
+        "Jointtorique",
+        "PA110-103",
+        "soupapedesécuritéPN300bar"
+      ],
+      [
+        "AT141-001",
+        "Clapetrilsan",
+        "PA002-720",
+        "Corpsdefiltreséparateur",
+        "VB004-021",
+        "Boulon"
+      ],
+      [
+        "AT142-001",
+        "Volantderobinet",
+        "PA002-721",
+        "Filtreenbronze",
+        "VB006-051",
+        "Boulon"
+      ],
+      [
+        "HR101-004",
+        "Ogive",
+        "PA002-722",
+        "Couvercle",
+        "VB008-012",
+        "Boulon"
+      ],
+      [
+        "HR102-014",
+        "Ecrouderaccord",
+        "PA002-723",
+        "Couvercle",
+        "VR004-010",
+        "Rondelle"
+      ],
+      [
+        "HR120-007",
+        "Raccord“L”3/8\"G pourtube12mm",
+        "PA002-724",
+        "Cartouchecomplètedefiltreséparateur",
+        "VR008-006",
+        "Rondelle"
+      ],
+      [
+        "HR120-114",
+        "Raccord“L”1/4\"Gpourtube6mm",
+        "PA002-725",
+        "Têtedefiltreséparateur",
+        "",
+        ""
+      ],
+      [
+        "HR125-141",
+        "Corpsderaccord“T”1/4\"Gpourtube6mm",
+        "PA002-726",
+        "Supportdefiltreséparateur",
+        "",
+        ""
+      ],
+      [
+        "HR701-012",
+        "IRN oO nXdellejoint",
+        "PA002-727",
+        "Tubedeséparateur",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 44,
+      "table_number": 1
     }
   },
   {
@@ -1669,6 +3611,129 @@
     }
   },
   {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT140-001 | Corpsderobinetdevidange | OR011-004 | Jointtorique | PA100-113 | blocfiltre\nAT140-100 | Robinetdevidangecomplet | OR025-005 | Jointtorique | PA100-114 | Têtedeblocfiltre\nAT141-001 | Clapetrilsan | OR066-010 | Jointtorique | PA100-115 | tube\nAT142-001 | Volantderobinet | OR068-005 | Jointtorique | PA100-117 | Basedefiltre\nAT142-002 | Tube | PA100-050 | Insertdeclapet | PA100-123 | Extensiondefiltre\nHR101-004 | Ogive | PA100-051 | Pistondeclapet | PA100-149 | Clapetantiretour\nHR102-014 | Ecrouderaccord | PA100-052 | Guidederessort | PA114-047 | ConnexionINOX\nHR176-002 | Bouchon1/4’’ | PA100-053 | bouchon | PA115-116 | Ressortdeclapetantiretour\nHR701-012 | Rondelle | PA100-054 | Ecrou | PA115-119 | Pistondeclapetantiretour\nOR002-005 | Jointtorique | PA100-060 | Clapetdemaintientcomplet | VB008-012 | Boulon\nOR003-005 | Jointtorique | PA100-101 | Cartouchedefiltrationpourélectrique | VB008-070 | Boulon\nOR009-005 | Jointtorique | PA100-102 | Cartouchedefiltrationpouressence | VR006-015 | Rondellederessort\nOR009-010 | Jointtorique | PA100-110 | Supportdefiltre | VV005-015 | Sphère",
+    "rows": [
+      [
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION"
+      ],
+      [
+        "AT140-001",
+        "Corpsderobinetdevidange",
+        "OR011-004",
+        "Jointtorique",
+        "PA100-113",
+        "blocfiltre"
+      ],
+      [
+        "AT140-100",
+        "Robinetdevidangecomplet",
+        "OR025-005",
+        "Jointtorique",
+        "PA100-114",
+        "Têtedeblocfiltre"
+      ],
+      [
+        "AT141-001",
+        "Clapetrilsan",
+        "OR066-010",
+        "Jointtorique",
+        "PA100-115",
+        "tube"
+      ],
+      [
+        "AT142-001",
+        "Volantderobinet",
+        "OR068-005",
+        "Jointtorique",
+        "PA100-117",
+        "Basedefiltre"
+      ],
+      [
+        "AT142-002",
+        "Tube",
+        "PA100-050",
+        "Insertdeclapet",
+        "PA100-123",
+        "Extensiondefiltre"
+      ],
+      [
+        "HR101-004",
+        "Ogive",
+        "PA100-051",
+        "Pistondeclapet",
+        "PA100-149",
+        "Clapetantiretour"
+      ],
+      [
+        "HR102-014",
+        "Ecrouderaccord",
+        "PA100-052",
+        "Guidederessort",
+        "PA114-047",
+        "ConnexionINOX"
+      ],
+      [
+        "HR176-002",
+        "Bouchon1/4’’",
+        "PA100-053",
+        "bouchon",
+        "PA115-116",
+        "Ressortdeclapetantiretour"
+      ],
+      [
+        "HR701-012",
+        "Rondelle",
+        "PA100-054",
+        "Ecrou",
+        "PA115-119",
+        "Pistondeclapetantiretour"
+      ],
+      [
+        "OR002-005",
+        "Jointtorique",
+        "PA100-060",
+        "Clapetdemaintientcomplet",
+        "VB008-012",
+        "Boulon"
+      ],
+      [
+        "OR003-005",
+        "Jointtorique",
+        "PA100-101",
+        "Cartouchedefiltrationpourélectrique",
+        "VB008-070",
+        "Boulon"
+      ],
+      [
+        "OR009-005",
+        "Jointtorique",
+        "PA100-102",
+        "Cartouchedefiltrationpouressence",
+        "VR006-015",
+        "Rondellederessort"
+      ],
+      [
+        "OR009-010",
+        "Jointtorique",
+        "PA100-110",
+        "Supportdefiltre",
+        "VV005-015",
+        "Sphère"
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 47,
+      "table_number": 1
+    }
+  },
+  {
     "type": "image",
     "content": "images/page_047_image_01.jpeg",
     "metadata": {
@@ -1684,6 +3749,129 @@
       "source": "maintenance_machine.pdf",
       "page": 47,
       "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT140-001 | Corpsderobinetdevidange | OR011-004 | Jointtorique | PA100-213 | blocfiltre\nAT140-100 | Robinetdevidangecomplet | OR025-005 | Jointtorique | PA100-114 | Têtedeblocfiltre\nAT141-001 | Clapetrilsan | OR066-010 | Jointtorique | PA100-115 | tube\nAT142-001 | Volantderobinet | OR068-005 | Jointtorique | PA100-117 | Basedefiltre\nAT142-002 | Tube | PA100-050 | Insertdeclapet | PA100-123 | Extensiondefiltre\nHR101-004 | Ogive | PA100-051 | Pistondeclapet | PA100-149 | Clapetantiretour\nHR102-014 | Ecrouderaccord | PA100-052 | Guidederessort | PA114-047 | ConnexionINOX\nHR176-002 | Bouchon1/4’’ | PA100-053 | bouchon | PA115-116 | Ressortdeclapetantiretour\nHR701-012 | Rondelle | PA100-054 | Ecrou | PA115-119 | Pistondeclapetantiretour\nOR002-005 | Jointtorique | PA100-060 | Clapetdemaintientcomplet | VB008-012 | Boulon\nOR003-005 | Jointtorique | PA100-201 | Cartouchedefiltrationpourélectrique | VB008-070 | Boulon\nOR009-005 | Jointtorique | PA100-202 | Cartouchedefiltrationpouressence | VR006-015 | Rondellederessort\nOR009-010 | Jointtorique | PA100-110 | Supportdefiltre | VV005-015 | Sphere",
+    "rows": [
+      [
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION"
+      ],
+      [
+        "AT140-001",
+        "Corpsderobinetdevidange",
+        "OR011-004",
+        "Jointtorique",
+        "PA100-213",
+        "blocfiltre"
+      ],
+      [
+        "AT140-100",
+        "Robinetdevidangecomplet",
+        "OR025-005",
+        "Jointtorique",
+        "PA100-114",
+        "Têtedeblocfiltre"
+      ],
+      [
+        "AT141-001",
+        "Clapetrilsan",
+        "OR066-010",
+        "Jointtorique",
+        "PA100-115",
+        "tube"
+      ],
+      [
+        "AT142-001",
+        "Volantderobinet",
+        "OR068-005",
+        "Jointtorique",
+        "PA100-117",
+        "Basedefiltre"
+      ],
+      [
+        "AT142-002",
+        "Tube",
+        "PA100-050",
+        "Insertdeclapet",
+        "PA100-123",
+        "Extensiondefiltre"
+      ],
+      [
+        "HR101-004",
+        "Ogive",
+        "PA100-051",
+        "Pistondeclapet",
+        "PA100-149",
+        "Clapetantiretour"
+      ],
+      [
+        "HR102-014",
+        "Ecrouderaccord",
+        "PA100-052",
+        "Guidederessort",
+        "PA114-047",
+        "ConnexionINOX"
+      ],
+      [
+        "HR176-002",
+        "Bouchon1/4’’",
+        "PA100-053",
+        "bouchon",
+        "PA115-116",
+        "Ressortdeclapetantiretour"
+      ],
+      [
+        "HR701-012",
+        "Rondelle",
+        "PA100-054",
+        "Ecrou",
+        "PA115-119",
+        "Pistondeclapetantiretour"
+      ],
+      [
+        "OR002-005",
+        "Jointtorique",
+        "PA100-060",
+        "Clapetdemaintientcomplet",
+        "VB008-012",
+        "Boulon"
+      ],
+      [
+        "OR003-005",
+        "Jointtorique",
+        "PA100-201",
+        "Cartouchedefiltrationpourélectrique",
+        "VB008-070",
+        "Boulon"
+      ],
+      [
+        "OR009-005",
+        "Jointtorique",
+        "PA100-202",
+        "Cartouchedefiltrationpouressence",
+        "VR006-015",
+        "Rondellederessort"
+      ],
+      [
+        "OR009-010",
+        "Jointtorique",
+        "PA100-110",
+        "Supportdefiltre",
+        "VV005-015",
+        "Sphere"
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 48,
+      "table_number": 1
     }
   },
   {
@@ -1705,6 +3893,129 @@
     }
   },
   {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nAT140-001 | Corpsderobinetdevidange | OR011-004 | Jointtorique | PA100-313 | blocfiltre\nAT140-100 | Robinetdevidangecomplet | OR025-005 | Jointtorique | PA100-114 | Têtedeblocfiltre\nAT141-001 | Clapetrilsan | OR066-010 | Jointtorique | PA100-115 | tube\nAT142-001 | Volantderobinet | OR068-005 | Jointtorique | PA100-117 | Basedefiltre\nAT142-002 | Tube | PA100-050 | Insertdeclapet | PA100-123 | Extensiondefiltre\nHR101-004 | Ogive | PA100-051 | Pistondeclapet | PA100-149 | Clapetantiretour\nHR102-014 | Ecrouderaccord | PA100-052 | Guidederessort | PA114-047 | ConnexionINOX\nHR176-002 | Bouchon1/4’’ | PA100-053 | bouchon | PA115-116 | Ressortdeclapetantiretour\nHR701-012 | Rondelle | PA100-054 | Ecrou | PA115-119 | Pistondeclapetantiretour\nOR002-005 | Jointtorique | PA100-060 | Clapetdemaintientcomplet | VB008-012 | Boulon\nOR003-005 | Jointtorique | PA100-301 | Cartouchedefiltrationpourélectrique | VB008-070 | Boulon\nOR009-005 | Jointtorique | PA100-302 | Cartouchedefiltrationpouressence | VR006-015 | Rondellederessort\nOR009-010 | Jointtorique | PA100-110 | Supportdefiltre | VV005-015 | Sphère",
+    "rows": [
+      [
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION"
+      ],
+      [
+        "AT140-001",
+        "Corpsderobinetdevidange",
+        "OR011-004",
+        "Jointtorique",
+        "PA100-313",
+        "blocfiltre"
+      ],
+      [
+        "AT140-100",
+        "Robinetdevidangecomplet",
+        "OR025-005",
+        "Jointtorique",
+        "PA100-114",
+        "Têtedeblocfiltre"
+      ],
+      [
+        "AT141-001",
+        "Clapetrilsan",
+        "OR066-010",
+        "Jointtorique",
+        "PA100-115",
+        "tube"
+      ],
+      [
+        "AT142-001",
+        "Volantderobinet",
+        "OR068-005",
+        "Jointtorique",
+        "PA100-117",
+        "Basedefiltre"
+      ],
+      [
+        "AT142-002",
+        "Tube",
+        "PA100-050",
+        "Insertdeclapet",
+        "PA100-123",
+        "Extensiondefiltre"
+      ],
+      [
+        "HR101-004",
+        "Ogive",
+        "PA100-051",
+        "Pistondeclapet",
+        "PA100-149",
+        "Clapetantiretour"
+      ],
+      [
+        "HR102-014",
+        "Ecrouderaccord",
+        "PA100-052",
+        "Guidederessort",
+        "PA114-047",
+        "ConnexionINOX"
+      ],
+      [
+        "HR176-002",
+        "Bouchon1/4’’",
+        "PA100-053",
+        "bouchon",
+        "PA115-116",
+        "Ressortdeclapetantiretour"
+      ],
+      [
+        "HR701-012",
+        "Rondelle",
+        "PA100-054",
+        "Ecrou",
+        "PA115-119",
+        "Pistondeclapetantiretour"
+      ],
+      [
+        "OR002-005",
+        "Jointtorique",
+        "PA100-060",
+        "Clapetdemaintientcomplet",
+        "VB008-012",
+        "Boulon"
+      ],
+      [
+        "OR003-005",
+        "Jointtorique",
+        "PA100-301",
+        "Cartouchedefiltrationpourélectrique",
+        "VB008-070",
+        "Boulon"
+      ],
+      [
+        "OR009-005",
+        "Jointtorique",
+        "PA100-302",
+        "Cartouchedefiltrationpouressence",
+        "VR006-015",
+        "Rondellederessort"
+      ],
+      [
+        "OR009-010",
+        "Jointtorique",
+        "PA100-110",
+        "Supportdefiltre",
+        "VV005-015",
+        "Sphère"
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 49,
+      "table_number": 1
+    }
+  },
+  {
     "type": "image",
     "content": "images/page_049_image_01.jpeg",
     "metadata": {
@@ -1720,6 +4031,81 @@
       "source": "maintenance_machine.pdf",
       "page": 49,
       "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nOR007-005 | Jointtorique | PA112-015 | Corpsderobinet | PA112-032 | Ecrou\nOR010-005 | Jointtorique | PA112-022 | Guidecylindrique | PA112-034 | Volantderobinetrouge300bars\nOR011-015 | Jointtorique | PA112-023 | Insertdepistondeclapet | PA112-035 | Filtre\nPA112-003 | Robinetderemplissage300BARS | PA112-024 | Tigetournevis | PA112-901 | Kitd'entretienrobinet\nPA112-006 | Robinetderemplissage300BARSflowstop | PA112-025 | Ecrou | VV005-015 | Sphère\nPA112-008 | VolantDIN300rouge | PA112-026 | Rondelle |  | \nPA112-009 | Guidedevolant DIN | PA112-031 | Ressort |  | ",
+    "rows": [
+      [
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION"
+      ],
+      [
+        "OR007-005",
+        "Jointtorique",
+        "PA112-015",
+        "Corpsderobinet",
+        "PA112-032",
+        "Ecrou"
+      ],
+      [
+        "OR010-005",
+        "Jointtorique",
+        "PA112-022",
+        "Guidecylindrique",
+        "PA112-034",
+        "Volantderobinetrouge300bars"
+      ],
+      [
+        "OR011-015",
+        "Jointtorique",
+        "PA112-023",
+        "Insertdepistondeclapet",
+        "PA112-035",
+        "Filtre"
+      ],
+      [
+        "PA112-003",
+        "Robinetderemplissage300BARS",
+        "PA112-024",
+        "Tigetournevis",
+        "PA112-901",
+        "Kitd'entretienrobinet"
+      ],
+      [
+        "PA112-006",
+        "Robinetderemplissage300BARSflowstop",
+        "PA112-025",
+        "Ecrou",
+        "VV005-015",
+        "Sphère"
+      ],
+      [
+        "PA112-008",
+        "VolantDIN300rouge",
+        "PA112-026",
+        "Rondelle",
+        "",
+        ""
+      ],
+      [
+        "PA112-009",
+        "Guidedevolant DIN",
+        "PA112-031",
+        "Ressort",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 50,
+      "table_number": 1
     }
   },
   {
@@ -1741,6 +4127,89 @@
     }
   },
   {
+    "type": "table",
+    "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nOR007-005 | Jointtorique | PA112-012 | Siège INT-CGA | PA112-032 | Ecrou\nOR010-005 | Jointtorique | PA112-015 | Corsderobinet | PA112-033 | Volantderobinetnoir200bars\nOR011-015 | Jointtorique | PA112-022 | Guidecylindrique | PA112-035 | Filtre\nPA112-002 | Robinetderemplissage200BAR | PA112-023 | Pistonvalveinsert | PA112-109 | Adaptateur étrier INT-CGA\nPA112-005 | Robinetderemplissag200BARflowstop | PA112-024 | Tigetournevis | PA112-901 | Kitd'entretienderobinet\nPA112-007 | VolantDIN200noir | PA112-025 | Ecrou | VV005-015 | Sphère\nPA112-009 | GuidedevolantDIN200 | PA112-026 | Rondelle |  | \nPA112-011 | Etrier INT-CGA | PA112-031 | Ressort |  | ",
+    "rows": [
+      [
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION",
+        "CODE",
+        "DESCRIPTION"
+      ],
+      [
+        "OR007-005",
+        "Jointtorique",
+        "PA112-012",
+        "Siège INT-CGA",
+        "PA112-032",
+        "Ecrou"
+      ],
+      [
+        "OR010-005",
+        "Jointtorique",
+        "PA112-015",
+        "Corsderobinet",
+        "PA112-033",
+        "Volantderobinetnoir200bars"
+      ],
+      [
+        "OR011-015",
+        "Jointtorique",
+        "PA112-022",
+        "Guidecylindrique",
+        "PA112-035",
+        "Filtre"
+      ],
+      [
+        "PA112-002",
+        "Robinetderemplissage200BAR",
+        "PA112-023",
+        "Pistonvalveinsert",
+        "PA112-109",
+        "Adaptateur étrier INT-CGA"
+      ],
+      [
+        "PA112-005",
+        "Robinetderemplissag200BARflowstop",
+        "PA112-024",
+        "Tigetournevis",
+        "PA112-901",
+        "Kitd'entretienderobinet"
+      ],
+      [
+        "PA112-007",
+        "VolantDIN200noir",
+        "PA112-025",
+        "Ecrou",
+        "VV005-015",
+        "Sphère"
+      ],
+      [
+        "PA112-009",
+        "GuidedevolantDIN200",
+        "PA112-026",
+        "Rondelle",
+        "",
+        ""
+      ],
+      [
+        "PA112-011",
+        "Etrier INT-CGA",
+        "PA112-031",
+        "Ressort",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 51,
+      "table_number": 1
+    }
+  },
+  {
     "type": "image",
     "content": "images/page_051_image_01.jpeg",
     "metadata": {
@@ -1759,6 +4228,171 @@
     }
   },
   {
+    "type": "table",
+    "content": "CODE | DESCRIPTION |  | CODE | DESCRIPTION |  | CODE | DESCRIPTION | \nAC011-200 | Tuberilsan |  | OR063-004 | Jointtorique |  | PA114-049 | Supportdeblocpurge | \nAC016-203 | Connexion |  | OR075-005 | Jointtorique |  | PA114-060 | Flexibleavecraccordpourcondensats | \nAC017-102 | Raccord“L” |  | PA110-010 | Ressort |  | PA116-101 | Minuterie12VoltDC | \nHR101-004 | Ogive |  | PA114-015 | Corpsdepurge |  | PA116-102 | Minuterie230VoltAC | \nHR102-014 | Ecrouderaccord |  | PA114-020 | Pistondepurge |  | PA116-105 | Clapetdepurge12VoltDC | \nHR117-031 | Raccord1/4\"G pourtube12mm |  | PA114-025 | Couvercle |  | PA116-106 | Clapetdepurge230VoltAC | \nHR175-001 | Connexion |  | PA114-030 | PistonHP |  | VB006-067 | Boulon | \nHR176-002 | Bouchon1/4\"G |  | PA114-031 | PistonLP |  | VB008-035 | Boulon | \nHR301-001 | Raccord |  | PA114-032 | Ressort |  | VV005-015 | Rondelle | \nHR339-001 | Connexion“L” |  | PA114-035 | Raccord |  | VV005-016 | Sphère | \nOR008-005 | Jointtorique |  | PA114-041 | Siège |  |  |  | \nOR011-010 | Jointtorique |  | PA114-042 | Réducteur |  |  |  | \nOR026-005 | Jointtorique |  | PA114-045 | Connexioninox |  |  |  | ",
+    "rows": [
+      [
+        "CODE",
+        "DESCRIPTION",
+        "",
+        "CODE",
+        "DESCRIPTION",
+        "",
+        "CODE",
+        "DESCRIPTION",
+        ""
+      ],
+      [
+        "AC011-200",
+        "Tuberilsan",
+        "",
+        "OR063-004",
+        "Jointtorique",
+        "",
+        "PA114-049",
+        "Supportdeblocpurge",
+        ""
+      ],
+      [
+        "AC016-203",
+        "Connexion",
+        "",
+        "OR075-005",
+        "Jointtorique",
+        "",
+        "PA114-060",
+        "Flexibleavecraccordpourcondensats",
+        ""
+      ],
+      [
+        "AC017-102",
+        "Raccord“L”",
+        "",
+        "PA110-010",
+        "Ressort",
+        "",
+        "PA116-101",
+        "Minuterie12VoltDC",
+        ""
+      ],
+      [
+        "HR101-004",
+        "Ogive",
+        "",
+        "PA114-015",
+        "Corpsdepurge",
+        "",
+        "PA116-102",
+        "Minuterie230VoltAC",
+        ""
+      ],
+      [
+        "HR102-014",
+        "Ecrouderaccord",
+        "",
+        "PA114-020",
+        "Pistondepurge",
+        "",
+        "PA116-105",
+        "Clapetdepurge12VoltDC",
+        ""
+      ],
+      [
+        "HR117-031",
+        "Raccord1/4\"G pourtube12mm",
+        "",
+        "PA114-025",
+        "Couvercle",
+        "",
+        "PA116-106",
+        "Clapetdepurge230VoltAC",
+        ""
+      ],
+      [
+        "HR175-001",
+        "Connexion",
+        "",
+        "PA114-030",
+        "PistonHP",
+        "",
+        "VB006-067",
+        "Boulon",
+        ""
+      ],
+      [
+        "HR176-002",
+        "Bouchon1/4\"G",
+        "",
+        "PA114-031",
+        "PistonLP",
+        "",
+        "VB008-035",
+        "Boulon",
+        ""
+      ],
+      [
+        "HR301-001",
+        "Raccord",
+        "",
+        "PA114-032",
+        "Ressort",
+        "",
+        "VV005-015",
+        "Rondelle",
+        ""
+      ],
+      [
+        "HR339-001",
+        "Connexion“L”",
+        "",
+        "PA114-035",
+        "Raccord",
+        "",
+        "VV005-016",
+        "Sphère",
+        ""
+      ],
+      [
+        "OR008-005",
+        "Jointtorique",
+        "",
+        "PA114-041",
+        "Siège",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "OR011-010",
+        "Jointtorique",
+        "",
+        "PA114-042",
+        "Réducteur",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "OR026-005",
+        "Jointtorique",
+        "",
+        "PA114-045",
+        "Connexioninox",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 52,
+      "table_number": 1
+    }
+  },
+  {
     "type": "image",
     "content": "images/page_052_image_01.jpeg",
     "metadata": {
@@ -1774,6 +4408,1889 @@
       "source": "maintenance_machine.pdf",
       "page": 52,
       "image_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": " |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | ",
+    "rows": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES25HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nettoyagedufiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "Contrôleduniveaud'huile(idéalementMAX)",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesflexiblesdegonflage",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesrefroidisseurs",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesinstruments(zérodesmanomètres)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES25HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nettoyagedufiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "Contrôleduniveaud'huile(idéalementMAX)",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesflexiblesdegonflage",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesrefroidisseurs",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesinstruments(zérodesmanomètres)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES25HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nettoyagedufiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "Contrôleduniveaud'huile(idéalementMAX)",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesflexiblesdegonflage",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesrefroidisseurs",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesinstruments(zérodesmanomètres)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES25HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nettoyagedufiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "Contrôleduniveaud'huile(idéalementMAX)",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesflexiblesdegonflage",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesrefroidisseurs",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesinstruments(zérodesmanomètres)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES25HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nettoyagedufiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "Contrôleduniveaud'huile(idéalementMAX)",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesflexiblesdegonflage",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesrefroidisseurs",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesinstruments(zérodesmanomètres)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES25HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nettoyagedufiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "Contrôleduniveaud'huile(idéalementMAX)",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesflexiblesdegonflage",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesrefroidisseurs",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 53,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": "Contrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | \nTOUTESLES25HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nNettoyagedufiltred'aspiration |  | \nContrôleduniveaud'huile(idéalementMAX) |  | \nContrôledesflexiblesdegonflage |  | \nContrôledesrefroidisseurs |  | ",
+    "rows": [
+      [
+        "Contrôledesinstruments(zérodesmanomètres)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES25HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nettoyagedufiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "Contrôleduniveaud'huile(idéalementMAX)",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesflexiblesdegonflage",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesrefroidisseurs",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesinstruments(zérodesmanomètres)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES25HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nettoyagedufiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "Contrôleduniveaud'huile(idéalementMAX)",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesflexiblesdegonflage",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesrefroidisseurs",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesinstruments(zérodesmanomètres)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES25HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nettoyagedufiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "Contrôleduniveaud'huile(idéalementMAX)",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesflexiblesdegonflage",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesrefroidisseurs",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesinstruments(zérodesmanomètres)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES25HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nettoyagedufiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "Contrôleduniveaud'huile(idéalementMAX)",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesflexiblesdegonflage",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesrefroidisseurs",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesinstruments(zérodesmanomètres)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES25HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nettoyagedufiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "Contrôleduniveaud'huile(idéalementMAX)",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesflexiblesdegonflage",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesrefroidisseurs",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesinstruments(zérodesmanomètres)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES25HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nettoyagedufiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "Contrôleduniveaud'huile(idéalementMAX)",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesflexiblesdegonflage",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesrefroidisseurs",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 54,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": "Contrôledesinstruments(zérodesmanomètres) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | ",
+    "rows": [
+      [
+        "Contrôledesinstruments(zérodesmanomètres)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "SUIVANTLETYPEDEFILTRATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltration(PACFILTER)",
+        "",
+        ""
+      ],
+      [
+        "ContrôledesJointtoriques(Filtreetcartouche)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "SUIVANTLETYPEDEFILTRATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltration(PACFILTER)",
+        "",
+        ""
+      ],
+      [
+        "ContrôledesJointtoriques(Filtreetcartouche)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "SUIVANTLETYPEDEFILTRATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltration(PACFILTER)",
+        "",
+        ""
+      ],
+      [
+        "ContrôledesJointtoriques(Filtreetcartouche)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "SUIVANTLETYPEDEFILTRATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltration(PACFILTER)",
+        "",
+        ""
+      ],
+      [
+        "ContrôledesJointtoriques(Filtreetcartouche)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "SUIVANTLETYPEDEFILTRATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltration(PACFILTER)",
+        "",
+        ""
+      ],
+      [
+        "ContrôledesJointtoriques(Filtreetcartouche)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "SUIVANTLETYPEDEFILTRATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltration(PACFILTER)",
+        "",
+        ""
+      ],
+      [
+        "ContrôledesJointtoriques(Filtreetcartouche)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "SUIVANTLETYPEDEFILTRATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltration(PACFILTER)",
+        "",
+        ""
+      ],
+      [
+        "ContrôledesJointtoriques(Filtreetcartouche)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "SUIVANTLETYPEDEFILTRATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltration(PACFILTER)",
+        "",
+        ""
+      ],
+      [
+        "ContrôledesJointtoriques(Filtreetcartouche)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "SUIVANTLETYPEDEFILTRATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltration(PACFILTER)",
+        "",
+        ""
+      ],
+      [
+        "ContrôledesJointtoriques(Filtreetcartouche)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "SUIVANTLETYPEDEFILTRATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltration(PACFILTER)",
+        "",
+        ""
+      ],
+      [
+        "ContrôledesJointtoriques(Filtreetcartouche)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "SUIVANTLETYPEDEFILTRATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltration(PACFILTER)",
+        "",
+        ""
+      ],
+      [
+        "ContrôledesJointtoriques(Filtreetcartouche)",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 55,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": " |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nSUIVANTLETYPEDEFILTRATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \nRemplacementdelacartouchedefiltration(PACFILTER) |  | \nContrôledesJointtoriques(Filtreetcartouche) |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | \n |  | \n |  | \n |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | \n |  | \n |  | \n |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | ",
+    "rows": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "SUIVANTLETYPEDEFILTRATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltration(PACFILTER)",
+        "",
+        ""
+      ],
+      [
+        "ContrôledesJointtoriques(Filtreetcartouche)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "SUIVANTLETYPEDEFILTRATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltration(PACFILTER)",
+        "",
+        ""
+      ],
+      [
+        "ContrôledesJointtoriques(Filtreetcartouche)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "SUIVANTLETYPEDEFILTRATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltration(PACFILTER)",
+        "",
+        ""
+      ],
+      [
+        "ContrôledesJointtoriques(Filtreetcartouche)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "SUIVANTLETYPEDEFILTRATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltration(PACFILTER)",
+        "",
+        ""
+      ],
+      [
+        "ContrôledesJointtoriques(Filtreetcartouche)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES250HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Vérificationducorpsetdelabasedufiltreàcharbonactif",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES250HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Vérificationducorpsetdelabasedufiltreàcharbonactif",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES250HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Vérificationducorpsetdelabasedufiltreàcharbonactif",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 56,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": " |  | \n |  | \n |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | \n |  | \n |  | \n |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | \n |  | \n |  | \n |  | \n |  | \nTOUTESLES250HEURESD'UTILISATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \n |  | \nRemplacementdelacartouchedefiltred'aspiration |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nVérificationducorpsetdelabasedufiltreàcharbonactif |  | \n |  | \n |  | \n |  | \nTOUTESLES500HEURESD'UTILISATIONou1FOISPAR |  | \n | DATE | SIGNATUREDUTECHNICIEN\nAN |  | \n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \n |  | \nInspectionetremplacementdufiltredudernierfiltre |  | \nséparateur\n. |  | \n |  | \nVidange |  | ",
+    "rows": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES250HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Vérificationducorpsetdelabasedufiltreàcharbonactif",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES250HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Vérificationducorpsetdelabasedufiltreàcharbonactif",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES250HEURESD'UTILISATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdelacartouchedefiltred'aspiration",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Vérificationducorpsetdelabasedufiltreàcharbonactif",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES500HEURESD'UTILISATIONou1FOISPAR",
+        "",
+        ""
+      ],
+      [
+        "",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "AN",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "INTERVENTIONPARUNTECHNICIENAGREENardiCompressori",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Inspectionetremplacementdufiltredudernierfiltre",
+        "",
+        ""
+      ],
+      [
+        "séparateur\n.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Vidange",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 57,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": " |  | \n |  | \n |  | \n |  | \n |  | \nContrôledutaragedelasoupapedesécurité |  | \n |  | \n |  | \nTOUTESLES500HEURESD'UTILISATIONou1FOISPAR |  | \n | DATE | SIGNATUREDUTECHNICIEN\nAN |  | \n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \n |  | \nInspectionetremplacementdufiltredudernierfiltre |  | \nséparateur\n. |  | \n |  | \n |  | \n |  | \nVidange |  | \n |  | \n |  | \n |  | \n |  | \n |  | \nContrôledutaragedelasoupapedesécurité |  | \n |  | \n |  | \n |  | ",
+    "rows": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Contrôledutaragedelasoupapedesécurité",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUTESLES500HEURESD'UTILISATIONou1FOISPAR",
+        "",
+        ""
+      ],
+      [
+        "",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "AN",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "INTERVENTIONPARUNTECHNICIENAGREENardiCompressori",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Inspectionetremplacementdufiltredudernierfiltre",
+        "",
+        ""
+      ],
+      [
+        "séparateur\n.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Vidange",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Contrôledutaragedelasoupapedesécurité",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 58,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "table",
+    "content": " |  | \nCHAQUE1000HEURESD'UTILISATION\n, | DATE | SIGNATUREDUTECHNICIEN\n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \n |  | \nRemplacementdesclapets |  | \n |  | \n |  | \nCHAQUE1000HEURESD'UTILISATION\n, | DATE | SIGNATUREDUTECHNICIEN\n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \n |  | \nRemplacementdesclapets |  | \n |  | \n |  | \nCHAQUE1000HEURESD'UTILISATION\n, | DATE | SIGNATUREDUTECHNICIEN\n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \nRemplacementdesclapets |  | ",
+    "rows": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "CHAQUE1000HEURESD'UTILISATION\n,",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "INTERVENTIONPARUNTECHNICIENAGREENardiCompressori",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdesclapets",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "CHAQUE1000HEURESD'UTILISATION\n,",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "INTERVENTIONPARUNTECHNICIENAGREENardiCompressori",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdesclapets",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "CHAQUE1000HEURESD'UTILISATION\n,",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "INTERVENTIONPARUNTECHNICIENAGREENardiCompressori",
+        "",
+        ""
+      ],
+      [
+        "Remplacementdesclapets",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 58,
+      "table_number": 2
+    }
+  },
+  {
+    "type": "table",
+    "content": " |  | \n |  | \n |  | \nTOUSLESANSOUALADEMANDE | DATE | SIGNATUREDUTECHNICIEN\n |  | \nINTERVENTIONPARUNTECHNICIENAGREENardiCompressori |  | \n |  | \nAnalysedel'air |  | \n |  | \n |  | \nVidangedel'huile |  | \n |  | \n |  | \nVérificationduréglagedupanneaudecontrôleetde |  | \n |  | \nsoupapedesécurité |  | \n |  | \n |  | \n |  | \nAPRESTOUTEREPARATION | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \nContrôledesrobinetsdegonflage |  | \n |  | \n |  | \nNettoyagedufiltreàair |  | \n |  | \n |  | \nContrôledestuyauxetduserragedesrefroidisseurs |  | \n |  | \n |  | \nAPRESUNELONGUEPERIODED'INACTIVITE | DATE | SIGNATUREDUTECHNICIEN\n |  | \n |  | \nContrôledesrobinetsdegonflage |  | \n |  | \n |  | \nNettoyagedufiltreàair |  | \n |  | \n |  | \nContrôledesinstruments(zérodesmanomètres) |  | \n |  | ",
+    "rows": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOUSLESANSOUALADEMANDE",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "INTERVENTIONPARUNTECHNICIENAGREENardiCompressori",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Analysedel'air",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Vidangedel'huile",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Vérificationduréglagedupanneaudecontrôleetde",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "soupapedesécurité",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "APRESTOUTEREPARATION",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesrobinetsdegonflage",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nettoyagedufiltreàair",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Contrôledestuyauxetduserragedesrefroidisseurs",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "APRESUNELONGUEPERIODED'INACTIVITE",
+        "DATE",
+        "SIGNATUREDUTECHNICIEN"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesrobinetsdegonflage",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nettoyagedufiltreàair",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Contrôledesinstruments(zérodesmanomètres)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_machine.pdf",
+      "page": 59,
+      "table_number": 1
     }
   }
 ]

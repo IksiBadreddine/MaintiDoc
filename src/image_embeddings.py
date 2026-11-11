@@ -1,126 +1,58 @@
-
+"""Embeddings images CLIP, reconstruction de collection avec --rebuild."""
+import argparse
 import json
-from pathlib import Path
-
+from collections import Counter
 import chromadb
 import torch
 from PIL import Image
 from transformers import CLIPModel, CLIPProcessor
+from config import DOCUMENT_DIR, MANIFEST_PATH, CHROMA_PATH, IMAGE_COLLECTION, IMAGE_MODEL
 
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-
-DOCUMENT_DIR = (
-    BASE_DIR / "data" / "documents" / "maintenance_machine"
-)
-
-JSON_PATH = DOCUMENT_DIR / "processed" / "extracted_data.json"
-CHROMA_PATH = BASE_DIR / "data" / "chroma_db"
-
-MODEL_NAME = "openai/clip-vit-base-patch32"
-COLLECTION_NAME = "maintenance_images"
-
-# 1. Charger les métadonnées des images
-print("1. Chargement des images...")
-
-with JSON_PATH.open("r", encoding="utf-8") as file:
-    elements = json.load(file)
-
-images = [
-    element for element in elements
-    if element["type"] == "image"
-]
-
-print(f"Images trouvées : {len(images)}")
-
-# 2. Charger CLIP
-print("\n2. Chargement du modèle CLIP...")
-
-device = (
-    "mps" if torch.backends.mps.is_available()
-    else "cpu"
-)
-
-model = CLIPModel.from_pretrained(MODEL_NAME).to(device)
-processor = CLIPProcessor.from_pretrained(MODEL_NAME)
-model.eval()
-
-# 3. Initialiser ChromaDB
-print("\n3. Initialisation de ChromaDB...")
-
-client = chromadb.PersistentClient(path=str(CHROMA_PATH))
-
-collection = client.get_or_create_collection(
-    name=COLLECTION_NAME,
-    embedding_function=None,
-)
-
-# 4. Générer et stocker les embeddings
-print("\n4. Indexation des images...")
-
-indexed = 0
-errors = 0
-
-for element in images:
-    metadata = element["metadata"]
-    image_path = DOCUMENT_DIR / element["content"]
-
-    try:
-        with Image.open(image_path) as image:
-            image = image.convert("RGB")
-
-            inputs = processor(
-                images=image,
-                return_tensors="pt",
+def main(rebuild=False):
+    elements = json.loads(MANIFEST_PATH.read_text(encoding='utf-8'))
+    images = [e for e in elements if e['type'] == 'image']
+    if not images:
+        raise ValueError('Aucune image dans le manifeste')
+    client = chromadb.PersistentClient(path=str(CHROMA_PATH))
+    existing = [c.name for c in client.list_collections()]
+    if IMAGE_COLLECTION in existing:
+        if not rebuild:
+            raise RuntimeError(f'Collection {IMAGE_COLLECTION} déjà présente. Relancer avec --rebuild pour la remplacer.')
+        client.delete_collection(IMAGE_COLLECTION)
+    collection = client.create_collection(IMAGE_COLLECTION, embedding_function=None)
+    device = 'mps' if torch.backends.mps.is_available() else 'cpu'
+    model = CLIPModel.from_pretrained(IMAGE_MODEL).to(device).eval()
+    processor = CLIPProcessor.from_pretrained(IMAGE_MODEL)
+    failures = []
+    for e in images:
+        path = DOCUMENT_DIR / e['content']
+        try:
+            with Image.open(path) as im:
+                inputs = processor(images=im.convert('RGB'), return_tensors='pt')
+            inputs = {k: v.to(device) for k, v in inputs.items()}
+            with torch.inference_mode():
+                features = model.get_image_features(**inputs)
+                if hasattr(features, 'pooler_output'):
+                    features = features.pooler_output
+                features = torch.nn.functional.normalize(features, p=2, dim=-1)
+            md = e['metadata']
+            collection.upsert(
+                ids=[f'{DOCUMENT_DIR.name}_page_{md["page"]}_image_{md["image_number"]}'],
+                embeddings=[features.squeeze(0).cpu().tolist()],
+                metadatas=[{**md, 'type': 'image', 'image_path': str(path), 'model': IMAGE_MODEL}],
+                documents=[str(path)],
             )
+        except Exception as exc:
+            failures.append((str(path), str(exc)))
+    print(f'{collection.name}: {collection.count()} vecteurs / {len(images)} images ; erreurs : {len(failures)}')
+    for path, error in failures[:10]:
+        print(f'ERREUR {path}: {error}')
+    if failures or collection.count() != len(images):
+        raise RuntimeError('Index images incomplet : corriger les erreurs avant le RAG')
 
-        inputs = {
-            key: value.to(device)
-            for key, value in inputs.items()
-        }
 
-        with torch.inference_mode():
-            features = model.get_image_features(**inputs)
-
-            # Compatibilité avec les versions récentes de transformers
-            if hasattr(features, "pooler_output"):
-                features = features.pooler_output
-
-            features = torch.nn.functional.normalize(
-                features, p=2, dim=-1
-            )
-
-        embedding = features.squeeze(0).cpu().tolist()
-
-        image_id = (
-            f"{DOCUMENT_DIR.name}"
-            f"_page_{metadata['page']}"
-            f"_image_{metadata['image_number']}"
-        )
-
-        collection.upsert(
-            ids=[image_id],
-            embeddings=[embedding],
-            metadatas=[{
-                "source": metadata["source"],
-                "page": metadata["page"],
-                "image_number": metadata["image_number"],
-                "image_path": str(image_path),
-                "type": "image",
-                "model": MODEL_NAME,
-            }],
-            documents=[str(image_path)],
-        )
-
-        indexed += 1
-
-    except Exception as error:
-        errors += 1
-        print(f"Erreur avec {image_path.name} : {error}")
-
-print("\n--- Indexation des images terminée ---")
-print(f"Collection : {collection.name}")
-print(f"Images indexées : {indexed}")
-print(f"Erreurs : {errors}")
-print(f"Vecteurs dans ChromaDB : {collection.count()}")
-print(f"Dimension CLIP : {model.config.projection_dim}")
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--rebuild', action='store_true')
+    main(parser.parse_args().rebuild)

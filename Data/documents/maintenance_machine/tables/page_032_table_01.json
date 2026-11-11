@@ -1,6 +1,56 @@
 {
   "type": "table",
   "content": "CODE | DESCRIPTION | CODE | DESCRIPTION | CODE | DESCRIPTION\nOR304-005 | Joint torique | PA001-065 | Joint spi | VB008-035 | Boulon\nPA001-044 | Vilebrequin complet avec bielles | PA001-070 | Protection de ventilateur | VD016-015 | Ecrou\nPA001-050 | Carter | PA001-080 | Ventilateur | VR016-020 | Rondelle\nPA001-055 | Couvercle de carter | VB004-020 | Boulon | VV006-010 | Axe\nPA001-060 | Joint spi | VB006-006 | Boulon | VV065-005 | Clips",
+  "rows": [
+    [
+      "CODE",
+      "DESCRIPTION",
+      "CODE",
+      "DESCRIPTION",
+      "CODE",
+      "DESCRIPTION"
+    ],
+    [
+      "OR304-005",
+      "Joint torique",
+      "PA001-065",
+      "Joint spi",
+      "VB008-035",
+      "Boulon"
+    ],
+    [
+      "PA001-044",
+      "Vilebrequin complet avec bielles",
+      "PA001-070",
+      "Protection de ventilateur",
+      "VD016-015",
+      "Ecrou"
+    ],
+    [
+      "PA001-050",
+      "Carter",
+      "PA001-080",
+      "Ventilateur",
+      "VR016-020",
+      "Rondelle"
+    ],
+    [
+      "PA001-055",
+      "Couvercle de carter",
+      "VB004-020",
+      "Boulon",
+      "VV006-010",
+      "Axe"
+    ],
+    [
+      "PA001-060",
+      "Joint spi",
+      "VB006-006",
+      "Boulon",
+      "VV065-005",
+      "Clips"
+    ]
+  ],
   "metadata": {
     "source": "maintenance_machine.pdf",
     "page": 32,
