@@ -1,0 +1,5 @@
+{
+  "description": "Description visuelle :\nL'image montre une partie d'un système mécanique, probablement une bielle ou un élément similaire, avec des éléments de connexion et de montage. On peut voir des éléments de fixation horizontaux et des éléments de montage verticaux. Il y a également des indications de dimensions, comme \"15 mm\" et \"20± 2\", qui semblent être des dimensions de pièces ou de connexions.\n\nContexte technique :\nLe schéma montre probablement une bielle ou un élément similaire, avec des connexions horizontales et verticales pour la fixation. Les dimensions indiquées (15 mm et 20± 2) suggèrent que ces sont des dimensions de pièces ou de connexions. La présence de \"OV = x1 + x2/2 – x3\" pourrait indiquer une formule utilisée pour calculer une valeur spécifique, comme la longueur ou la position d'un élément.\n\nCONTEXTE DOCUMENTAIRE :\nP2\nP1\n15 mm\n15 mm\n20± 2\n20± 2\nOvalisation :\nOV = x1 + x2/2 – x3\nBielle\nChapeau\nde tête de bielle",
+  "model": "qwen2.5vl:3b",
+  "prompt_version": "v2"
+}

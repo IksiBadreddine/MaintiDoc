@@ -1,0 +1,5 @@
+{
+  "description": "Description visuelle :\nL'image montre une partie d'un système de tuyauterie ou d'un équipement industriel. On peut voir une section d'une tuyauterie horizontale avec des éléments de fixation. Il y a une vis de fixation à l'extrémité de la tuyauterie, et un gabarit de mesure est visible à proximité. Il y a également une indication de \"Tulipe de soupape\" sur l'équipement, ce qui suggère qu'il s'agit d'une partie d'un système de contrôle ou de régulation.\n\nContexte technique :\nCette image semble représenter une partie d'un système de contrôle ou de régulation, potentiellement un système de tuyauterie ou d'un équipement industriel. La \"Tulipe de soupape\" indique que l'équipement pourrait être utilisé pour contrôler le débit ou la pression d'un fluide. Le gabarit de mesure suggère qu'il y a des contrôles de dimension ou de taille qui peuvent être effectués sur cet équipement.\n\nCONTEXTE DOCUMENTAIRE :\nB\nC D\nA\nE\nF1",
+  "model": "qwen2.5vl:3b",
+  "prompt_version": "v2"
+}

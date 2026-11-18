@@ -1,0 +1,5 @@
+{
+  "description": "Description visuelle :\nL'image montre une pièce de machine ou d'outil, probablement un joint ou un bouchon de tuyau, en noir. Il est posé sur un fond de mur de carreaux de ciment. La pièce a une forme conique et est munie d'une vis ou d'un écrou à l'arrière, probablement pour la fixation.\n\nContexte technique :\nLa pièce semble être un joint ou un bouchon de tuyau, utilisé pour assurer la continuité d'un tuyau ou d'un conduit. La présence de la vis à l'arrière indique qu'elle peut être fixée à une autre pièce ou à un support. La forme conique pourrait être destinée à s'adapter à une partie ronde d'un tuyau ou d'un conduit.\n\nCONTEXTE DOCUMENTAIRE :\nMAINTENANCE DES MACHINES  ET DES MOTEURS   ___________________________________________________________________________________________\nGabarit de mesure\nSiège\n30°",
+  "model": "qwen2.5vl:3b",
+  "prompt_version": "v2"
+}

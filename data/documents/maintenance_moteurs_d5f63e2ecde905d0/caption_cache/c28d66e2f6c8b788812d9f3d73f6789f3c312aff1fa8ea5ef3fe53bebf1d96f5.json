@@ -1,0 +1,5 @@
+{
+  "description": "Description visuelle :\nL'image montre une partie d'un système hydraulique, probablement une pompe hydraulique de frettage. On peut voir un corps de pompe à combustible, un tuyau avec une vis, et une tige horizontale qui semble être un tuyau d'admission ou de sortie. Il y a également une vis à l'intérieur du corps de pompe.\n\nContexte technique :\nLa pompe hydraulique de frettage est un composant crucial pour le transport et le contrôle de l'eau ou d'autres fluides dans un système hydraulique. Le corps de pompe à combustible est généralement utilisé pour le stockage et le contrôle de l'eau. Le tuyau avec la vis semble être lié à la connexion ou à la maintenance de la pompe. La tige horizontale pourrait être un tuyau d'admission ou de sortie, permettant le passage du fluide dans et hors du système. Les vis à l'intérieur du corps de pompe sont probablement utilisées pour le montage et la maintenance de la pompe.\n\nCONTEXTE DOCUMENTAIRE :\nTête de pompe\nCale\nCorps de pompe\nà combustible\nPompe hydraulique de frettage",
+  "model": "qwen2.5vl:3b",
+  "prompt_version": "v2"
+}

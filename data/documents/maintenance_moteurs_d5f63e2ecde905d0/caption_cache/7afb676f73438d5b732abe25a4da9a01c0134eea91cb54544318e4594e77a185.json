@@ -1,0 +1,5 @@
+{
+  "description": "Description visuelle :\nL'image montre une section d'un cylindre de pompe à combustible, avec une zone d'érosion et de début de grippage visible. Le cylindre est entouré d'une couronne de protection ou d'un joint. Les zones d'érosion sont plus claires et plus brillantes, tandis que le reste du cylindre est plus sombre.\n\nContexte technique :\nLa zone d'érosion et de grippage sur le cylindre de la pompe à combustible indique une usure ou une corrosion qui peut affecter la performance et la fiabilité de l'appareil. La présence de la couronne de protection suggère qu'il s'agit d'un composant de protection contre les éclaboussures ou les projections de liquides.\n\nCONTEXTE DOCUMENTAIRE :\nFigure 24\n\n–\nÉrosion et début de grippage sur une pompe à combustible (doc. S.E.M.T. Pielstick)\n6.3 Éléments constitutifs du cylindre\n6.3.1 Culasse et accessoires\nFigure 25\n\n–\nMesure sur siège et clapet de soupape (doc. MAN AG)",
+  "model": "qwen2.5vl:3b",
+  "prompt_version": "v2"
+}

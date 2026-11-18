@@ -1,0 +1,5 @@
+{
+  "description": "Description visuelle :\nL'image montre une partie d'un moteur, probablement une pompe à combustible, avec des éléments de mécanalisation et de tuyauterie. On peut voir un corps de pompe, un arbre à cames, une clé de réglage, et des tuyaux connectés à la pompe.\n\nContexte technique :\nLe corps de pompe est le réservoir principal qui contient le liquide de refroidissement ou le carburant. L'arbre à cames est une partie mobile qui actionne les valves du moteur. La clé de réglage est utilisée pour régler les paramètres de fonctionnement du moteur. Les tuyaux sont des canalisations qui acheminent le liquide ou le carburant à travers le moteur.\n\nCONTEXTE DOCUMENTAIRE :\nCame\nArbre\nà cames\nClé de réglage\nCorps de pompe\nà combustible\nPompe à combustible",
+  "model": "qwen2.5vl:3b",
+  "prompt_version": "v2"
+}

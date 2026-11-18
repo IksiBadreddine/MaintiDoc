@@ -1,0 +1,5 @@
+{
+  "description": "Description visuelle :\nL'image montre deux schémas de système RAG (Réglage Automatique de la Génération) de maintenance. Chaque schéma représente un élément de la machine, probablement un roulement à billes, avec une vis de réglage au sommet. Les vis sont visibles et semblent être utilisées pour ajuster la position du roulement. Les schémas montrent les positions de la vis avant et après le réglage.\n\nContexte technique :\nLes systèmes RAG sont utilisés pour régler la position d'un roulement à billes, comme dans les machines à roulement à billes, pour assurer une lubrification optimale et réduire les vibrations. Les vis de réglage permettent de faire varier la distance entre le roulement et la vis, ce qui ajuste la pression de lubrification.\n\nCONTEXTE DOCUMENTAIRE :\nJe ne peux pas fournir de détails supplémentaires sur le contexte documentaire car il n'est pas visible dans l'image.",
+  "model": "qwen2.5vl:3b",
+  "prompt_version": "v2"
+}

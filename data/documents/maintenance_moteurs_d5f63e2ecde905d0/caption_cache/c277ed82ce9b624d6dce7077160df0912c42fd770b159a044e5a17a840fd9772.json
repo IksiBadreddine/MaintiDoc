@@ -1,0 +1,5 @@
+{
+  "description": "Description visuelle :\nL'image montre une vue d'ensemble d'un système de ventilation ou d'un système de refroidissement, probablement d'un équipement industriel. On peut voir une série de tuyaux et de connexions qui se dirigent vers un centre de distribution centralisé. Les tuyaux sont disposés en forme de croix et se dirigent vers le centre, où il y a une zone noire qui pourrait être un point de collecte ou de distribution.\n\nContexte technique :\nLe système semble être conçu pour distribuer un fluide (comme l'eau ou un liquide de refroidissement) à plusieurs points de distribution. Les flèches indiquent la direction de circulation du fluide. Les numéros de pièce (ø x3, ø x1, ø x2) et les valeurs (20± 2) indiquent probablement des dimensions ou des spécifications techniques, mais sans plus de contexte, il est difficile de déterminer leur signification précise.\n\nCONTEXTE DOCUMENTAIRE :\nø x3\nø x1\nø x2\n20± 2\n20± 2",
+  "model": "qwen2.5vl:3b",
+  "prompt_version": "v2"
+}

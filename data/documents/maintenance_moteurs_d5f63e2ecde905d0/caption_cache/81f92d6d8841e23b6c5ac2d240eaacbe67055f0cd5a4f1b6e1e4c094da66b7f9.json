@@ -1,0 +1,5 @@
+{
+  "description": "Description visuelle :\nL'image montre une partie d'un système hydraulique, probablement d'un engin de levage ou d'une machine industrielle. On peut voir un vérin hydraulique de levage, un coussinet, un arbre manivelle, et un outil de traction du coussinet. Les connexions hydrauliques sont visibles, ainsi que les éléments de la structure métallique du système.\n\nContexte technique :\nLe vérin hydraulique de levage est probablement utilisé pour soulever ou descendre une charge. L'arbre manivelle est probablement utilisé pour contrôler le mouvement du vérin, permettant ainsi le levage ou la descente de la charge. Le coussinet est probablement un élément de la structure qui supporte la charge ou qui est en contact avec la charge lors du levage. L'outil de traction du coussinet est utilisé pour contrôler la tension du vérin hydraulique.\n\nCONTEXTE DOCUMENTAIRE :\nLe système hydraulique est probablement utilisé pour soulever ou descendre une charge dans une usine ou un atelier, permettant ainsi des opérations de maintenance ou de construction.",
+  "model": "qwen2.5vl:3b",
+  "prompt_version": "v2"
+}

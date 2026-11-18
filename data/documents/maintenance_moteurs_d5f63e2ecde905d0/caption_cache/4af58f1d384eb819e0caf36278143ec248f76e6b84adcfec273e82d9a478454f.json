@@ -1,0 +1,5 @@
+{
+  "description": "Description visuelle :\nL'image montre une section d'un pièces mécanique, probablement une bielle, avec des indications de mesure. On peut voir une douille de pied de bielle, une mesure de l'ovalisation de la tête et du pied de bielle, et des flèches indiquant les directions de mesure.\n\nContexte technique :\nLa douille de pied de bielle est un élément important dans le système mécanique, probablement lié à la transmission de mouvement. La mesure de l'ovalisation de la tête et du pied de bielle suggère que cette pièce est soumise à des contraintes mécaniques importantes, nécessitant une vérification régulière pour garantir la précision de la transmission de mouvement. Les flèches indiquent les directions de mesure, ce qui suggère que ces mesures sont essentielles pour assurer la qualité et la fiabilité du système.\n\nCONTEXTE DOCUMENTAIRE :\nP2\nP1\n50 mm\n50 mm\nDouille\nde pied de bielle\nFigure 30\nMesure de l’ovalisation de tête et de pied de bielle\n(doc. S.E.M.T. Pielstick)",
+  "model": "qwen2.5vl:3b",
+  "prompt_version": "v2"
+}

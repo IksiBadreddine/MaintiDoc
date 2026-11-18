@@ -1,0 +1,5 @@
+{
+  "description": "Description visuelle :\nL'image montre une partie d'un moteur, probablement une bielle ou un piston, avec une vis de fixation visible. Il y a également une vis de serrage située à côté de la bielle, probablement pour maintenir la bielle en place. Un schéma en haut à droite indique les connexions entre les pièces, mais les détails précis ne sont pas clairs.\n\nContexte technique :\nLa bielle est un élément crucial du moteur qui permet la conversion de la rotation linéaire du piston en rotation circulaire. La vis de serrage est utilisée pour assurer la fixation de la bielle dans son logement, ce qui est essentiel pour la fonctionnement correct du moteur. Le schéma indique probablement les connexions entre les pièces, mais les détails précis ne sont pas clairs.\n\nCONTEXTE DOCUMENTAIRE :\nJeu de cales\nPatin de crosse\nChapeau de pied de bielle\nTige de piston",
+  "model": "qwen2.5vl:3b",
+  "prompt_version": "v2"
+}

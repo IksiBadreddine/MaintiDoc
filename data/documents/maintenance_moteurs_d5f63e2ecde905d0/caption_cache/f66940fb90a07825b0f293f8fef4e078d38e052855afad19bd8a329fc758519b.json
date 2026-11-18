@@ -1,0 +1,5 @@
+{
+  "description": "Description visuelle :\nL'image montre un injecteur de banc d'essai. L'injecteur est fixé à un banc d'essai, qui est visible à droite de l'image. L'injecteur est connecté à un tuyau qui est visible à gauche de l'image. L'injecteur a une vis à l'avant, qui est visible à gauche de l'image. L'injecteur a une vis à l'arrière, qui est visible à droite de l'image. L'injecteur a une vis à l'arrière, qui est visible à droite de l'image.\n\nContexte technique :\nL'injecteur de banc d'essai est utilisé pour tester et vérifier les systèmes de lubrification d'un moteur. Il est connecté à un tuyau qui est utilisé pour injecter un lubrifiant dans le système de lubrification du moteur. Les vis à l'avant et à l'arrière de l'injecteur sont utilisées pour le montage et la fixation de l'injecteur au banc d'essai. Les vis à l'avant et à l'arrière de l'injecteur sont utilisées pour le montage et la fixation de l'injecteur au banc d'essai.\n\n\n\nCONTEXTE DOCUMENTAIRE :\nInjecteur\nBanc\nd'essai\nLR : limite de rebut\nLR = 2,5 mm",
+  "model": "qwen2.5vl:3b",
+  "prompt_version": "v2"
+}

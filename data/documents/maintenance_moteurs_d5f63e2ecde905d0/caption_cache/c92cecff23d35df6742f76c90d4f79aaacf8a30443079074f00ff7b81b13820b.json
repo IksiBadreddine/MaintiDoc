@@ -1,0 +1,5 @@
+{
+  "description": "Description visuelle :\nL'image montre une section d'un système RAG (Réglage Automatique de Génération) de maintenance. On peut voir une pompe à vis, une tige de régulation, des connexions de tuyaux, et des pièces de régulation. Il y a également des indicateurs de pression et de niveau.\n\nContexte technique :\nLe système RAG est utilisé pour contrôler et réguler le débit d'un fluide dans un circuit. La pompe à vis est utilisée pour injecter le fluide dans le circuit. La tige de régulation permet de contrôler le débit en ajustant la vitesse de rotation de la vis. Les connexions de tuyaux aident à distribuer le fluide dans le circuit. Les indicateurs de pression et de niveau permettent de surveiller les conditions du circuit.\n\nCONTEXTE DOCUMENTAIRE :\na\nD1\nSupport de jauge\nJauge graduée\nTête de pompe\nChemise de pompe",
+  "model": "qwen2.5vl:3b",
+  "prompt_version": "v2"
+}

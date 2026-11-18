@@ -1,0 +1,5 @@
+{
+  "description": "Description visuelle :\nL'image montre un schéma d'un système de contrôle ou de régulation, probablement utilisé dans un processus industriel. Il y a une série de segments horizontaux alignés, probablement des capteurs ou des détecteurs, qui sont connectés à un tube vertical. Le tube vertical est probablement un tuyau ou une canalisation, et il est connecté à un autre tube horizontal, qui pourrait être une partie d'un système de pompe ou de tuyauterie.\n\nContexte technique :\nLe schéma semble représenter un système de contrôle de pression ou de débit, où les segments horizontaux sont des capteurs de pression ou de débit, et le tube vertical est probablement un tuyau de pompe ou de canalisation. Le tube horizontal pourrait être une partie d'un système de pompe ou de tuyauterie, qui est utilisé pour contrôler la pression ou le débit du fluide.\n\nCONTEXTE DOCUMENTAIRE :\nSegments\nJet en bois ou bronze\npermettant de faire bouger\nles segments\nLumière de balayage\nPresse-étoupe\nde tige de piston",
+  "model": "qwen2.5vl:3b",
+  "prompt_version": "v2"
+}

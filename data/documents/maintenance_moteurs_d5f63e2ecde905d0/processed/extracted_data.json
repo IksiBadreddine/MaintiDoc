@@ -1,0 +1,675 @@
+[
+  {
+    "type": "text",
+    "content": "Toute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\n© Techniques de l’Ingénieur BM 4 188 − 1\nMaintenance des machines  \net des moteurs\npar Gilles DUCHEMIN\nProfesseur de l’enseignement maritime\nistoriquement, on peut supposer que la notion d’entretien d’un matériel \ndate de l’apparition des premiers outils et des premières machines. \nCependant, il faut attendre la première moitié du XX e siècle, après le déve -\nloppement de l’industrialisation, pour voir se structurer les méthodes d’inter-\nvention. C’est à la suite de la Seconde Guerre mondiale que de nouveaux \nbesoins apparaissent, traduisant la nécessité d’une approche économique, et \nnon plus seulement technique, de l’entretien des machines. Des notions \nnouvelles sont alors mises en forme pour servir d’outils efﬁcaces permettant \nune gestion globale du fonctionnement des machines, notamment lorsque ces \ndernières sont regroupées en chaînes et ensembles complexes interagissant \nentre eux. Nous proposons ici de décrire les principes de ces outils.\n1. Déﬁnitions................................................................................................ BM 4 188 - 2\n1.1 Maintenance............................................................................................... — 2\n1.2 Défaillances................................................................................................ — 2\n1.3T emps ......................................................................................................... — 2\n1.4N iveaux de maintenance .......................................................................... — 3\n2. Types de maintenance .......................................................................... — 3\n2.1 Maintenance corrective............................................................................. — 3\n2.2 Maintenance préventive ........................................................................... — 4\n2.3 Maintenance prédictive............................................................................. — 7\n2.4 Éléments de comparaison ........................................................................ — 7\n3. Choix d’une politique de maintenance ............................................ — 7\n4. Gestion de la maintenance .................................................................. — 8\n4.1 Classement des items ............................................................................... — 8\n4.2 Suivi des opérations.................................................................................. — 9\n4.3 Suivi des stocks ......................................................................................... — 10\n4.4 Analyse des coûts...................................................................................... — 10\n4.5 Gestion de la maintenance assistée par ordinateur (GMAO) ................ — 10\n5. Organisation des travaux lourds ....................................................... — 11\n6. Techniques d’entretien des moteurs industriels ........................... — 12\n6.1 Distribution................................................................................................. — 12\n6.2 Système d’injection ................................................................................... — 13\n6.3 Éléments constitutifs du cylindre............................................................. — 14\n7. Conclusion ............................................................................................... — 17\nPour en savoir plus......................................................................................... Doc. BM 4 188\nH",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 1
+    }
+  },
+  {
+    "type": "text",
+    "content": "MAINTENANCE DES MACHINES  ET DES MOTEURS   ___________________________________________________________________________________________\nToute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\nBM 4 188 − 2 © Techniques de l’Ingénieur\n1. Déﬁnitions\nQue recouvre le terme « maintenance » et quels sont les para-\nmètres choisis comme outils d’optimisation de sa gestion ?\n1.1 Maintenance\nCette déﬁnition appelle plusieurs remarques.\n■ \nPar « ensemble des toutes les actions », elle nous précise que la  \nmaintenance ne se limite pas aux seules interventions d’entretien,  \nmais se doit d’englober aussi toutes les opérations de conduite et de  \nsurveillance pendant la marche. Par extension, les opérations de  \ngestion des pièces de rechange, du personnel et des interventions  \nfont elles aussi partie de la maintenance.\n■ \nL’autre point primordial est donné par l’expression « état dans  \nlequel il peut accomplir une fonction requise ». Cela implique que,  \npour chaque machine ou groupe de machines dans un ensemble  \ncomplexe, on ait clairement identiﬁé les points suivants :\n— l’objectif de la machine, prise individuellement ;\n— l’appartenance de la machine à une chaîne ou un ensemble ;\n— l’emplacement de la machine dans la chaîne ;\n— les interactions de la machine avec les portions de chaîne en  \namont et en aval ;\n— les conséquences d’une non-conformité du premier point sur  \nla chaîne amont et sur la chaîne aval.\nL’identiﬁcation de la mission globale de la machine servira de  \nbase à la mise au point d’un type de maintenance approprié.\n■ \nEnﬁn, « maintenir » et « rétablir » sous-entendent d’avoir la  \nconnaissance, si possible permanente, du niveau de performance  \nde la machine par rapport au niveau de performance optimale  \ndésiré dans la déﬁnition des objectifs.\n1.2 Défaillances\nL’objectif de la maintenance peut consister, entre autres, à\ndiminuer le nombre de défaillances touchant une machine. On\ns’intéresse donc plus particulièrement à la probabilité d’apparition\nde ces défaillances sur la durée de vie de la machine.\nCette probabilité, ou taux de défaillance, évolue souvent suivant\nune courbe en « baignoire » (ﬁgure 1) principalement pour les\néquipements électromécaniques.\nOn remarque que cette courbe est la somme des taux de\ndéfaillances précoces, aléatoires et d’usure. Elle comporte trois\npériodes caractérisées par l’évolution du taux de défaillance.\n1.3 Temps\nOn choisit tout d’abord une période de référence pour l’analyse\ndes temps. Elle peut être l’année calendaire mais aussi être\nadaptée à l’utilisation du matériel, par exemple la durée d’un\nvoyage aller-retour pour un navire de ligne (environ 100 jours), ou\nencore la durée entre deux contrôles réglementaires d’une société\nde classiﬁcation ou d’un organisme d’État (10 ans).\nPour faciliter la gestion des temps, on peut aussi avoir\nl’approche suivante :\nCette approche, très prisée par les Anglo-Saxons, nécessite la\ndéﬁnition de nouveaux temps :\n— le MTBF (mean time beetween failure, moyenne des temps de\nbon fonctionnement) caractérise la fiabilité du matériel dans les\nconditions prescrites d’utilisation ;\nLa maintenance est déﬁnie dans la norme NF EN 13306  \ncomme étant : « l’ensemble de toutes les actions techniques,  \nadministratives et de gestion, durant le cycle de vie d’un bien,  \ndestinées à le maintenir ou le rétablir dans un état dans lequel il  \npeut accomplir une fonction requise ».\nIl ne sufﬁt pas de s’intéresser aux conséquences d’un défaut  \nde fonctionnement mais aussi à sa cause. Les différents défauts  \nse manifestant de manières variées, les défaillances suivantes  \nont été déﬁnies (norme NF EN 13306) :\n— défaillance complète : cessation du fonctionnement ;\n— défaillance partielle : altération du fonctionnement ;\n— défaillance progressive : qui pourrait être prévue par une  \nvérification préalable ;\n— défaillance soudaine : qui ne peut être prévue ;\n— défaillance intrinsèque : due à une faiblesse inhérente au  \nmatériel concerné ;\n— défaillance extrinsèque  : due à des contraintes supé-\nrieures aux capacités du matériel ;\n— défaillance mineure : la mission globale du matériel n’est  \npas affectée ;\n— défaillance majeure  : la mission globale du matériel ne  \npeut plus être assurée ;\n— défaillance cataleptique : défaillance soudaine et complète ;\n— défaillances précoces  : défaillances dont le taux décroît  \ndans le temps ;\n— défaillances aléatoires  : défaillances dont le taux est  \nconstant dans le temps ;\n— défaillances d’usure  : défaillances dont le taux est  \ncroissant dans le temps.\nFigure 1  – Courbe d’évolution du taux de défaillance\nExemple  : pour un moteur Diesel industriel, on considère que la\njeunesse couvre un à deux ans, la maturité 10 à 15 ans.\nLa ﬁgure 2 donne l’architecture des différents temps dont\nvoici quelques déﬁnitions :\n— temps total : période de référence ;\n— temps requis  : pendant lequel l’utilisateur exige que la\nmachine soit en mesure d’assurer la mission définie ;\n— temps effectif d’indisponibilité : partie du temps requis où\nla machine est incapable d’accomplir sa mission pour une\ncause quelconque ;\n— temps effectif de disponibilité  : partie du temps requis\npendant laquelle la machine est apte à accomplir sa mission, la\nfourniture des moyens extérieurs éventuellement nécessaires\nétant assurée.\nLa disponibilité d’un appareil est déterminée par le rapport\nentre le temps moyen de bon fonctionnement (MTBF) et le temps\nmoyen nécessaire aux opérations de maintenance (MTTR).\nJeunesse Maturité Vieillesse\nTaux de défaillance\nTemps\nDéfaillances\nd’usure\nDéfaillances\naléatoires\nDéfaillances\nprécoces",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 2
+    }
+  },
+  {
+    "type": "text",
+    "content": "__________________________________________________________________________________________    MAINTENANCE DES MACHINES  ET DES MOTEURS\nToute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\n© Techniques de l’Ingénieur BM 4 188 − 3\n— le MTTR (mean time to repair, moyenne des temps des tâches  \nde réparation) caractérise la maintenabilité du matériel ;\n— le MTBO (mean time beetween overhaul   ).\nLe MTBF est généralement déterminé par une loi de ﬁabilité  \nissue du calcul statistique, mais peut aussi faire appel à l’expé-\nrience obtenue lors des premiers mois de fonctionnement d’une  \nmachine. Nous y reviendrons au paragraphe 3.\nLe MTTR  dépend essentiellement de la conception de la  \nmachine, mais doit être aussi exprimé à partir de données de  \ndépart précises telles que le nombre et la qualiﬁcation du  \npersonnel, l’application de procédures adaptées et la disponibilité  \nde l’approvisionnement prescrit.\nLa ﬁgure 3 montre un moteur Diesel industriel récent, conçu  \npour des MTTR réduits. On constate que les éléments nécessitant  \nle plus d’interventions de maintenance (ﬁltres, échangeurs,  \npompes de circulation) sont regroupés à une extrémité du moteur  \net d’un accès facile tandis que chaque cylindre est traité comme  \nun module comprenant collecteurs, culasse, chemise, piston,  \nbielle. \nCe type de conception permet une réduction des MTTR dans un  \nrapport de 4 comparé aux moteurs de la génération précédente.\nLe MTBO n’a de sens que lors de l’application de la maintenance  \nsystématique, nous développerons ce point au paragraphe 3.\n1.4 Niveaux de maintenance\nPour faciliter principalement la gestion des personnels affectés à  \nla maintenance, on déﬁnit :\n— niveau 1 : réglages simples sans démontage, rondes et  \nsurveillance pendant la marche ;\n— niveau 2 : dépannage par échange standard d’éléments  \nprévus à cet effet et opérations mineures ;\n— niveau 3 : identification et diagnostic de pannes, réparation  \nou remplacement d’éléments fonctionnels ;\n— niveau 4 : travaux de maintenance corrective ou préventive\nnécessitant des démontages importants ;\n— niveau 5 : rénovation, reconstruction, modifications impor-\ntantes faisant appel à une main-d’œuvre qualifiée.\n2. Types de maintenance\nIl existe plusieurs façons d’organiser les actions de maintenance\npour obtenir la disponibilité maximale du matériel au coût\nminimum. Il en ressort les types de maintenance suivants :\n— la maintenance corrective (§ 2.1) ;\n— la maintenance préventive (§ 2.2) ;\n— la maintenance prédictive (§ 2.3).\n2.1 Maintenance corrective\n2.1.1 Déﬁnition\nL’opération de maintenance intervient après défaillance. C’est\nl’attitude qui consiste à attendre la panne pour procéder à une\nintervention. Elle peut se décomposer en deux branches : la main-\ntenance palliative et la maintenance curative.\n■ \nMaintenance palliative  : l’action de dépannage permet de\nremettre provisoirement le matériel à un niveau de performance\nacceptable mais inférieur au niveau optimal.\n■ \nMaintenance curative  : l’intervention qui suit la défaillance\npermet le rétablissement du niveau de performance optimal du\nmatériel.\nL’un des outils de la maintenance corrective doit permettre une\nidentiﬁcation ﬁable du défaut de fonctionnement, ce qui permettra\nde réduire le MTTR en intervenant uniquement sur le ou les\norganes concernés. L ’intervention « au hasard » sur les organes est\nà proscrire.\n2.1.2 Méthode d’identiﬁcation d’un défaut\nLe principe de la méthode consiste à faire une analyse arbo-\nrescente des causes à partir du symptôme.\nFigure 2  – Déﬁnition des temps (d’après [1])\nTemps\npropre\nde\ndisponibilité\nTemps de\nfonctionnement\nTemps\nd’attente\nTemps total\nTemps requis Temps non requis\nTemps\npotentiel de\ndisponibilité\nTemps\npotentiel\nd’indisponibilité\nTemps\neffectif de\ndisponibilité\nTemps effectif\nd’indisponibilité\nTemps propre\nd’indisponibilité\nSuite à\ndéfaillance\nPour\nmaintenance\n préventive\nPour cause\nfonctionnelle\nTemps\nd’indisponibilité\npour cause externe\nFigure 3  – Moteur à maintenance « conviviale » (doc. MAN AG)\nModule cylindre\nFiltre\nPompes à eau\nPompe à huile\nÉchangeurs\nFiltre",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 3
+    }
+  },
+  {
+    "type": "text",
+    "content": "MAINTENANCE DES MACHINES  ET DES MOTEURS   ___________________________________________________________________________________________\nToute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\nBM 4 188 − 4 © Techniques de l’Ingénieur\nLa capacité d’identiﬁcation d’un défaut par un opérateur de machine\nou un agent de maintenance est liée à deux facteurs principaux :\n— de quels paramètres de fonctionnement fiables dispose-t-on  \npour assurer une analyse ?\n— connaît-on les principes de fonctionnement de la machine ?\n2.2 Maintenance préventive\n2.2.1 Déﬁnitions\nLes interventions de maintenance sont déclenchées avant les\ndéfaillances en fonction d’un paramètre. On cherche alors à tendre\nvers un taux de défaillance nul en effectuant le maintien du niveau\nde performance requis avant l’apparition du défaut. Elle se décom-\npose en deux branches : la maintenance systématique et la main-\ntenance conditionnelle.\n■ \nMaintenance systématique  : le paramètre déclencheur est le\ntemps, que ce soit le temps réel (quel que soit le temps de fonction-\nnement de la machine) ou le temps de marche. Les interventions\nsont déclenchées suivant un échéancier de visites intervenant avant\nla défaillance supposée. Le calcul des intervalles entre visites\n« MTBO » est étudié au paragraphe 3.\n■ \nMaintenance conditionnelle : le ou les paramètres déclencheurs\nsont des paramètres de fonctionnement dont les valeurs sont repré-\nsentatives du niveau de performance de la machine. On ﬁxe généra-\nlement des seuils maximaux admissibles à partir desquels\nl’opération de maintenance est déclenchée.\nMaintenance systématique et maintenance conditionnelle peu-\nvent être utilisées conjointement en complément l’une de l’autre.\n2.2.2 Outils de la maintenance conditionnelle\nUne maintenance conditionnelle efﬁcace nécessite de choisir\npuis de mesurer des paramètres représentatifs de l’état du\nmatériel. Pour les systèmes mécaniques, notamment les moteurs à\ncombustion interne, les paramètres de fonctionnement facilement\net donc habituellement mesurés tels que les pressions et les\ntempératures des ﬂuides ou des pièces constitutives, les vitesses\nde rotation, l’opacité des fumées par exemple, ont rapidement\nrévélé leurs limites. En effet, les paramètres cités ci-avant, s’ils sont\nreprésentatifs de l’état de la machine à un instant donné, sont\ndifﬁcilement exploitables pour juger de l’évolution du niveau de\nperformance dans le temps, et notamment pour rendre compte des\nusures lentes des pièces mécaniques en mouvement. D’autres\noutils de suivi ont donc été mis au point.\nOn peut citer :\n— mesure des cotes lors de visites de contrôle et suivi des\névolutions ;\n— mesure et interprétation des performances (puissance et\nrendement) ;\n— analyse des lubrifiants ;\nExemple  : pour illustrer la méthode, prenons le cas d’un opérateur  \nassurant le suivi du fonctionnement d’un moteur industriel Diesel lent,  \ndeux temps, de grande puissance (40 à 50 MW), utilisé dans une  \ncentrale de production d’énergie électrique.\nLe moteur étant instrumenté avec des sondes de température des  \ngaz d’échappement pour chaque cylindre, on suppose que l’on  \nconstate une température anormalement élevée à l’échappement d’un  \ndes cylindres (cylindre no 4 : 480 oC au lieu de 390 oC).\nAprès la prise des mesures élémentaires de sécurité consistant à  \ntransférer la charge de l’alternateur puis à découpler celui-ci, le moteur  \nreste en fonctionnement à charge partielle aﬁn d’analyser le défaut.\nSi l’on établit un arbre des causes possibles, on obtient le schéma de  \nla ﬁgure 4.\nL’analyse consiste à valider des branches possibles, à commencer  \npar les plus importantes, par vériﬁcation de paramètres signiﬁcatifs.\nIl faut choisir un paramètre de fonctionnement facilement mesu-\nrable, qui permette de valider le choix entre les différentes branches.  \nDans l’exemple choisi, le premier paramètre signiﬁcatif est donné par  \nl’évolution de la pression dans la chambre rapportée à l’angle d’arbre  \nmanivelle (diagramme décalé). La pression de compression, fournie  \npar ce diagramme, permet de choisir parmi les trois branches possibles  \n(faible : branche 3 ; normale : branche 1 ou branche 2).\nLe déroulement de l’analyse est donné par le diagramme de la  \nﬁgure 5.\nDans notre exemple, l’opérateur mesurera la pression de  \ncompression qu’il constate anormalement faible.\nBien souvent, il est impossible d’obtenir un paramètre signiﬁcatif  \npermettant d’effectuer un choix (par exemple, entre le défaut  \nd’étanchéité et d’alimentation) ; on doit alors tester les deux branches  \nl’une après l’autre. En revanche, un paramètre peut être validant dans  \nplusieurs branches et permet parfois de lever une ambiguïté.\nC’est le cas ici et la réparation devra s’orienter en priorité vers le  \nremplacement de la soupape d’échappement.\nIl n’est pas rare que plusieurs causes restent probables et seuls les  \ndémontages peuvent venir les conﬁrmer.\nLa limite de la méthode tient dans la capacité de l’opérateur à  \nchoisir un paramètre validant parmi ceux qui sont disponibles,  \ncapacité qui dépend principalement de sa connaissance du  \nfonctionnement de la machine.\nFigure 4  – Arbre des causes d’apparition d’un défaut\nSurcroît de\ncombustible\nDéficit en\nair\nDéfaut\nd’alimentation\nDéfaut\nd’étanchéité\nLumières de\nbalayage\nobstruées\nPulvérisation\ndéfectueuse\nDistribution\ndécalée\nÉtanchéité\nde soupape\nd'échappement\nSegmentation\ndéfectueuse\nFêlure\nde chemise\nou culasse\nNez\nd’injecteur\nTringlerie de\ncommande de\npompe décalée\nInjecteur\nnon étanche\nProfil\nde came\nCalage\nde came\nCombustion\nretardée\nTempérature\nhaute\nd’échappementBranche 1 Branche 3\nBranche 2",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 4
+    }
+  },
+  {
+    "type": "text",
+    "content": "__________________________________________________________________________________________    MAINTENANCE DES MACHINES  ET DES MOTEURS\nToute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\n© Techniques de l’Ingénieur BM 4 188 − 5\n— mesure et analyse vibratoire ou de bruits rayonnés ;\n— mesure en continu de la dégradation des pièces d’usure ;\n— thermographie infrarouge ;\n— analyse spectrale des gaz d’échappement.\nParmi ces outils, certains se sont révélés plus ou moins bien  \nadaptés aux moteurs.\n■ \nLa mesure des cotes lors de visites de contrôle est encore très uti-\nlisée. L ’exemple de la mesure de l’ovalisation de la chemise effectué  \nà chaque visite de cylindre en est un bon exemple, cette dernière  \nétant généralement générée par l’échéancier de la maintenance  \nsystématique (ﬁgure 6).\nEn plus de la mesure des cotes des différents composants de la\nmachine, certains contrôles non destructifs peuvent être effectués\npendant une visite pour déceler la présence de défauts de fatigue\ncomme des ﬁssurations.\nCes contrôles se font par :\n— mesures par ultrasons ;\n— radiographie des pièces métalliques ;\n— magnétoscopie ;\n— ressuage.\n■ \nLa mesure de puissance  et le calcul du rendement  permettent\nd’avoir une image globale de la machine mais cet outil manque de\nprécision et ne permet pas de déterminer quels éléments sont\nresponsables de la dégradation.\n■ \nL’analyse des lubriﬁants est très intéressante à deux niveaux.\nD’une part, on estime la capacité d’une huile à continuer\nd’assurer sa fonction en mesurant ses caractéristiques propres\ntelles que la viscosité, la teneur en produits d’oxydation et en eau,\nles teneurs en additifs (taux de basicité, réserve d’alcalinité) ou\nleurs effets (capacité détergente, dispersante).\nD’autre part, on mesure les teneurs en polluants de l’huile issus\nde la dégradation des pièces mécaniques (présence de métaux\nferreux et non ferreux) ou représentatifs d’un type de fonction-\nnement (résidus de combustibles, produits de combustion).\nL’analyse d’une huile de moteur Diesel industriel peut être effec-\ntuée de la façon la plus simple par un essai à la tache (encadré 1).\nC’est cependant par des analyses poussées en laboratoire que\nl’on obtient les renseignements nécessaires.\nFigure 5  – Diagramme d’analyse de panne\nFigure 6  – Suivi préventif de l’usure\nTempérature haute\nd’échappement cylindre 4\nPression de\ncompression\nfaible\noui\nnon\nDéficit en air\n?\nDéfaut\nd’alimentation\noui\nDéfaut\nd’étanchéité\nTempérature\nd’air de\nbalayage\nélevée\nSegments\ndéfectueux\nnon\nnon\nPrésence\nde gaz dans\nla caisse\nd’expansion\noui\nFêlure de\nchemise ou\nculasse\nCombustion\nretardée\nSurcroît de\ncombustible\nÉvolution\nrapide\nÉtanchéité\nde la soupape\nd’échappement\noui Obstructiondes lumières\nnon\nVisiteV isiteV isite\nRemplacement\nUsure\nTemps\nSeuil maximal\nadmissible\nEncadré 1 – Une analyse chromatographique simple,\nl’essai à la tache\nOn dépose sur une feuille de papier ﬁltre spéciale une goutte\nd’huile usagée que l’on laisse reposer pendant 24 ou 48 heures.\nL’huile diffuse dans les pores du papier et la tache obtenue\npermet d’évaluer le pouvoir dispersif et détergent du lubriﬁant,\nle taux de matières charbonneuses, l’état d’oxydation de l’huile\net la présence éventuelle de fractions lourdes oxydées du\ncombustible (ﬁgure 7).\nOn peut aussi chauffer l’échantillon d’huile avant de le\ndéposer sur la feuille aﬁn d’en évaluer les qualités à chaud. Ce\ntest simple peut se réaliser rapidement sur tout moteur en\nfonction.\nL’essai à la tache s’applique à l’évaluation de la réserve de\ndispersivité et au degré de pollution d’une huile Diesel usagée.\nOn distingue D la zone de diffusion de l’huile et d la zone de\ndiffusion des insolubles. On détermine :\n(1)\net :\n(2)\net on appelle ID l’indice de dispersivité :\n(3)\nL’auréole interne est plus ou moins sombre en fonction de la\nteneur en matières charbonneuses.\nLa coloration de l’auréole externe renseigne sur le degré\nd’oxydation et sur la pollution par le combustible du lubriﬁant.\nLa tache prend alors une teinte de plus en plus jaune, voire\nfranchement brune.\nd d1 d2+2---------------------=\nD D1 D2+2----------------------=\nID dD----- 100×=",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 5
+    }
+  },
+  {
+    "type": "text",
+    "content": "MAINTENANCE DES MACHINES  ET DES MOTEURS   ___________________________________________________________________________________________\nToute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\nBM 4 188 − 6 © Techniques de l’Ingénieur\n● La viscosité et l’index de viscosité (variation de la viscosité avec  \nla température) renseignent sur la présence de combustible et de  \nrésidus charbonneux dans l’huile, ainsi que sur la rupture éventuelle  \nsous cisaillement des molécules longues et des polymères.\n● Le point éclair  renseigne sur les constituants légers et sur la  \npollution par du combustible.\n● La présence d’eau  est source de corrosion, de réactions  \nd’hydrolyse avec les additifs, de mise en danger du régime hydro-\ndynamique de graissage. On admet une teneur maximum de 0,5 %.\nCes quatre analyses ne demandent pas un matériel sophistiqué  \nou des connaissances particulières et peuvent être effectuées sur le  \nlieu d’exploitation de la machine. Certains moteurs sont équipés de  \ndispositifs de mesure en continu de la teneur de l’huile en eau. \n● Les insolubles sont les produits d’oxydation de l’huile et des  \ncombustibles, des résidus d’usure du moteur et des polluants issus  \nde l’air extérieur, de la suie (produit très dur et abrasif). On proﬁte de  \nla solubilité de ces produits dans le pentane ou dans le toluène pour  \nles extraire et les peser.\n● Les métaux d’usure  sont mesurés par ferrographie, spectro-\nmétrie d’émission, ﬂuorescence X, spectrométrie d’absorption  \natomique.\nLes résultats peuvent être interprétés de la manière suivante :\n— fer (Fe) : usure et corrosion des aciers et des fontes ;\n— manganèse (Mn) : usure et corrosion des aciers alliés ;\n— molybdène (Mo) : usure des segments ;\n— nickel (Ni) : usure et corrosion des aciers alliés ;\n— plomb (Pb) : usure et corrosion des revêtements de  \ncoussinets ;\n— antimoine (Sb) : usure des coussinets ;\n— étain (Sn) : usure et corrosion des coussinets en métal blanc ;\n— chrome (Cr) : usure des segments ou gorges chromés ;\n— cuivre (Cu) : usure des bagues de pied de bielle.\nLa teneur doit être sensiblement constante ou en très légère  \naugmentation mais il faut prendre en compte les appoints ou  \nvidanges effectués.\n● Les additifs, tels que magnésium, phosphore, zinc, calcium,  \nsont dosés. Leur concentration permet de juger de la consommation  \nde l’huile et de la nécessité d’appoints.\nLa ﬁgure 8 illustre des résultats d’analyse d’un échantillon  \nd’huile de moteur Diesel industriel.\nCes analyses ont lieu suivant un échéancier (mensuel par  \nexemple), et une brusque dégradation peut passer inaperçue avant  \nl’avarie. Certains constructeurs de moteurs (MAN) mettent en place  \ndes analyses en continu, notamment du taux de basicité et de la  \nteneur en fer sur les égouttures d’huile de graissage des cylindres  \ndes moteurs lents deux temps.\n■ \nLes mesures de vibrations , effectuées par des accéléromètres  \npiézo-électriques ou des sondes laser sans contact, permettent une  \nétude en valeur globale sur une bande de fréquence prédéﬁnie, ou  \nen signature spectrale après décomposition par série de Fourier.\nElles se sont révélées très intéressantes sur les machines tournantes\n(turbines, moteurs électriques), notamment pour le suivi des paliers\nà roulements. Les spectres de référence sur ces machines sont bien\nconnus et leurs évolutions caractérisent des défauts clairement iden-\ntiﬁables. Cependant, leur mise en œuvre sur des machines à trains\nalternatifs est plus délicate et ne s’est pas réellement développée.\n■ \nLa mesure en continu de la dégradation des pièces d’usure  est\ndifﬁcile à mettre en œuvre mais il existe des systèmes pour mesurer\npar exemple l’usure de la segmentation en marche. L ’un d’eux fait\nappel à un insert amagnétique en V disposé sur la face active du\nsegment. Un capteur placé dans la chemise mesure le temps de\npassage de cet insert devant lui. Rapporté à la vitesse de rotation du\nmoteur, le temps de passage de l’insert diminue avec l’usure du\nsegment (ﬁgure 9).\n■ \nLa thermographie infrarouge permet un suivi des températures\ndes pièces sans contact direct ; c’est une méthode très utile dans le\nsuivi des connexions et des machines électriques en fonctionnement.\nFigure 7  – Essai à la tache d’une huile détergente\nd1\nd2 D2\nD1\nFigure 8  – Résultats d’analyse d’huile moteur  \n(doc. Esso Marine Lubes, devenu Exxon Mobil Marine Lubricants)\nFigure 9  – Coupe d’un segment avec suivi d’usure\nSegment neuf Segment usagé",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 6
+    }
+  },
+  {
+    "type": "text",
+    "content": "__________________________________________________________________________________________    MAINTENANCE DES MACHINES  ET DES MOTEURS\nToute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\n© Techniques de l’Ingénieur BM 4 188 − 7\n■ L’analyse spectrale des gaz d’échappement  est encore peu  \nutilisée sur les moteurs industriels et est plus envisagée comme un  \nmoyen d’optimiser le fonctionnement à toutes les allures plutôt que  \npour la maintenance préventive.\nD’autres outils peuvent être envisagés pour la maintenance des  \nmoteurs à partir de la déﬁnition d’un paramètre représentatif, tels  \nque la mesure du débit de blow by ou celle de la pression dans le  \ncylindre, obtenue par mesure de l’étirement d’un goujon de  \nculasse.\n2.3 Maintenance prédictive\nSon objectif est de pouvoir établir un diagnostic d’état du  \nmatériel à un instant donné pour en déduire une durée de vie  \nprobable sans panne. On doit pouvoir prévoir et effectuer les  \nopérations de maintenance les plus rapides et les moins onéreuses  \njuste avant l’apparition d’une défaillance.\nLes informations fournies par les outils de la maintenance  \nconditionnelle peuvent être utilisées mais doivent être regroupées,  \nordonnées, corrélées. Seul un outil informatique tel qu’un système  \nexpert permet une gestion efﬁcace tant au niveau de la synthèse  \nde l’information collectée, des interactions entre les différents  \nparamètres, de l’arborescence des causes de défaillances, qu’à  \nl’élaboration d’éléments de décision permettant de limiter les opé-\nrations de maintenance au résultat requis.\n2.4 Éléments de comparaison\n2.4.1 Maintenance corrective\nLa défaillance engendre souvent des avaries en chaîne et des  \ndégâts importants. Les réparations sont effectuées dans des  \nconditions difﬁciles puisque imprévues. Le contrôle des temps est  \ndélicat, et le maintien d’un taux de disponibilité sufﬁsant de l’ins-\ntallation n’est possible qu’au prix de la redondance du matériel, de  \nl’existence d’un stock de rechange important ou de l’assurance de  \nla disponibilité de ces rechanges, de la présence de personnel  \nqualiﬁé pour les interventions. Pour pallier cet inconvénient, l’ins-\ntallation peut être organisée en modules que l’on remplace par  \n« échange standard » en cas de défaillance.\nLe nombre d’interventions reste en revanche faible.\n2.4.2 Maintenance préventive systématique\nLe taux de défaillance est faible puisque les défaillances  \nprévisibles sont théoriquement éliminées, mais les défaillances  \nsoudaines ne le sont pas. Les interventions sont programmées  \ndans le temps, ce qui améliore la gestion des personnels et des  \nrechanges nécessaires ainsi que l’adéquation des opérations de  \nmaintenance avec les impératifs commerciaux.\nLe nombre et la durée des interventions sont élevés et le rempla-\ncement systématique d’éléments ayant encore un bon potentiel  \nn’est pas rare (joints d’étanchéité par exemple). Enﬁn, la multi-\nplication des interventions augmente le risque d’erreur humaine  \nsusceptible d’être à l’origine d’une nouvelle avarie.\n2.4.3 Maintenance préventive conditionnelle  \net maintenance prédictive\nLe nombre d’interventions est réduit au strict nécessaire pour un  \ntaux de défaillance faible. La mise en œuvre de ce type de main-\ntenance requiert un nombre important de capteurs et de systèmes  \nde traitement de l’information qui sont eux-mêmes des sources de  \ndéfaillances.\n3. Choix d’une politique  \nde maintenance\nL’objectif principal de la politique de maintenance est l’ efﬁcacité\néconomique  souvent doublée d’impératifs de sécurité  et de\ncontraintes réglementaires (normes antipollution par exemple). Ces\ncontraintes étant identiﬁées, le choix de la politique de maintenance\nest déterminée par le calcul du coût global de durée de vie (life cycle\ncost   ).\nÀ long terme, il s’agit d’abord de juger de la durée de vie\noptimale d’une machine en estimant la somme des coûts suivants :\n— coût d’achat A ;\n— coût de fonctionnement F ;\n— coût total de maintenance M ;\n— valeur de revente éventuelle VR.\nLe coût global vaut :\nCG = A + F + M – VR (4)\nLe coût total de maintenance ayant tendance à augmenter avec\nl’âge de la machine, et la valeur de revente à diminuer, il est\nintéressant de déterminer la durée au bout de laquelle on atteint\nun minimum.\nCette durée de vie optimale  correspond à l’abscisse du point de\ncontact de la tangente à la courbe passant par l’origine (ﬁgure 10).\nLe coût total de maintenance peut être difﬁcile à estimer. En\neffet, il regroupe les coûts directs des opérations, mais aussi les\ncoûts indirects tels que les coûts de remplacement temporaire, de\nstockage et d’immobilisation des rechanges, d’indisponibilité du\nmatériel.\nCette détermination étant réalisée, il faut choisir pour chaque\nmachine ou groupe de machines un type de maintenance appro-\nprié. Dans l’absolu, la maintenance conditionnelle, voire pré-\ndictive, semble la plus adaptée mais en réalité, il est rare de\npouvoir disposer des mesures en continu des paramètres signiﬁ-\ncatifs du fonctionnement permettant de l’appliquer. Le choix\ns’effectue alors entre maintenance systématique et corrective. On\npeut utiliser des critères de choix simples résumés par des arbres\n(ﬁgure 11).\nOn peut aussi estimer pour chaque élément le rapport entre le\ncoût c d’une intervention préventive effectuée dans de bonnes\nconditions, et le coût C supplémentaire supporté en cas de\ndéfaillance. Si ce rapport C  /c est négligeable, la maintenance\ncorrective est la plus intéressante. S’il est élevé, une maintenance\nsystématique s’impose. On peut alors classer les éléments de la\nmachine en fonction de la valeur de ce rapport en :\n— vital (C  /c élevé) ;\n— important (C  /c moyen) ;\n— secondaire (C  /c faible).\nFigure 10  – Détermination de la durée de vie optimale\nCG\nTempsDurée optimale",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 7
+    }
+  },
+  {
+    "type": "text",
+    "content": "MAINTENANCE DES MACHINES  ET DES MOTEURS   ___________________________________________________________________________________________\nToute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\nBM 4 188 − 8 © Techniques de l’Ingénieur\nIl est utile de connaître l’évolution dans le temps de la ﬁabilité  \ndes éléments vitaux et de pouvoir préciser leurs types de défaillan-\nces probables, aﬁn notamment d’ajuster la valeur des MTBO. Ces  \nconnaissances proviennent de l’expérience sur le terrain mais  \naussi de l’exploitation statistique des défaillances constatées. La loi  \nde ﬁabilité d’un élément est identiﬁable à la loi de Weibull :\n(5)\navec R (t   ) probabilité de survie au bout du temps t, \nβ paramètre de forme, \nη paramètre d’échelle, \nγ paramètre de correction de l’origine des temps.\n β < 1 caractérise les défauts de jeunesse avec un taux d’avarie  \ndécroissant dans le temps.\n β = 1 caractérise un taux constant dans le temps.\n β > 1 caractérise un taux d’avarie croissant dans le temps.\nSi on pose :\n(6)\non obtient : (7)\net la densité de probabilité de défaillance au temps x est :\n(8)\nLe coût total moyen de la maintenance systématique de\nl’élément est :\n(9)\nque l’on peut alors rendre minimal par ajustement du MTBO.\n4. Gestion de la maintenance\n4.1 Classement des items\nOn peut classer les éléments ou composants de la machine\nsuivant trois critères :\n— le critère « vital, important, secondaire »  (§ 3) permettant de\nsavoir quelle forme de maintenance est appliquée à l’élément ;\n— la nature de l’élément, déterminant un classement horizontal,\nqui permet d’accéder rapidement aux données de ce dernier. On\npeut ainsi avoir une rubrique « pompes » ou « vannes » listant\nl’ensemble des pompes de l’installation sans distinction de rôle,\npuissance, emplacement ou appartenance à un sous-ensemble ;\n—l ’ appartenance de l’élément à un ensemble , déterminant un\nclassement arborescent, qui permet de connaître les interactions\nentre l’élément et le reste de l’installation (figure 12).\nFigure 11  – Choix d’une politique de \nmaintenance\nLa panne sur\ncette machine\na-t-elle une incidence\nimportante\nsur la production\nou sur la sécurité ?\nLe coût de la panne\nest-il acceptable ?\nEst-il possible d’utiliser\ndes techniques\nde surveillance ?\nL’utilisation\nde ces techniques\nest-elle rentable ?\nMaintenance\ncorrective\nMaintenance\nsystématique\nMaintenance\nconditionnelle\nnon\nnon\nnon\nnon\noui\noui\noui\noui\nRt() exp /H20900 /H20898t γ–η------------/H20899β– /H20901=\nx t γ–η-------------=\nRx() exp x β–()=\nfx() β·x β 1– ·exp x β–()=\nc 1 cC   ·  f x () +  /H20885  \n0\n \nMTBO\n \n1\n \nf\n \nx\n \n()\n \n–\n \n[]\n \nd\n \nx\n -------------------------------------------------------=  \nFigure 1\n \n2 – Classement arborescent des items\nGroupe\nélectrogène\nn° 2\nMoteur\nDiesel\nAlternateur\nCylindres\nLubrification\nDistribution\nRéfrigération\nInjection Pompe\nInjecteur Aiguille\nCorps",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 8
+    }
+  },
+  {
+    "type": "text",
+    "content": "__________________________________________________________________________________________\n \n \n \n \n \n \n  \nMAINTENANCE DES MACHINES  ET DES MOTEURS\n \nT\n \noute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\n \n© \n \nT\n \nec\n \nhniques de l’Ingénieur\n \nBM 4 1\n \n88\n \n \n \n− \n \n9\n \nCe type de classement permet de déterminer des ni\n \nveaux, de  \nl’ensemble jusqu’à la pièce détachée élémentaire, de coder chaque  \nélément, sous-ensemble ou groupe, de faire ressortir la criticité de  \ndéfaillance de chaque élément sur les sous-ensembles. Cette  \nmodélisation des systèmes peut être adaptée en fonction des  \ncontraintes.\n \n4.2\n \nSuivi des opérations\n \nIl s\n \n’effectue grâce aux \n \nhistoriques\n \n qui permettent la mémori-\nsation et l’accès aux actions passées, aux \n \ntableaux de suivi\n \n et aux  \n \nﬁches d’intervention\n \n pour préparer les opérations à venir.\nLes historiques doivent comporter au minimum le code ou  \nl’identiﬁant de l’élément, la date et les heures de marche au  \nmoment de l’intervention, la nature et la cause de l’intervention, la\npériodicité s’il s’agit d’interventions systématiques, la liste des piè-\nces de rechange utilisées et leurs codes, des remarques ou\ncommentaires de l’intervenant.\nLes historiques sont renseignés à chaque intervention et classés\nchronologiquement par groupe ou sous-ensemble.\nLes tableaux de suivi (ﬁgure \n \n1\n \n3\n \n) permet\n \ntent d’afﬁcher, pour\nchaque item soumis, les échéances des opérations systématiques\nmises à jour après chaque intervention et le délai restant. Leur\ntenue est journalière ou hebdomadaire et grandement facilitée par\nla mise en place d’horocontrôles sur les machines.\nLes ﬁches d’intervention sont utilisées pour préparer et effectuer\nl’intervention. Elles doivent comporter au minimum le code ou\nl’identiﬁant de l’élément, sa situation géographique, la périodicité,\nla date, la référence des procédures de conduite et de sécurité\npréalables, la durée estimée, le nombre de personnel nécessaire et\nsa qualiﬁcation, la description de l’intervention, la liste des pièces\ndevant être remplacées, un tableau de report des cotes et mesures\neffectuées (ﬁgure \n \n1\n \n4). En ce qui concerne les moteurs industriels,\nles guides d’entretien émis par les constructeurs sont une bonne\nbase pour l’établissement des ﬁches d’intervention.\nFigure 13 – Exemple de tableau de suivi (extrait, doc. MAN AG)\nExemple  : pour les moteurs Diesel lents d’alésage supérieur à  \n580 mm, il peut être intéressant de traiter chaque cylindre indépen-\ndamment des autres pour étaler la charge des interventions dans le  \ntemps au vu des coûts des pièces de rechange et du temps d’inter-\nvention. À l’inverse, pour un Diesel quatre temps six cylindres de  \n450 kW par exemple, il sera avantageux de visiter tous les cylindres en  \nmême temps.\nFigure 14 – Exemple de ﬁche de report de données pouvant faire \npartie de la ﬁche d’intervention, visite de chemise (extrait, doc. MAN AG)",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 9
+    }
+  },
+  {
+    "type": "text",
+    "content": "MAINTENANCE DES MACHINES  ET DES MOTEURS   \n___________________________________________________________________________________________\nToute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\nBM 4 188 \n−\n \n10\n© Techniques de l’Ingénieur\n4.3 Suivi des stocks\nLes stocks de rechange sont déterminés par la criticité des  \nmatériels et les capacités d’approvisionnement. Il convient de  \ngarder un stock de sécurité constitué de pièces ou sous-ensembles  \ndont la probabilité d’utilisation peut rester faible mais qui, en cas  \nde manque lors d’une défaillance, entraînent un coût d’indisponi-\nbilité, que l’on appelle Ci\n  , très élevé. Le rapport entre le coût de  \nstockage Cs\n et Ci détermine l’appartenance d’un élément au stock  \nde sécurité. On doit aussi prendre en compte les capacités et délais  \nde livraison des pièces. Pour les moteurs industriels, les pièces  \nd’usure normale telles que segments, pistons, chemises, soupa-\npes, injecteurs ou pompes à combustible sont disponibles dans  \ndes délais très courts mais leur acheminement sur site peut être  \nproblématique. C’est le cas extrême d’un navire au long cours qui  \nne peut se réapprovisionner en pièces que lors des escales. Le  \nstock de sécurité doit alors être conséquent et comporter notam-\nment un cylindre complet, une culasse équipée, un attelage, une  \nchemise, un système d’injection, un tronçon d’arbre à cames et des  \ncames, en sus des consommables sur la durée d’un voyage.\nLa maintenance préventive permet de limiter le stock des pièces  \ndont les commandes ne seront lancées que pour assurer les opé-\nrations prévues, compte tenu des délais d’approvisionnement,  \nmais n’exonère pas de la nécessité du stock de sécurité.\nLes pièces ou sous-ensembles doivent être soigneusement  \ncodés et répertoriés en rapport avec le classement des items, mais  \naussi en références fournisseurs dont on tient un ﬁchier. Les ris-\nques de dérive de l’existant par rapport à l’inventaire sont grands  \net doivent être évités par des mises à jour régulières.\n4.4 Analyse des coûts\nIl s’agit de comparer les dépenses réelles aux prévisions bud-\ngétaires aﬁn d’identiﬁer les causes des écarts.\nIl convient de classer chaque dépense le plus précisément  \npossible. On classe par exemple les dépenses en fonction de la  \nnature de l’intervention, corrective ou préventive. Pour chacune\nd’elle, on sépare clairement le coût :\n— des pièces de rechange ;\n— de la main-d’œuvre interne ;\n— de la main-d’œuvre externe ou sous-traitée ;\n— d’indisponibilité ;\n— réglementaire (expertise, classification),\n— ainsi que la nature du matériel concerné (mécanique, tôlerie,\nélectricité, automatismes, etc.).\nOn y ajoute les dépenses générales de tenue du stock et les frais\nde gestion de l’équipe par exemple.\nOn cherche à rendre minimal le coût global en adaptant la\npolitique de maintenance en fonction des résultats.\n4.5 Gestion de la maintenance assistée  \npar ordinateur (GMAO)\nL’outil informatique permet de résoudre de nombreux problèmes\nposés par la gestion de la maintenance.\nL’architecture de principe du système peut satisfaire au schéma\nde la ﬁgure 15, exemple de la MAO mise en œuvre sur un navire.\nLes informations sur les opérations de maintenance sont intro-\nduites dans le logiciel (encadré 2), manuellement par l’opérateur\nou automatiquement pour certaines données de fonctionnement\ntelles que les heures de marche. Les historiques sont mis à jour, les\nﬁches et le calendrier d’intervention sont édités. Les commandes\nde pièces sont générées et les coûts analysés. En prenant en\ncompte les informations et commentaires saisis dans les histo-\nriques, des aides au diagnostic et à l’amélioration de la ﬁabilité\nsont établis. Dans cet exemple, les capacités de gestion du\npersonnel sont sans objet.\nLa ﬁgure 16 donne un exemple de tableau de suivi d’un groupe\nélectrogène, avec mise à jour automatique des heures de marche\net visualisation des délais avant intervention.\nFigure 15  – Architecture de la MAO\nEntretien\ndu navire\nAnalyse\ndes tâches\nd’entretien\nGestion\nde la\nmaintenance\nOpérations\nde\nmaintenance\nCorrective\nPréventive\nInterventions\nsur appareils\n(bord ou chantiers)\nAnalyse\nvibratoire,\nanalyse d’huile,\nthermographie,\netc.\nConditionnelle\nSystématique\nCalendrier\nhoraire\ncyclique\nLogiciel\nde\nMAO\nHistoriques\nProgramme\nde\nmaintenance\nAnalyse\ndes coûts\nd’entretien\nÉtat\ndes stocks\nAmélioration\nde la fiabilité\nAnalyse des pannes\net interventions\nAide au\ndiagnostic\nCalendrier\ndes interventions\nFiches\ndes interventions\nPréparation\nde l’arrêt technique\nCommandes",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 10
+    }
+  },
+  {
+    "type": "text",
+    "content": "__________________________________________________________________________________________    MAINTENANCE DES MACHINES  ET DES MOTEURS\nToute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\n© Techniques de l’Ingénieur BM 4 188 − 11\n5. Organisation  \ndes travaux lourds\nLes travaux de niveau 4 ou 5 (§ 1.4) tels que les grands travaux\nde révision d’unités complètes requièrent une organisation parti-\nculière. On utilise souvent la méthode PERT ( program evaluation\nand review technique   ), où le chantier est décomposé en tâches\nélémentaires de durée connue, agencées en un réseau chronologi-\nque de tâches et d’étapes. Apparaissent pour chaque étape les\ntemps au plus tôt et au plus tard, ce qui détermine un chemin cri-\ntique, ou enchaînement des opérations pour lesquelles il n’existe\naucune marge de temps disponible (ﬁgure 17).\n Il est proﬁtable de préparer par cette méthode certaines\ninterventions majeures de maintenance corrective en cas d’avaries\ngraves sur les équipements critiques. Ce travail, qui paraît inutile\nsi l’avarie ne se produit pas, est en revanche très rentable dans le\ncas contraire. Il permet par ailleurs d’effectuer des simulations de\ntemps d’indisponibilité pour diverses causes d’avaries.\nDes logiciels spéciﬁques permettent d’établir les réseaux et les\ncalendriers par chantier.\nEncadré 2 – Critères de choix d’un logiciel de GMAO\n1. Capacité du logiciel\nNombre d’équipements, niveau de découpage, nombre de  \ntravaux, nombre de pièces de rechange, nombre de types d’acti-\nvités, nombre de types de ressources...\n2. Caractéristiques conversationnelles\nLangage utilisé (français, anglais) pour le logiciel, la  \ndocumentation ; mode de communication : interactif par  \nmenus, par commandes ; traitement des données en entrée en  \ntemps réel ; langage d’interrogation et de recherche des don-\nnées, visualisation (graphique, planning) des informations...\n3. Gestion du parc de matériel\nInventaire croisé (géographie, technique), identiﬁcation des  \nmatériels, objets de gestion : historique, liste des pièces  \ndétachées, des sous-ensembles, suivi des heures de marche...\n4. Gestion du portefeuille de travaux\nSaisie des bons de travaux, préparation de ceux-ci, méthodes  \nd’ordonnancement, suivi des travaux en cours...\n5. Gestion des achats et pièces détachées\nTraitement des demandes d’achat, tenue de l’inventaire du  \nmagasin, réapprovisionnement, suivi de consommation des  \npièces, évaluation des fournisseurs...\n6. Gestion des travaux neufs\nAide à l’établissement de devis, suivi des engagements de  \ndépenses, planiﬁcation des travaux...\n7. Maintenance préventive\nGestion des ﬁches d’entretien préventives, équilibrage du  \nplan de préventif, modiﬁcation des périodicités...\n8. Gestion du personnel\nPlanning des absences et congés, suivis des qualiﬁcations et  \ndes formations...\n9. Autres fonctions assurées\nSuivi de documents, suivi des équipements, possibilités de  \nsimulation (what-if    ).\n10. Rapports et sorties graphiques\nGénérateurs d’états, combien de rapports standards, quelles  \nsorties graphiques (réseau, planning, diagrammes de gestion),  \nquels traceurs compatibles...\n11. Interfaçage avec autres systèmes\nDispositif prévu, mode d’extraction et d’insertion de  \ndonnées...\nFigure 16  – Écran de visualisation des périodicités d’un logiciel de MAO\nFigure 17  – Exemple de réseau PERT pour visite de piston\n15\n2,4 2,4\n10\n2 2\n0\n0 0\n5\n0,3 2,2\n20\n2,7 2,7\n25\n2,9 2,9\n30\n4,1 4,7\n40\n5,2 5,2\n45\n5,5 5,5\n50\n67 , 8\n0\n8 8\n35\n4,9 4,9\nA 2\nA'0,4\nB 0,3 D 0,5 F 0,2 G 1,2\nJ 0,3\nC 0,3\nE 0,3\nK 0,5\nM\n0,5L 0,3\nH 0,5\nI 0,2\nP 0,3\nN 2,5\nO 0,2",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 11
+    }
+  },
+  {
+    "type": "text",
+    "content": "MAINTENANCE DES MACHINES  ET DES MOTEURS   ___________________________________________________________________________________________\nToute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\nBM 4 188 − 12 © Techniques de l’Ingénieur\n6. Techniques d’entretien  \ndes moteurs industriels\nLes interventions préventives sur les moteurs Diesel industriels  \nou marins suivent des schémas types. Les périodicités des inter-\nventions systématiques, données en heures de marche (hdm), sont  \nindicatives et issues des documents des constructeurs.\n6.1 Distribution\nLa distribution est très généralement effectuée par un train\nd’engrenages mais certains moteurs utilisent une distribution par\nchaîne (MAN type MC). Les premiers moteurs sans arbre à cames\net à gestion électronique sont opérationnels depuis 2003 ; leur cas\nest traité en ﬁn de paragraphe.\nLe contrôle se répartit en trois étapes principales.\n■ \nContrôle visuel des dentures d’engrenages, cames, galets (4 500\nà 6 000 hdm) : les parties actives doivent avoir un aspect blanc et\npoli, on y recherche les traces de rayures, grippage, écaillage et les\namorces de fêlures. Les rayures légères peuvent être polies à la\npierre ﬁne (grain 500).\n■ \nMesure des jeux d’engrènement (ﬁgure 18) et axiaux des roues\nd’engrenage ainsi que le contrôle du calage angulaire de l’arbre à\ncames et des cames (8 000 à 12 000 hdm) : la vériﬁcation du calage\ns’effectue en virant le moteur à une position de référence,\npiston no 1 au point mort supérieur par exemple, puis en vériﬁant, à\nl’aide d’une jauge de référence (ﬁgure 19) la position des organes,\nmanivelle du cylindre, arbre à cames, cames, par rapport aux\nrepères du bâti moteur.\nSi les cames sont frettées hydrauliquement sur l’arbre, le calage\npeut être repris.\n■ \nVériﬁcation des poussoirs et galets  (24 000 à 30 000 hdm)\n(ﬁgure 20) et visite des paliers d’arbre à cames : lorsque la distribu-\ntion est à chaîne, on mesure la longueur sur dix maillons pour juger\nde son élongation.\nSur les moteurs sans arbre à cames (Sulzer RT -Flex, MAN série ME),\nla gestion électronique du cycle utilise un capteur  / codeur de position\nde l’arbre manivelle situé à l’extrémité de ce dernier. La procédure\nde réglage est identique à la vériﬁcation du calage de l’arbre à cames.\nGlossaire\nArbre manivelle (appelé vilebrequin sur les petits moteurs) :  \narbre principal du moteur possédant les manivelles sur  \nlesquelles s’articulent les embiellages de chacun des cylindres.\nAxe de piston  : axe d’articulation directe de la bielle sur le  \npiston (moteurs quatre temps).\nBalayage : alimentation en air d’un moteur.\nCame : élément rotatif à proﬁl non cylindrique, permettant  \nd’actionner un organe dans un mouvement alternatif.\nChapeau (de palier) : cage amovible contenant un coussinet  \net assurant la fermeture d’un palier autour d’un arbre.\nChemise : cylindre creux formant les parois latérales d’une  \nchambre dans laquelle se déplace un piston.\nCoussinets (de palier) : coquilles minces en acier affectant la  \nforme d’un demi-cylindre, recouverte de métal à faible coef-\nﬁcient de frottement, et assurant la liaison entre la soie d’un  \narbre et la cage du palier correspondant.\nCrosse : organe de liaison entre la bielle et la tige de piston  \n(moteurs lents à deux temps).\nCulasse : pièce assurant la fermeture de la partie supérieure  \nde la chambre de combustion.\nCulbuteur : organe de commande des soupapes.\nDébit de blow by  : débit des gaz fuyant entre segments et  \nchemise.\nDéﬂexions : déformations de l’arbre manivelle consécutives  \nau délignage de ces paliers supports.\nDéglaçage : opération visant à rendre la surface intérieure de  \nla chemise de cylindre légèrement rugueuse.\nDistribution : système d’entraînement des auxiliaires de la  \nchambre de combustion qui permettent d’assurer le dérou-\nlement du cycle moteur.\nFrettage hydraulique  : méthode permettant de ﬁxer deux  \npièces mécaniques par serrage naturel réversible de l’une sur  \nl’autre. L ’application d’une pression d’huile assure une dila-\ntation et le desserrage de ce montage.\nGalet : pièce cylindrique roulant sur une came et transmettant  \nle mouvement à l’organe commandé.\nGrain de poussée  : élément de liaison entre deux pièces  \nanimées d’un mouvement de translation (alternatif).\nJoues (de manivelle) : composantes de l’arbre manivelle  \nassurant la liaison entre les tourillons (axe de rotation de  \nl’arbre) et les manetons (articulation de la bielle). Deux joues  \net un maneton forment une manivelle.\nJupe : partie inférieure du piston.\nLanterne : cage placée sur la culasse et portant la soupape  \nd’échappement et son siège. Elle permet le démontage de  \ncette dernière sans dépose de la culasse.\nPlongeur : nom usuel du piston de la pompe à combustible.\nPoint mort supérieur  : position extrême haute du piston  \nmoteur dans sa course.\nRessuage : opération faisant appel à deux produits déposés  \nl’un après l’autre sur une surface métallique et permettant de  \nfaire apparaître des ﬁssures autrement invisibles.\nSiège de clapet  : anneau sur lequel s’appuie le clapet d’une  \nsoupape pour assurer une étanchéité au passage d’un ﬂuide.\nSoie : surface de portage extérieure de la partie cylindrique  \nd’un arbre dans un palier.\nTulipe : partie évasée d’une soupape.\nFigure 18  – Mesure du jeu radial de distribution (doc. MAK)\nFigure 19  – Vériﬁcation du calage de l’arbre à cames (doc. MAN AG)\nz x\nValeurs nominales :\nx = 0,23 à 0,4 mm\nz = 0,23 à 0,41 mm\n100300360\nVolant moteur\nGraduation de référence\nPompe à\ncombustible\nCameJauge",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 12
+    }
+  },
+  {
+    "type": "text",
+    "content": "__________________________________________________________________________________________    MAINTENANCE DES MACHINES  ET DES MOTEURS\nToute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\n© Techniques de l’Ingénieur BM 4 188 − 13\n6.2 Système d’injection\nIl est constitué de la pompe et d’un ou plusieurs injecteurs par  \ncylindre.\nLa visite des injecteurs (3 000 à 8 000 hdm) consiste à effectuer,  \nau banc d’essais, un contrôle de la pulvérisation, de l’étanchéité de  \nl’aiguille, de la pression de tarage. La dépose permet de juger de  \nla corrosion et de l’érosion sur le pulvérisateur (ﬁgure 21). Le  \nlogement dans la culasse est nettoyé et son portage rodé. Un  \ninjecteur qui satisfait à ces contrôles ne doit pas être démonté.  \nDans le cas contraire, il est remplacé et subit une visite complète.\nLa visite complète  (24 000 à 30 000 hdm) permet le rempla-\ncement du pulvérisateur (porte-aiguille et aiguille), le rodage du  \nportage entre corps et pulvérisateur, la reprise du tarage.\nLes pompes à combustible  voient un contrôle en deux étapes :\n— la visite de la tête de pompe qui permet de juger de l’étanchéité  \ndu clapet de refoulement et de vérifier le calage du début d’injection ;\n— après avoir viré le moteur dans une position particulière\n(point mort supérieur ou début d’injection du cylindre considéré),\non mesure la position verticale du piston plongeur de la pompe par\nrapport aux lumières de la chemise (ﬁgure 22).\nEn cas d’écart à la cote d’origine, le réglage de l’avance peut être\nrepris de deux manières suivant les moteurs (ﬁgure 23) :\n— par rotation de la came (frettage hydraulique) ;\n— en modifiant la hauteur de la chemise de pompe par ajout ou\nretrait de cales sous son talon.\nLa visite complète de la pompe  (16 000 à 24 000 hdm) permet le\nremplacement des pièces d’usure telles que le grain de poussée,\nl’amortisseur de pulsation, les joints, ainsi que la vériﬁcation de\nl’état du couple piston plongeur-chemise (pièces appairées). Toute\ntrace de grippage ou d’érosion sur les arêtes de la rampe ou des\nlumières entraîne le rebut (ﬁgure 24).\nFigure 20  – Mesure du jeu des galets après démontage  \n(doc. S.E.M.T . Pielstick)\nFigure 21  – Banc d’essais et corrosion du pulvérisateur  \n(doc. S.E.M.T . Pielstick)\nJeu total du galet sur son axe (limite de rebut) : 0,35 mm\nJeux\nGalet\nComparateur \n(de mesure \ndu jeu)\nPoussoir\nLR = 2 mm\nLR = 2,5 mm\nCorrosion\nCorrosion\nAiguille Porte-aiguille\nPulvérisateur\nInjecteur\nBanc\nd'essai\nLR : limite de rebut\nFigure 22  – Mesure de la cote du plongeur (doc. MAN AG)\nFigure 23  – Réglage de l’avance (doc. MAN AG)\na\nD1\nSupport de jauge\nJauge graduée Tête de pompe\nCorps de pompe\nChemise de pompe\nPiston plongeur\nD1 constante de neuvage\na course du piston plongeur entre le début d'injection\n et le point mort supérieur\nPompe à combustible\nCame\nArbre\nà cames\nClé de réglage\nTête de pompe\nCale\nCorps de pompe\nà combustible\nPompe hydraulique de frettage\npositionnement de calesbrotation de la camea",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 13
+    }
+  },
+  {
+    "type": "text",
+    "content": "MAINTENANCE DES MACHINES  ET DES MOTEURS   ___________________________________________________________________________________________\nToute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\nBM 4 188 − 14 © Techniques de l’Ingénieur\n6.3 Éléments constitutifs du cylindre\n6.3.1 Culasse et accessoires\nIl faut distinguer les moteurs deux temps des moteurs quatre  \ntemps. La culasse des premiers est d’une conception plus simple  \npuisqu’il n’y a pas d’organe d’admission d’air. Elle comprend :\n— une soupape d’échappement à ouverture hydraulique et  \nfermeture pneumatique montée sur lanterne au centre ;\n— deux à trois injecteurs ;\n— une soupape de lancement à l’air ;\n— une soupape de sûreté ;\n— un robinet de décompression/indication ;\n— une chemise de réfrigération ou des canaux forés.\nLa visite (8 000 à 12 000 hdm) est essentiellement constituée par  \nle contrôle de la soupape d’échappement. Après vidange partielle  \ndu cylindre, la culasse équipée est déposée ainsi que la soupape  \nd’échappement sur sa lanterne. Le robinet de décompression, les  \nsoupapes de lancement et de sûreté sont déposés, on vériﬁe leur  \nétat et leur étanchéité. Les logements dans la culasse sont nettoyés  \net leur portage rodé. La chemise de réfrigération est déposée et la  \nchambre nettoyée ou détartrée, tous les joints sont remplacés.\nAprès démontage de la soupape, on vériﬁe l’état du clapet et du  \nsiège à l’aide de gabarits (ﬁgure 25). On mesure la corrosion sur le  \ndessous de tulipe et les traces de brûlure du portage, on vériﬁe le  \ndiamètre de la tige.\nUn siège ou un clapet peuvent être meulés ou usinés si les  \nmarques de brûlure ne sont pas trop profondes. Le système de  \nmanœuvre oléo-pneumatique est à rattrapage de jeux automatique  \net ne nécessite que le remplacement des joints d’étanchéité.\nPour les moteurs quatre temps, la visite comporte des démon-\ntages et vériﬁcations supplémentaires, notamment sur la culbu-\nterie : vériﬁcation des axes et douilles de culbuteurs, grains de\npoussée et de réglage. Les soupapes et sièges d’admission sont\ntraités comme les soupapes d’échappement bien qu’ils ne soient\npas montés sur lanternes.\n6.3.2 Piston et chemise\nL’architecture des moteurs deux temps  avec tige de piston et\ncrosse, rend cette opération indépendante de la visite de l’embiel-\nlage, ce qui n’est pas le cas des moteurs quatre temps.\nDe plus, l’accès par le collecteur de balayage permet de vériﬁer\nl’état de la chemise et des segments sans démontage (ﬁgure 26),\nà travers les lumières de balayage (1 000 hdm).\nFigure 24  – Érosion et début de grippage sur une pompe à combustible \n(doc. S.E.M.T . Pielstick)\nFigure 25  – Mesure sur siège et clapet de soupape (doc. MAN AG)\nFigure 26  – Vériﬁcation de l’aspect de la segmentation\net de la chemise par les lumières de balayage (doc. MAN AG)\n30°\nBC DA E\nF1\nGabarit de mesure\nGabarit de mesure\nSiège\nTulipe de soupape\nF1 cote mesurée de corrosion (perte de métal)\nA à E points de mesure\nMiroir articulé\nChemise\nPiston\nSegments\nEntablement\nTige de piston\nPresse-étoupe\nde tige de piston\nJet en bois ou bronze\npermettant de faire bouger\nles segments\nLumière de balayage",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 14
+    }
+  },
+  {
+    "type": "text",
+    "content": "__________________________________________________________________________________________    MAINTENANCE DES MACHINES  ET DES MOTEURS\nToute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\n© Techniques de l’Ingénieur BM 4 188 − 15\nOn vériﬁera l’élasticité des segments (segment cassé) et leur  \nliberté dans la gorge (segment gommé). La visite des segments  \nintervient alors lorsqu’il y a nécessité de les remplacer (8 000 à  \n12 000 hdm). Le piston est déposé, les segments sont remplacés,  \non mesure les dimensions des gorges après nettoyage et le jeu de  \nbattement après repose des segments neufs. La géométrie de la  \ntête de piston est comparée à un gabarit pour juger de la corro-\nsion. On mesure le diamètre de la tige en plusieurs points et le  \npresse-étoupe de tige est déposé et visité (remplacement des seg-\nments).\nLa visite complète du piston (16 000 à 20 000 hdm) ajoute à la  \nprécédente la dépose complète de la tête, de la jupe et de la tige  \npour vériﬁcation de l’état de la chambre de réfrigération. Les joints  \nsont remplacés et une épreuve hydraulique à 7 bar, par exemple,  \nest effectuée après remontage.\nÀ chaque visite, la chemise est nettoyée, les petites marques  \nsont atténuées à la pierre ou un déglaçage est effectué, on mesure  \nl’ovalisation (§ 4.2). La dépose n’intervient que lorsqu’il est indis-\npensable de remplacer la chemise, après dépassement des seuils  \nd’usure ou apparition de marques profondes.\nPour les moteurs quatre temps, la dépose du piston s’accompa-\ngne de la dépose totale ou partielle (bielle en deux parties) de  \nl’embiellage. Il faut veiller, lors de la dépose, à protéger la chemise  \net la bielle (ﬁgure 27). On laisse les segments en place pour véri-\nﬁer les jeux à la coupe (utilisation d’un gabarit) et de battement  \n(ﬁgure 28). Les segments ne sont déposés que si les limites  \nd’usure sont atteintes, des marques profondes existent où le revê-\ntement chromé a partiellement disparu. Lorsque le nettoyage des  \ngorges nécessite la dépose des segments, il est recommandé de  \nles remplacer.\nTout remplacement de segment implique une période de rodage,  \nun déglaçage de la chemise est souvent recommandé. Cette  \ndernière subit les mêmes vériﬁcations que sur les moteurs deux  \ntemps.\nLa visite comprend le débiellage et le contrôle de l’axe de piston  \n(ﬁgure 29).\nOn mesure le diamètre de l’axe de piston en deux ou trois  \nendroits après dépose.\nUne recherche de fêlures est effectuée par ressuage dans  \nl’intérieur de la jupe, au droit des bossages d’axe.\nLes pistons sont en deux parties. Comme pour les moteurs deux  \ntemps, la visite complète (24 000 hdm) comprend la dépose de la  \ntête et de la jupe pour le nettoyage de la chambre de réfrigération.\n6.3.3 Embiellage et arbre manivelle\nPour les moteurs quatre temps, l’embiellage est déposé et visité  \nlors de la visite du piston. On mesure l’ovalisation de la tête et du  \npied de bielle (ﬁgure 30), on vériﬁe l’état du revêtement antifriction  \ndes coussinets et de la douille et on soufﬂe les canalisations de  \ngraissage à l’air comprimé.\nSur les moteurs deux temps , la dépose n’étant pas nécessaire  \npour la visite du piston, et vu la taille et la masse des pièces  \n(jusqu’à 6 000 kg pour une bielle équipée), la visite (8 000 à  \n12 000 hdm) consiste à mesurer les jeux aux articulations sans  \ndémontage à l’aide de cales d’épaisseur (ﬁgure 31). Au vu des  \nrésultats, le démontage de l’articulation pour examen des cous-\nsinets et des soies est alors effectué.\nLes opérations sur l’arbre manivelle se résument, quel que soit  \nle type de moteur, à la mesure des déﬂexions, la mesure des jeux  \nsous soie ou d’affaissements des paliers principaux et au contrôle  \nde l’état des coussinets de paliers principaux après démontage.  \nSur les moteurs quatre temps, l’examen du maneton de manivelle  \nest effectué à chaque visite du piston. Il consiste à vériﬁer la  \nconicité et la cylindricité par mesure du diamètre en plusieurs  \npoints.\nLa mesure des déﬂexions (3 000 à 8 000 hdm ou après ouverture\nd’un palier principal) renseigne sur le lignage de l’arbre manivelle.\nPour chaque manivelle, l’ouverture des joues est mesurée sur un\ntour moteur en cinq points (ﬁgure 32). La variation totale observée\nFigure 27  – Protection entre chemise et bielle (doc. S.E.M.T . Pielstick)\nFigure 28  – Mesure des jeux de battement (doc. MAK)\nFigure 29  – Dépose de l’axe de piston (doc. MAK)\nPatins de protection Corps de bielle\nChemise\nBâti du moteur\nhRhN1hN2\nPiston\nSegment\nhN2 hauteur extérieure de gorge de segment\nhN1 hauteur à fond de gorge de segment\nhR épaisseur du segment\nLe jeu de battement minimal est égal à hN1 – hR\nPalonnier de manipulation\ndu piston\nPiston\nSegments\nAxe du piston\nCirclip de maintien\nde l'axe du piston",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 15
+    }
+  },
+  {
+    "type": "text",
+    "content": "MAINTENANCE DES MACHINES  ET DES MOTEURS   ___________________________________________________________________________________________\nToute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\nBM 4 188 − 16 © Techniques de l’Ingénieur\ndans le plan vertical puis dans le plan horizontal ne doit pas\ndépasser une valeur maximale. Dans le cas contraire, on cherche\nen premier lieu un palier affaissé. Un changement du signe des\ncontraintes entre deux manivelles adjacentes révèle un point de\nfatigue accrue sur l’arbre manivelle. Le lignage complet du moteur\nsur son embase doit parfois être repris. La mesure de l’affais-\nsement d’un palier principal peut s’effectuer de trois façons :\n— mesure par un jeu de cales d’épaisseur insérées entre la soie\net le coussinet supérieur ;\n— mesure par une jauge de profondeur traversant le chapeau et\nle coussinet supérieur et reposant sur la génératrice de l’arbre\n(figure 33) ;\n— mesure du déplacement de l’arbre, forcé sur le coussinet\ninférieur par un vérin.\nLa visite des paliers principaux (36 000 hdm) peut être répartie\ndans le temps par roulement. Pour éviter de visiter tous les paliers\nau même moment, un palier est visité et, si le résultat de la visite\nest favorable, il sert de palier témoin pour l’ensemble du moteur.\nCette pratique nécessite un suivi particulièrement poussé des\nparamètres de fonctionnement des paliers, températures et ten-\ndance à l’échauffement, détection de points durs éventuels lors de\nla rotation du moteur au vireur électrique à chaud, vériﬁcations\ndes ﬁltres et analyses de l’huile (échéance mensuelle au plus\nlong).\nLa visite d’un palier principal présente une particularité. Le\ncoussinet au contact avec le bâti ne peut être extrait directement.\nOn doit le faire glisser en rotation dans son logement. Deux\npratiques existent, après dépose du chapeau de palier et de son\ncoussinet :\n— rotation de l’arbre manivelle qui entraîne le coussinet en\nrotation par l’intermédiaire d’un outil de poussée positionné dans\nla canalisation de graissage (figure 34) ;\n— levage local de l’arbre manivelle, 0,1 à 0,3 mm, par vérins\nhydrauliques et rotation du coussinet grâce à des câbles faisant le\ntour de l’arbre (figure 35).\nOn se référera au guide du constructeur pour juger du bon état\nou de l’usure des coussinets, rayures, écaillage, incrustations,\ndisparition partielle de la couche d’antifriction. On vériﬁe l’état de\nsurface de la soie sur laquelle on effectue un ressuage.\nLa butée est traitée comme un palier principal, les systèmes\nd’amortissement de vibrations également.\n6.3.4 Auxiliaires et accessoires\nLes turbosoufﬂantes de suralimentation sont lessivées en\nmarche de façon régulière (48 à 96 hdm). Les paliers sont visités ou\nremplacés (16 000 hdm), la visite complète avec dépose du rotor\nn’intervient qu’en cas de défaut de fonctionnement.\nLes pompes alimentaires, de gavage ou de circulation, qu’elles\nsoient attelées ou à entraînement indépendant, sont visitées en\nfonction des données de fonctionnement avec une visite obliga-\ntoire (24 000 à 36 000 hdm). On vériﬁe et on remplace principale-\nment les organes d’étanchéité d’arbres ainsi que les rouets de\npompes centrifuges.\nLes circuits de réfrigération  sont traités par des produits anti-\ncorrosion et des analyses hebdomadaires pour le maintien du\ntraitement sont recommandées.\nLes ﬁltres , à cartouche ou automatiques, sont changés ou\nnettoyés systématiquement. Il est recommandé d’installer un\nséparateur centrifuge pour le traitement en continu de l’huile de\ngraissage. Les systèmes spéciﬁques d’alimentation en combustible\ndes moteurs fonctionnant avec des combustibles résiduels lourds\ndoivent être particulièrement surveillés, la qualité de l’épuration de\nces combustibles ayant une importance majeure sur le vieillis-\nsement des systèmes d’injection.\nFigure 30  – Mesure de l’ovalisation de tête et de pied de bielle  \n(doc. S.E.M.T . Pielstick)\nFigure 31  – Mesure des jeux sans démontage sur le pied de bielle \n(doc. MAN AG)\nFigure 32  – Mesure des déﬂexions (doc. S.E.M.T . Pielstick)\nø x\nø y\nø x3\nø x1\nø x2\n20± 2\n20± 2\nP2\nP1 15 mm\n15 mm\nP2P1\n50 mm50 mm\nOvalisation :\nOV = x1 + x2/2 – x3\nBielle Chapeau\nde tête de bielle\nPied\nde bielle\nDouille\nde pied de bielle\nJeu de cales\nTige de piston\nCrosse\nBielle\nPatin de crosse\nChapeau de pied de bielle\n310 mm\nOutillage T042\nPMH\nEA\nBD\nC\nManeton\nJoue\nTourillon\nComparateur\nPMH point mort haut (ou supérieur)\nA à E positions de la manivelle pour les mesures",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 16
+    }
+  },
+  {
+    "type": "text",
+    "content": "__________________________________________________________________________________________    MAINTENANCE DES MACHINES  ET DES MOTEURS\nToute reproduction sans autorisation du Centre français d’exploitation du droit de copie est strictement interdite.\n© Techniques de l’Ingénieur BM 4 188 − 17\nFigure 33  – Mesure d’affaissement de palier (doc. MAN AG)\nFigure 34  – Dépose du coussinet supérieur  \npar rotation de l’arbre manivelle (doc. S.E.M.T . Pielstick)\nChapeau\nde palier\nJauge d'affaissement\nCoussinet de palier\nArbre manivelle (tourillon)\nOutillage T046\nBâti du moteur\nPlot de poussée\ndu coussinet\nArbre manivelle\nFigure 35  – Rotation du coussinet inférieur après levage de l’arbre \n(doc. MAN AG)\nTourillon\nVérin hydraulique de levage\nde l'arbre manivelle\nJoue\nOutil de traction du coussinet\nCoussinet\nLes sécurités de protection  du moteur, survitesse, pression  \nbasse d’huile, température haute d’eau entre autres, doivent être  \ntestées au moins tous les six mois.\nL’outillage spéciﬁque fait appel dans une très grande mesure à  \nl’hydraulique pour le serrage ou le frettage des pièces. Cet  \noutillage doit ﬁgurer dans le plan de maintenance du moteur. Si  \nl’on désire que cet outillage soit toujours disponible pour intervenir  \nsur une défaillance, on doit lui appliquer un programme systéma-\ntique.\n7. Conclusion\nSeule une estimation juste des coûts au vu de l’objectif à atteindre\npermet de choisir une politique de maintenance adaptée. Pour les\nmoteurs industriels, les outils de la maintenance conditionnelle sont\nencore peu répandus, et très difﬁcilement adaptables sur des\nmachines existantes. De fait, la maintenance systématique reste une\npolitique encore dominante.",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 17
+    }
+  },
+  {
+    "type": "table",
+    "content": "1 Définitions\n. ................................................................................................ | BM 4 188 2\n- | \n1 .1 Maintenance\n............................................................................................... | — | 2\n1 .2 Défaillances................................................................................................ | — | 2\n1 .3 Temps\n......................................................................................................... | — | 2\n1 .4 Niveaux de maintenance\n.......................................................................... | — | 3\n2 Types de maintenance\n. .......................................................................... | — | 3\n2 .1 Maintenance corrective\n............................................................................. | — | 3\n2 .2 Maintenance préventive\n........................................................................... | — | 4\n2 .3 Maintenance prédictive\n............................................................................. | — | 7\n2 .4 Éléments de comparaison\n........................................................................ | — | 7\n3 Choix d’une politique de maintenance\n. ............................................ | — | 7\n4 Gestion de la maintenance\n. .................................................................. | — | 8\n4 .1 Classement des items\n............................................................................... | — | 8\n4 .2 Suivi des opérations.................................................................................. | — | 9\n4 .3 Suivi des stocks\n......................................................................................... | — | 10\n4 .4 Analyse des coûts...................................................................................... | — | 10\n4 .5 Gestion de la maintenance assistée par ordinateur (GMAO)\n................ | — | 10\n5 Organisation des travaux lourds\n. ....................................................... | — | 11\n6 Techniques d’entretien des moteurs industriels\n. ........................... | — | 12\n6 .1 Distribution................................................................................................. | — | 12\n6 .2 Système d’injection................................................................................... | — | 13\n6 .3 Éléments constitutifs du cylindre\n............................................................. | — | 14\n7 Conclusion\n. ............................................................................................... | — | 17\nPour en savoir plus\n......................................................................................... | Doc BM4188\n. | ",
+    "rows": [
+      [
+        "1 Définitions\n. ................................................................................................",
+        "BM 4 188 2\n-",
+        ""
+      ],
+      [
+        "1 .1 Maintenance\n...............................................................................................",
+        "—",
+        "2"
+      ],
+      [
+        "1 .2 Défaillances................................................................................................",
+        "—",
+        "2"
+      ],
+      [
+        "1 .3 Temps\n.........................................................................................................",
+        "—",
+        "2"
+      ],
+      [
+        "1 .4 Niveaux de maintenance\n..........................................................................",
+        "—",
+        "3"
+      ],
+      [
+        "2 Types de maintenance\n. ..........................................................................",
+        "—",
+        "3"
+      ],
+      [
+        "2 .1 Maintenance corrective\n.............................................................................",
+        "—",
+        "3"
+      ],
+      [
+        "2 .2 Maintenance préventive\n...........................................................................",
+        "—",
+        "4"
+      ],
+      [
+        "2 .3 Maintenance prédictive\n.............................................................................",
+        "—",
+        "7"
+      ],
+      [
+        "2 .4 Éléments de comparaison\n........................................................................",
+        "—",
+        "7"
+      ],
+      [
+        "3 Choix d’une politique de maintenance\n. ............................................",
+        "—",
+        "7"
+      ],
+      [
+        "4 Gestion de la maintenance\n. ..................................................................",
+        "—",
+        "8"
+      ],
+      [
+        "4 .1 Classement des items\n...............................................................................",
+        "—",
+        "8"
+      ],
+      [
+        "4 .2 Suivi des opérations..................................................................................",
+        "—",
+        "9"
+      ],
+      [
+        "4 .3 Suivi des stocks\n.........................................................................................",
+        "—",
+        "10"
+      ],
+      [
+        "4 .4 Analyse des coûts......................................................................................",
+        "—",
+        "10"
+      ],
+      [
+        "4 .5 Gestion de la maintenance assistée par ordinateur (GMAO)\n................",
+        "—",
+        "10"
+      ],
+      [
+        "5 Organisation des travaux lourds\n. .......................................................",
+        "—",
+        "11"
+      ],
+      [
+        "6 Techniques d’entretien des moteurs industriels\n. ...........................",
+        "—",
+        "12"
+      ],
+      [
+        "6 .1 Distribution.................................................................................................",
+        "—",
+        "12"
+      ],
+      [
+        "6 .2 Système d’injection...................................................................................",
+        "—",
+        "13"
+      ],
+      [
+        "6 .3 Éléments constitutifs du cylindre\n.............................................................",
+        "—",
+        "14"
+      ],
+      [
+        "7 Conclusion\n. ...............................................................................................",
+        "—",
+        "17"
+      ],
+      [
+        "Pour en savoir plus\n.........................................................................................",
+        "Doc BM4188\n.",
+        ""
+      ]
+    ],
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 1,
+      "table_number": 1
+    }
+  },
+  {
+    "type": "image",
+    "content": "images/page_003_image_01.jpeg",
+    "context": "Module cylindre\nFiltre\nPompes à eau\nPompe à huile",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 3,
+      "image_number": 1
+    },
+    "description": "Description visuelle :\nL'image montre un module cylindre de maintenance, probablement un système RAG (Ressources d'Assistance Générale). Le module est principalement composé de plusieurs composants distincts, dont une pompe à eau, une pompe à huile, un filtre et un module de contrôle. Les connexions entre ces composants sont illustrées par des flèches rouges, indiquant les directions des fluides ou des câbles. Le module cylindre est principalement en gris, avec des parties en violet et en gris clair.\n\nContexte technique :\nLe module cylindre semble être un système de maintenance intégré, probablement utilisé pour le nettoyage ou la lubrification de machines. Les pompes à eau et à huile sont utilisées pour le nettoyage et la lubrification, respectivement. Le filtre est probablement utilisé pour purifier les fluides. Le module de contrôle pourrait contenir des capteurs ou des relais pour contrôler les opérations de nettoyage ou de lubrification. Les connexions entre les composants suggèrent une architecture de système où les fluides sont dirigés de manière contrôlée pour effectuer les opérations de maintenance.\n\n\n\nCONTEXTE DOCUMENTAIRE :\nModule cylindre\nFiltre\nPompe à eau\nPompe à huile",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_006_image_01.jpeg",
+    "context": "●La viscosité et l’index de viscosité (variation de la viscosité avec\n \nla température) renseignent sur la présence de combustible et de\n \nrésidus charbonneux dans l’huile, ainsi que sur la rupture éventuelle\n \nsous cisaillement des molécules longues et des polymères.\n●Le point éclair renseigne sur les constituants légers et sur la\n \npollution par du combustible.\n●La présence d’eau est source de corrosion, de réactions\n \nd’hydrolyse avec les additifs, de mise en danger du régime hydro-\ndynamique de graissage. On admet une teneur maximum de 0,5 %.\nCes quatre analyses ne demandent pas un matériel sophistiqué\n \nou des connaissances particulières et peuvent être effectuées sur le\n \nlieu d’exploitation de la machine. Certains moteurs sont équipés de\n \ndispositifs de mesure en continu de la teneur de l’huile en eau.",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 6,
+      "image_number": 1
+    },
+    "description": "Description visuelle :\nL'image montre un rapport de maintenance d'un navire, spécifiquement pour l'huile moteur du navire \"VAL DE LOIRE\". Le rapport contient des informations sur le diagnostic, l'huile, la viscosité, les éléments de corrosion, et les composants de l'huile. Il y a également des graphiques illustrant les variations de viscosité, l'index de viscosité, les éléments de corrosion, et les composants de l'huile.\n\nContexte technique :\nLe rapport indique que l'huile moteur est \"Normal\" et \"Correct\", ce qui signifie qu'elle est en bon état. Les graphiques montrent que la viscosité et l'index de viscosité sont stables, ce qui suggère une bonne qualité de l'huile. Les éléments de corrosion tels que l'iron, le chrome, le cuivre et le plomb sont à des niveaux normaux, indiquant une bonne protection contre la corrosion. Les composants tels que le vanadium et le nickel sont également à des niveaux normaux, indiquant une bonne qualité de l'huile.\n\nCONTEXTE DOCUMENTAIRE :\n●La viscosité et l’index de viscosité (variation de la viscosité avec la température) renseignent sur la présence de combustible et de résidus charbonneux dans l'huile, ainsi que sur la rupture éventuelle sous cisaillement des molécules longues et des polymères.\n●Le point éclair renseigne sur les constituants légers et sur",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_009_image_01.jpeg",
+    "context": "Figure 14\n \n–\n \nExemple de ﬁche de report de données pouvant faire \npartie de la ﬁche d’intervention, visite de chemise (extrait, doc. MAN AG)\n__________________________________________________________________________________________\nMAINTENANCE DES MACHINES  ET DES MOTEURS\nmoment de l’intervention, la nature et la cause de l’intervention, la\npériodicité s’il s’agit d’interventions systématiques, la liste des piè-\nces de rechange utilisées et leurs codes, des remarques ou\ncommentaires de l’intervenant.",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 9,
+      "image_number": 1
+    },
+    "description": "Description visuelle :\nL'image montre une fiche de condition de cylindre, probablement utilisée pour la maintenance des moteurs. Elle contient des sections pour enregistrer diverses informations et mesures, telles que le type d'engine, le nombre de cylindre, le numéro de cylindre, le type de lubrifiant, le type de liner, les mesures de diamètre et de profondeur, ainsi que les informations sur les piston rings et les ring grooves. Il y a également des sections pour noter les températures, les shims, les heures depuis la dernière révision, les types de piston rings, les gorges de piston, les numéros de piston, les positions de brûlage et les causes de l'intervention.\n\nContexte technique :\nCette fiche semble être utilisée pour documenter la condition des cylindres et des piston rings d'un moteur, probablement dans le cadre d'une maintenance régulière. Elle permet de suivre les mesures et les conditions des pièces motrices, ce qui est crucial pour la maintenance et la surveillance des moteurs. Les sections spécifiques pour les piston rings et les ring grooves indiquent que la fiche est conçue pour fournir des informations détaillées sur la condition des pièces motrices, y compris les gorges de piston et les positions de brûlage, qui sont des éléments critiques de la performance et de la fiabilité des moteurs.\n\nCONTEXTE DOCUMENTAIRE :\nFigure 14\n\n–\nExemple de fiche de données de condition de cylindre pouvant faire partie de la fiche d'intervention, visite de",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_009_image_02.jpeg",
+    "context": "Figure 13\n \n–\n \nExemple de tableau de suivi (extrait, doc. MAN AG)\nFigure 14\n \n–\n \nExemple de ﬁche de report de données pouvant faire \npartie de la ﬁche d’intervention, visite de chemise (extrait, doc. MAN AG)\nCe type de classement permet de déterminer des ni\nveaux, de\n \nl’ensemble jusqu’à la pièce détachée élémentaire, de coder chaque\n \nélément, sous-ensemble ou groupe, de faire ressortir la criticité de\n \ndéfaillance de chaque élément sur les sous-ensembles. Cette\n \nmodélisation des systèmes peut être adaptée en fonction des\n \ncontraintes.",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 9,
+      "image_number": 2
+    },
+    "description": "Description visuelle :\nL'image montre un tableau de suivi de maintenance pour un système de contrôle mécanal. Le tableau est structuré en colonnes pour les intervalles de temps (2, 4, 6, 8, 16, B, P) et en lignes pour les procédures de maintenance. Chaque cellule contient une lettre codant pour une action spécifique, telle que \"C\" pour \"Check\", \"A\" pour \"Adjustment\", \"O\" pour \"Overhaul\", etc. Les procédures sont listées en ordre, avec des numéros de procédure correspondant à chaque ligne.\n\nContexte technique :\nLe tableau semble être destiné à aider les techniciens à suivre les procédures de maintenance pour différents composants du système de contrôle mécanal. Les intervalles de temps spécifiés (2, 4, 6, 8, 16, B, P) peuvent correspondre à des périodes de temps spécifiques pour effectuer les contrôles ou les ajustements. Les lettres codées (C, A, O, etc.) indiquent des actions spécifiques à effectuer, telles que des contrôles, des ajustements, des inspections ou des remplacements. Les numéros de procédure permettent de suivre précisément chaque étape de la maintenance.\n\nCONTEXTE DOCUMENTAIRE :\nFigure 13\n\n–\n \nExemple de tableau de suivi (extrait, doc. MAN AG)\nFigure 14\n\n–\n \nExemple de fiche de report de données pouvant faire partie",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_011_image_01.jpeg",
+    "context": "1. Capacité du logiciel\nNombre d’équipements, niveau de découpage, nombre de\n \ntravaux, nombre de pièces de rechange, nombre de types d’acti-\nvités, nombre de types de ressources...\n2. Caractéristiques conversationnelles\nLangage utilisé (français, anglais) pour le logiciel, la\n \ndocumentation ; mode de communication : interactif par\n \nmenus, par commandes ; traitement des données en entrée en\n \ntemps réel ; langage d’interrogation et de recherche des don-\nnées, visualisation (graphique, planning) des informations...\n3. Gestion du parc de matériel\nInventaire croisé (géographie, technique), identiﬁcation des\n \nmatériels, objets de gestion : historique, liste des pièces\n \ndétachées, des sous-ensembles, suivi des heures de marche...\n4. Gestion du portefeuille de travaux\nSaisie des bons de travaux, préparation de ceux-ci, méthodes\n \nd’ordonnancement, suivi des travaux en cours...",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 11,
+      "image_number": 1
+    },
+    "description": "Description visuelle :\nL'image montre une interface de logiciel de maintenance industrielle, probablement un système RAG (Répertoire d'Activités Gestionnelles). L'écran affiche une liste de tâches avec des barres horizontales pour chaque tâche, indiquant la durée restante avant la fin de l'activité. Les tâches sont classées par date et par ordre de priorité.\n\nContexte technique :\nLe logiciel semble être conçu pour gérer les activités de maintenance d'un navire, comme le CMA-CGM MATISSE. Les tâches incluent des opérations de maintenance sur les systèmes de propulsion, comme le lessivage des tuyaux de purge, le nettoyage des filtres à air, et le contrôle des joints des culbutesurs. Il y a également des tâches de maintenance sur les moteurs, les injecteurs, et les régulateurs d'huile. Les barres horizontales représentent la durée restante avant la fin de chaque tâche, avec des dates spécifiques indiquées pour chaque activité.\n\n Le logiciel semble également inclure des prévisions pour les tâches futures, indiquant les dates à venir où ces tâches doivent être effectuées.\n\nCONTEXTE DOCUMENTAIRE :\n1. Capacité du logiciel :\n   - Le logiciel semble gérer une grande variété de tâches de maintenance, couvrant plusieurs systèmes et composants du navire.\n   - Il inclut des informations sur les heures de marche des équipements, ce qui est important pour la gestion de la maintenance",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_012_image_01.png",
+    "context": "Arbre manivelle (appelé vilebrequin sur les petits moteurs) :\n \narbre principal du moteur possédant les manivelles sur\n \nlesquelles s’articulent les embiellages de chacun des cylindres.\nAxe de piston : axe d’articulation directe de la bielle sur le\n \npiston (moteurs quatre temps).\nBalayage : alimentation en air d’un moteur.\nCame : élément rotatif à proﬁl non cylindrique, permettant\n \nd’actionner un organe dans un mouvement alternatif.\nChapeau (de palier) : cage amovible contenant un coussinet\n \net assurant la fermeture d’un palier autour d’un arbre.\nChemise : cylindre creux formant les parois latérales d’une\n \nchambre dans laquelle se déplace un piston.\nCoussinets (de palier) : coquilles minces en acier affectant la\n \nforme d’un demi-cylindre, recouverte de métal à faible coef-\nﬁcient de frottement, et assurant la liaison entre la soie d’un\n \narbre et la cage du palier correspondant.\nCrosse : organe de liaison entre la bielle et la tige de piston\n \n(moteurs lents à deux temps).\nCulasse : pièce assurant la fermeture de la partie supérieure\n \nde la chambre de combustion.\nCulbuteur : organe de commande des soupapes.\nDébit de blow by : débit des gaz fuyant entre segments et\n \nchemise.\nDéﬂexions : déformations de l’arbre manivelle consécutives\n \nau délignage de ces paliers supports.\nDéglaçage : opération visant à rendre la surface intérieure de\n \nla chemise de cylindre légèrement rugueuse.\nDistribution : système d’entraînement des auxiliaires de la\n \nchambre de combustion qui perm",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 12,
+      "image_number": 1
+    },
+    "description": "Description visuelle :\nL'image montre une illustration schématique d'un arbre manivelle, également appelé vilebrequin, avec des manivelles articulées sur lesquelles se trouvent les embiellages des cylindres. L'axe de piston est représenté comme une ligne droite passant par le centre de l'arbre, avec une bielle articulée à l'extrémité. Les balayages sont représentés comme des lignes horizontales au-dessus de l'arbre, et les camées sont des éléments rotatifs avec des profils non-cylindriques. Les chapeaux (de palier) sont des cages amovibles contenant des coussinets, et les chemises sont des cylindres creux formant les parois latérales des chambres de combustion. Les coussinets (de palier) sont des coquilles minces en acier affectant la forme d'un demi-cylindre, recouvertes de métal à faible coefficient de frottement. Les croisses sont des organes de liaison entre la bielle et la tige de piston, et les culasses sont des pièces assurant la fermeture de la partie supérieure de la chambre de combustion. Les culbuteurs sont des organes de commande des soupapes. Les défléxions sont des déformations de l'arbre manivelle consécutives au délignage de ces paliers supports. Les déglacages sont des opérations visant à rendre la surface intérieure de la",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_012_image_02.png",
+    "context": "Arbre manivelle (appelé vilebrequin sur les petits moteurs) :\n \narbre principal du moteur possédant les manivelles sur\n \nlesquelles s’articulent les embiellages de chacun des cylindres.\nAxe de piston : axe d’articulation directe de la bielle sur le\n \npiston (moteurs quatre temps).\nBalayage : alimentation en air d’un moteur.\nCame : élément rotatif à proﬁl non cylindrique, permettant\n \nd’actionner un organe dans un mouvement alternatif.\nChapeau (de palier) : cage amovible contenant un coussinet\n \net assurant la fermeture d’un palier autour d’un arbre.\nChemise : cylindre creux formant les parois latérales d’une\n \nchambre dans laquelle se déplace un piston.\nCoussinets (de palier) : coquilles minces en acier affectant la\n \nforme d’un demi-cylindre, recouverte de métal à faible coef-\nﬁcient de frottement, et assurant la liaison entre la soie d’un\n \narbre et la cage du palier correspondant.\nCrosse : organe de liaison entre la bielle et la tige de piston\n \n(moteurs lents à deux temps).\nCulasse : pièce assurant la fermeture de la partie supérieure\n \nde la chambre de combustion.\nCulbuteur : organe de commande des soupapes.\nDébit de blow by : débit des gaz fuyant entre segments et\n \nchemise.\nDéﬂexions : déformations de l’arbre manivelle consécutives\n \nau délignage de ces paliers supports.\nDéglaçage : opération visant à rendre la surface intérieure de\n \nla chemise de cylindre légèrement rugueuse.\nDistribution : système d’entraînement des auxiliaires de la\n \nchambre de combustion qui perm",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 12,
+      "image_number": 2
+    },
+    "description": "Description visuelle :\nL'image montre deux pièces de moteur, probablement des paliers ou des culasses, avec des détails techniques et des éléments de déformation. Les pièces sont représentées en coupe longitudinale, montrant les différentes parties et les connexions entre elles.\n\nContexte technique :\nLes pièces représentées sont probablement des paliers ou des culasses, composantes essentielles d'un moteur. Elles sont associées à des paliers ou des culasses, qui sont des éléments importants du système de distribution et de la lubrification du moteur. Les déformations observées indiquent des dégâts ou des déformations liés à la lubrification ou à d'autres facteurs mécaniques.\n\nCONTEXTE DOCUMENTAIRE :\nArbre manivelle (appelé vilebrequin sur les petits moteurs) :\n \narbre principal du moteur possédant les manivelles sur\n \nlesquelles s’articulent les embiellages de chacun des cylindres.\nAxe de piston : axe d’articulation directe de la bielle sur le\n \npiston (moteurs quatre temps).\nBalayage : alimentation en air d’un moteur.\nCame : élément rotatif à proﬁl non cylindrique, permettant\n \nd’actionner un organe dans un mouvement alternatif.\nChapeau (de palier) : cage amovible contenant un coussinet\n \net assurant la fermeture d’un palier autour d’un arbre.\nChemise : cylindre creux formant les par",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_013_image_01.png",
+    "context": "Injecteur\nBanc\nd'essai\nLR : limite de rebut\nLR = 2,5 mm",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 13,
+      "image_number": 1
+    },
+    "description": "Description visuelle :\nL'image montre un injecteur de banc d'essai. L'injecteur est fixé à un banc d'essai, qui est visible à droite de l'image. L'injecteur est connecté à un tuyau qui est visible à gauche de l'image. L'injecteur a une vis à l'avant, qui est visible à gauche de l'image. L'injecteur a une vis à l'arrière, qui est visible à droite de l'image. L'injecteur a une vis à l'arrière, qui est visible à droite de l'image.\n\nContexte technique :\nL'injecteur de banc d'essai est utilisé pour tester et vérifier les systèmes de lubrification d'un moteur. Il est connecté à un tuyau qui est utilisé pour injecter un lubrifiant dans le système de lubrification du moteur. Les vis à l'avant et à l'arrière de l'injecteur sont utilisées pour le montage et la fixation de l'injecteur au banc d'essai. Les vis à l'avant et à l'arrière de l'injecteur sont utilisées pour le montage et la fixation de l'injecteur au banc d'essai.\n\n\n\nCONTEXTE DOCUMENTAIRE :\nInjecteur\nBanc\nd'essai\nLR : limite de rebut\nLR = 2,5 mm",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_013_image_02.png",
+    "context": "LR = 2 mm\nCorrosion\nCorrosion\nBanc\nd'essai",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 13,
+      "image_number": 2
+    },
+    "description": "Description visuelle :\nL'image montre une section d'un banc d'essai de roulement à billes. On peut voir les éléments suivants :\n- Un corps principal de roulement avec des bords arrondis.\n- Deux boulons à visser pour fixer le corps principal.\n- Des boulons à visser pour fixer les bords du corps principal.\n- Des boulons à visser pour fixer les bords du corps principal.\n- Des boulons à visser pour fixer les bords du corps principal.\n- Des boulons à visser pour fixer les bords du corps principal.\n- Des boulons à visser pour fixer les bords du corps principal.\n- Des boulons à visser pour fixer les bords du corps principal.\n- Des boulons à visser pour fixer les bords du corps principal.\n- Des boulons à visser pour fixer les bords du corps principal.\n- Des boulons à visser pour fixer les bords du corps principal.\n- Des boulons à visser pour fixer les bords du corps principal.\n- Des boulons à visser pour fixer les bords du corps principal.\n- Des boulons à visser pour fixer les bords du corps principal.\n- Des boulons à visser pour fixer les bords du corps principal.\n- Des boulons à visser pour fixer les bords du corps principal.\n- Des boulons à visser pour fixer les bords du corps principal.\n- Des boulons à visser pour fixer les bords du corps principal",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_013_image_03.png",
+    "context": "a\nD1\nSupport de jauge\nJauge graduée\nTête de pompe\nChemise de pompe",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 13,
+      "image_number": 3
+    },
+    "description": "Description visuelle :\nL'image montre une section d'un système RAG (Réglage Automatique de Génération) de maintenance. On peut voir une pompe à vis, une tige de régulation, des connexions de tuyaux, et des pièces de régulation. Il y a également des indicateurs de pression et de niveau.\n\nContexte technique :\nLe système RAG est utilisé pour contrôler et réguler le débit d'un fluide dans un circuit. La pompe à vis est utilisée pour injecter le fluide dans le circuit. La tige de régulation permet de contrôler le débit en ajustant la vitesse de rotation de la vis. Les connexions de tuyaux aident à distribuer le fluide dans le circuit. Les indicateurs de pression et de niveau permettent de surveiller les conditions du circuit.\n\nCONTEXTE DOCUMENTAIRE :\na\nD1\nSupport de jauge\nJauge graduée\nTête de pompe\nChemise de pompe",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_013_image_04.png",
+    "context": "Jeux\nGalet\nComparateur\n(de mesure",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 13,
+      "image_number": 4
+    },
+    "description": "Description visuelle :\nL'image montre deux schémas de système RAG (Réglage Automatique de la Génération) de maintenance. Chaque schéma représente un élément de la machine, probablement un roulement à billes, avec une vis de réglage au sommet. Les vis sont visibles et semblent être utilisées pour ajuster la position du roulement. Les schémas montrent les positions de la vis avant et après le réglage.\n\nContexte technique :\nLes systèmes RAG sont utilisés pour régler la position d'un roulement à billes, comme dans les machines à roulement à billes, pour assurer une lubrification optimale et réduire les vibrations. Les vis de réglage permettent de faire varier la distance entre le roulement et la vis, ce qui ajuste la pression de lubrification.\n\nCONTEXTE DOCUMENTAIRE :\nJe ne peux pas fournir de détails supplémentaires sur le contexte documentaire car il n'est pas visible dans l'image.",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_013_image_05.png",
+    "context": "Came\nArbre\nà cames\nClé de réglage\nCorps de pompe\nà combustible\nPompe à combustible",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 13,
+      "image_number": 5
+    },
+    "description": "Description visuelle :\nL'image montre une partie d'un moteur, probablement une pompe à combustible, avec des éléments de mécanalisation et de tuyauterie. On peut voir un corps de pompe, un arbre à cames, une clé de réglage, et des tuyaux connectés à la pompe.\n\nContexte technique :\nLe corps de pompe est le réservoir principal qui contient le liquide de refroidissement ou le carburant. L'arbre à cames est une partie mobile qui actionne les valves du moteur. La clé de réglage est utilisée pour régler les paramètres de fonctionnement du moteur. Les tuyaux sont des canalisations qui acheminent le liquide ou le carburant à travers le moteur.\n\nCONTEXTE DOCUMENTAIRE :\nCame\nArbre\nà cames\nClé de réglage\nCorps de pompe\nà combustible\nPompe à combustible",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_013_image_06.png",
+    "context": "Tête de pompe\nCale\nCorps de pompe\nà combustible\nPompe hydraulique de frettage",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 13,
+      "image_number": 6
+    },
+    "description": "Description visuelle :\nL'image montre une partie d'un système hydraulique, probablement une pompe hydraulique de frettage. On peut voir un corps de pompe à combustible, un tuyau avec une vis, et une tige horizontale qui semble être un tuyau d'admission ou de sortie. Il y a également une vis à l'intérieur du corps de pompe.\n\nContexte technique :\nLa pompe hydraulique de frettage est un composant crucial pour le transport et le contrôle de l'eau ou d'autres fluides dans un système hydraulique. Le corps de pompe à combustible est généralement utilisé pour le stockage et le contrôle de l'eau. Le tuyau avec la vis semble être lié à la connexion ou à la maintenance de la pompe. La tige horizontale pourrait être un tuyau d'admission ou de sortie, permettant le passage du fluide dans et hors du système. Les vis à l'intérieur du corps de pompe sont probablement utilisées pour le montage et la maintenance de la pompe.\n\nCONTEXTE DOCUMENTAIRE :\nTête de pompe\nCale\nCorps de pompe\nà combustible\nPompe hydraulique de frettage",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_014_image_01.jpeg",
+    "context": "Figure 24\n \n–\n \nÉrosion et début de grippage sur une pompe à combustible \n(doc. S.E.M.T. Pielstick)\n6.3 Éléments constitutifs du cylindre\n6.3.1 Culasse et accessoires\nFigure 25\n \n–\n \nMesure sur siège et clapet de soupape (doc. MAN AG)",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 14,
+      "image_number": 1
+    },
+    "description": "Description visuelle :\nL'image montre une section d'un cylindre de pompe à combustible, avec une zone d'érosion et de début de grippage visible. Le cylindre est entouré d'une couronne de protection ou d'un joint. Les zones d'érosion sont plus claires et plus brillantes, tandis que le reste du cylindre est plus sombre.\n\nContexte technique :\nLa zone d'érosion et de grippage sur le cylindre de la pompe à combustible indique une usure ou une corrosion qui peut affecter la performance et la fiabilité de l'appareil. La présence de la couronne de protection suggère qu'il s'agit d'un composant de protection contre les éclaboussures ou les projections de liquides.\n\nCONTEXTE DOCUMENTAIRE :\nFigure 24\n\n–\nÉrosion et début de grippage sur une pompe à combustible (doc. S.E.M.T. Pielstick)\n6.3 Éléments constitutifs du cylindre\n6.3.1 Culasse et accessoires\nFigure 25\n\n–\nMesure sur siège et clapet de soupape (doc. MAN AG)",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_014_image_02.png",
+    "context": "30°\nGabarit de mesure\nSiège\nTulipe de soupape",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 14,
+      "image_number": 2
+    },
+    "description": "Description visuelle :\nL'image montre une partie d'un système de mesure ou de contrôle, probablement une pompe ou un moteur. On peut voir une visserie avec une vis et un écrou, un joint ou une bague de compression, et une partie de la structure métallique du système. Il y a également une indication de \"30°\" et \"Gabarit de mesure\", ce qui suggère que l'image est tirée d'un manuel de maintenance.\n\nContexte technique :\nCette image semble représenter une partie d'un système de mesure ou de contrôle, probablement une pompe ou un moteur. Les éléments visibles indiquent une visserie avec une vis et un écrou, un joint ou une bague de compression, et une partie de la structure métallique du système. La présence de \"30°\" et \"Gabarit de mesure\" suggère que l'image est tirée d'un manuel de maintenance, probablement pour expliquer comment effectuer des mesures ou des contrôles sur ce type de système.\n\nCONTEXTE DOCUMENTAIRE :\nLa description de l'image est basée sur les éléments visibles et les indications fournies dans le texte. Il n'y a pas d'informations supplémentaires dans l'image ou le texte qui pourraient être utilisées pour une analyse plus approfondie.",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_014_image_03.png",
+    "context": "B\nC D\nA\nE\nF1\nGabarit de mesure\nTulipe de soupape",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 14,
+      "image_number": 3
+    },
+    "description": "Description visuelle :\nL'image montre une partie d'un système de tuyauterie ou d'un équipement industriel. On peut voir une section d'une tuyauterie horizontale avec des éléments de fixation. Il y a une vis de fixation à l'extrémité de la tuyauterie, et un gabarit de mesure est visible à proximité. Il y a également une indication de \"Tulipe de soupape\" sur l'équipement, ce qui suggère qu'il s'agit d'une partie d'un système de contrôle ou de régulation.\n\nContexte technique :\nCette image semble représenter une partie d'un système de contrôle ou de régulation, potentiellement un système de tuyauterie ou d'un équipement industriel. La \"Tulipe de soupape\" indique que l'équipement pourrait être utilisé pour contrôler le débit ou la pression d'un fluide. Le gabarit de mesure suggère qu'il y a des contrôles de dimension ou de taille qui peuvent être effectués sur cet équipement.\n\nCONTEXTE DOCUMENTAIRE :\nB\nC D\nA\nE\nF1",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_014_image_04.jpeg",
+    "context": "MAINTENANCE DES MACHINES  ET DES MOTEURS   ___________________________________________________________________________________________\nGabarit de mesure\nSiège\n30°",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 14,
+      "image_number": 4
+    },
+    "description": "Description visuelle :\nL'image montre une pièce de machine ou d'outil, probablement un joint ou un bouchon de tuyau, en noir. Il est posé sur un fond de mur de carreaux de ciment. La pièce a une forme conique et est munie d'une vis ou d'un écrou à l'arrière, probablement pour la fixation.\n\nContexte technique :\nLa pièce semble être un joint ou un bouchon de tuyau, utilisé pour assurer la continuité d'un tuyau ou d'un conduit. La présence de la vis à l'arrière indique qu'elle peut être fixée à une autre pièce ou à un support. La forme conique pourrait être destinée à s'adapter à une partie ronde d'un tuyau ou d'un conduit.\n\nCONTEXTE DOCUMENTAIRE :\nMAINTENANCE DES MACHINES  ET DES MOTEURS   ___________________________________________________________________________________________\nGabarit de mesure\nSiège\n30°",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_014_image_05.png",
+    "context": "Il faut distinguer les moteurs deux temps des moteurs quatre\n \ntemps. La culasse des premiers est d’une conception plus simple\n \npuisqu’il n’y a pas d’organe d’admission d’air. Elle comprend :\nMiroir articulé\nChemise\nPiston\nSegments",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 14,
+      "image_number": 5
+    },
+    "description": "Description visuelle :\nL'image montre une section d'un moteur à deux temps, probablement un moteur d'engin ou d'outillage. On peut voir une culasse avec des pièces internes, dont un piston, des segments, et une culasse. Il y a également des connexions et des tuyaux qui semblent être liés à la circulation de l'air ou de l'huile.\n\nContexte technique :\nLe moteur à deux temps est caractéristique par son cycle de combustion qui se déroule en deux étapes. Le premier cycle est le cycle d'admission, où l'air est aspiré dans la chambre de combustion. Le second cycle est le cycle de combustion, où l'air est comburé avec de l'essence ou d'un autre carburant. Après la combustion, le cycle de expulsion se produit, où l'air et les gaz d'échappement sont expulsés.\n\nLa culasse est la partie extérieure du moteur qui contient les pièces internes. Elle comprend généralement un miroir articulé pour le piston, une culasse pour le piston, et des segments pour le piston. Les segments sont des pièces qui permettent au piston de se déplacer dans la culasse.\n\nCONTEXTE DOCUMENTAIRE :\nIl faut distinguer les moteurs deux temps des moteurs quatre temps. La culasse des premiers est d'une conception plus simple puisqu'il n'y a pas d'organe d'admission d'air. Elle comprend : Miroir articulé, Chemise, Piston, Segments.",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_014_image_06.png",
+    "context": "Segments\nJet en bois ou bronze\npermettant de faire bouger\nles segments\nLumière de balayage\nPresse-étoupe\nde tige de piston",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 14,
+      "image_number": 6
+    },
+    "description": "Description visuelle :\nL'image montre un schéma d'un système de contrôle ou de régulation, probablement utilisé dans un processus industriel. Il y a une série de segments horizontaux alignés, probablement des capteurs ou des détecteurs, qui sont connectés à un tube vertical. Le tube vertical est probablement un tuyau ou une canalisation, et il est connecté à un autre tube horizontal, qui pourrait être une partie d'un système de pompe ou de tuyauterie.\n\nContexte technique :\nLe schéma semble représenter un système de contrôle de pression ou de débit, où les segments horizontaux sont des capteurs de pression ou de débit, et le tube vertical est probablement un tuyau de pompe ou de canalisation. Le tube horizontal pourrait être une partie d'un système de pompe ou de tuyauterie, qui est utilisé pour contrôler la pression ou le débit du fluide.\n\nCONTEXTE DOCUMENTAIRE :\nSegments\nJet en bois ou bronze\npermettant de faire bouger\nles segments\nLumière de balayage\nPresse-étoupe\nde tige de piston",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_015_image_01.png",
+    "context": "Pour les moteurs quatre temps, l’embiellage est déposé et visité\n \nlors de la visite du piston. On mesure l’ovalisation de la tête et du\n \npied de bielle (ﬁgure 30), on vériﬁe l’état du revêtement antifriction\n \ndes coussinets et de la douille et on soufﬂe les canalisations de\n \ngraissage à l’air comprimé.\nSur les moteurs deux temps, la dépose n’étant pas nécessaire\n \npour la visite du piston, et vu la taille et la masse des pièces\n \n(jusqu’à 6 000 kg pour une bielle équipée), la visite (8 000 à\n \n12 000 hdm) consiste à mesurer les jeux aux articulations sans\n \ndémontage à l’aide de cales d’épaisseur (ﬁgure 31). Au vu des\n \nrésultats, le démontage de l’articulation pour examen des cous-\nsinets et des soies est alors effectué.\nAxe du piston\nCirclip de maintien\nde l'axe du piston",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 15,
+      "image_number": 1
+    },
+    "description": "Description visuelle :\nL'image montre deux composants d'un système de lubrification. Le premier composant est une pompe à huile, représentée par une structure cylindrique avec un rotor à l'intérieur. Le second composant est une conduite de lubrification, illustrée par une série de tuyaux en spirale. Les tuyaux sont connectés à la pompe à huile, indiquant une circulation d'huile.\n\nContexte technique :\nLe système de lubrification est un ensemble de composants qui assurent la distribution de l'huile dans le moteur. La pompe à huile est responsable de la pression nécessaire pour faire circuler l'huile à travers les canaux de lubrification. Les tuyaux, en spirale, sont conçus pour permettre une bonne distribution de l'huile tout en évitant les obstacles. Les connexions entre la pompe et les tuyaux sont essentielles pour assurer une circulation efficace et une lubrification adéquate des pièces mécaniques.\n\n\n\nCONTEXTE DOCUMENTAIRE :\nPour les moteurs quatre temps, l’embiellage est déposé et visité lors de la visite du piston. On mesure l’ovalisation de la tête et du pied de bielle (ﬁgure 30), on vériﬁe l’état du revêtement antifriction des coussinets et de la douille et on soufﬂe les canalisations de graissage à l’air comprimé.\nSur les moteurs deux temps, la dépose n’étant pas nécessaire pour la visite du",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_015_image_02.png",
+    "context": "On vériﬁera l’élasticité des segments (segment cassé) et leur\n \nliberté dans la gorge (segment gommé). La visite des segments\n \nintervient alors lorsqu’il y a nécessité de les remplacer (8 000 à\n \n12 000 hdm). Le piston est déposé, les segments sont remplacés,\n \non mesure les dimensions des gorges après nettoyage et le jeu de\n \nbattement après repose des segments neufs. La géométrie de la\n \ntête de piston est comparée à un gabarit pour juger de la corro-\nsion. On mesure le diamètre de la tige en plusieurs points et le\n \npresse-étoupe de tige est déposé et visité (remplacement des seg-\nments).\nLa visite complète du piston (16 000 à 20 000 hdm) ajoute à la\n \nprécédente la dépose complète de la tête, de la jupe et de la tige\n \npour vériﬁcation de l’état de la chambre de réfrigération. Les joints\n \nsont remplacés et une épreuve hydraulique à 7 bar, par exemple,\n \nest effectuée après remontage.\nÀ chaque visite, la chemise est nettoyée, les petites marques\n \nsont atténuées à la pierre ou un déglaçage est effectué, on mesure\n \nl’ovalisation (§ 4.2). La dépose n’intervient que lorsqu’il est indis-\npensable de remplacer la chemise, après dépassement des seuils\n \nd’usure ou apparition de marques profondes.\nBâti du moteur",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 15,
+      "image_number": 2
+    },
+    "description": "Description visuelle :\nL'image montre une vue d'ensemble d'un système mécanal, probablement une partie d'un moteur. On peut voir des segments, des pistons, des gorges, et des connexions entre ces éléments. Il y a également des indications de dimensions et de procédures de maintenance.\n\nContexte technique :\nLe système semble être une partie d'un moteur, probablement un piston ou un segment de piston. Les segments sont visibles à travers les gorges, et il y a des connexions entre les segments et les pistons. Les dimensions des gorges et des segments sont mentionnées, ce qui suggère que la maintenance implique la mesure de ces dimensions. Les procédures mentionnées incluent la visite des segments, la dépose du piston, la mesure des diamètres de la tige, la comparaison de la géométrie de la tête de piston, la vérification de l'état de la chambre de réfrigération, la remplacement des joints, et une épreuve hydraulique. Les indications de maintenance incluent la nettoyage de la chemise, la dépose de la tête, de la jupe et de la tige, et la vérification de l'ovalisation.\n\nLe contexte technique suggère que le système est conçu pour une maintenance régulière pour maintenir son efficacité et sa fiabilité.\n\nCONTEXTE DOCUMENTAIRE :\nOn vériﬁera l’élasticité des segments (segment cassé) et leur liberté dans la gorge (segment gommé). La visite des segments intervient alors lorsqu’il y a nécessité",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_016_image_01.png",
+    "context": "ø x3\nø x1\nø x2\n20± 2\n20± 2",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 16,
+      "image_number": 1
+    },
+    "description": "Description visuelle :\nL'image montre une vue d'ensemble d'un système de ventilation ou d'un système de refroidissement, probablement d'un équipement industriel. On peut voir une série de tuyaux et de connexions qui se dirigent vers un centre de distribution centralisé. Les tuyaux sont disposés en forme de croix et se dirigent vers le centre, où il y a une zone noire qui pourrait être un point de collecte ou de distribution.\n\nContexte technique :\nLe système semble être conçu pour distribuer un fluide (comme l'eau ou un liquide de refroidissement) à plusieurs points de distribution. Les flèches indiquent la direction de circulation du fluide. Les numéros de pièce (ø x3, ø x1, ø x2) et les valeurs (20± 2) indiquent probablement des dimensions ou des spécifications techniques, mais sans plus de contexte, il est difficile de déterminer leur signification précise.\n\nCONTEXTE DOCUMENTAIRE :\nø x3\nø x1\nø x2\n20± 2\n20± 2",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_016_image_02.png",
+    "context": "P2\nP1\n15 mm\n15 mm\n20± 2\n20± 2\nOvalisation :\nOV = x1 + x2/2 – x3\nBielle\nChapeau\nde tête de bielle",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 16,
+      "image_number": 2
+    },
+    "description": "Description visuelle :\nL'image montre une partie d'un système mécanique, probablement une bielle ou un élément similaire, avec des éléments de connexion et de montage. On peut voir des éléments de fixation horizontaux et des éléments de montage verticaux. Il y a également des indications de dimensions, comme \"15 mm\" et \"20± 2\", qui semblent être des dimensions de pièces ou de connexions.\n\nContexte technique :\nLe schéma montre probablement une bielle ou un élément similaire, avec des connexions horizontales et verticales pour la fixation. Les dimensions indiquées (15 mm et 20± 2) suggèrent que ces sont des dimensions de pièces ou de connexions. La présence de \"OV = x1 + x2/2 – x3\" pourrait indiquer une formule utilisée pour calculer une valeur spécifique, comme la longueur ou la position d'un élément.\n\nCONTEXTE DOCUMENTAIRE :\nP2\nP1\n15 mm\n15 mm\n20± 2\n20± 2\nOvalisation :\nOV = x1 + x2/2 – x3\nBielle\nChapeau\nde tête de bielle",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_016_image_03.png",
+    "context": "P2\nP1\n50 mm\n50 mm\nDouille\nde pied de bielle\nFigure 30\n \n–\n \nMesure de l’ovalisation de tête et de pied de bielle\n \n(doc. S.E.M.T. Pielstick)",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 16,
+      "image_number": 3
+    },
+    "description": "Description visuelle :\nL'image montre une section d'un pièces mécanique, probablement une bielle, avec des indications de mesure. On peut voir une douille de pied de bielle, une mesure de l'ovalisation de la tête et du pied de bielle, et des flèches indiquant les directions de mesure.\n\nContexte technique :\nLa douille de pied de bielle est un élément important dans le système mécanique, probablement lié à la transmission de mouvement. La mesure de l'ovalisation de la tête et du pied de bielle suggère que cette pièce est soumise à des contraintes mécaniques importantes, nécessitant une vérification régulière pour garantir la précision de la transmission de mouvement. Les flèches indiquent les directions de mesure, ce qui suggère que ces mesures sont essentielles pour assurer la qualité et la fiabilité du système.\n\nCONTEXTE DOCUMENTAIRE :\nP2\nP1\n50 mm\n50 mm\nDouille\nde pied de bielle\nFigure 30\nMesure de l’ovalisation de tête et de pied de bielle\n(doc. S.E.M.T. Pielstick)",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_016_image_04.png",
+    "context": "ø x\nø y\nPied\nde bielle\nDouille\nde pied de bielle",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 16,
+      "image_number": 4
+    },
+    "description": "Description visuelle :\nL'image montre une vue de dessus d'un système mécanal, probablement une partie d'un moteur. On peut voir une douille de pied de bielle, qui est un élément important dans le système mécanal. Cette douille est située au centre de la vue, avec un pied de bielle qui la supporte. Il y a également des flèches qui indiquent les directions de rotation ou de mouvement, ce qui suggère que cette image est destinée à aider à comprendre le fonctionnement du système.\n\nContexte technique :\nLa douille de pied de bielle est un élément crucial dans le système mécanal, car elle permet le mouvement de la bielle. La bielle est un élément qui, lorsqu'elle est actionnée, permet le mouvement des pistons, ce qui est essentiel pour le fonctionnement du moteur. Les flèches indiquent probablement les directions de rotation ou de mouvement, ce qui est important pour comprendre comment le système fonctionne et pour effectuer des réparations ou des inspections.\n\nCONTEXTE DOCUMENTAIRE :\nø x\nø y\nPied\nde bielle\nDouille\nde pied de bielle",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_016_image_05.png",
+    "context": "Jeu de cales\nPatin de crosse\nChapeau de pied de bielle\nTige de piston",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 16,
+      "image_number": 5
+    },
+    "description": "Description visuelle :\nL'image montre une partie d'un moteur, probablement une bielle ou un piston, avec une vis de fixation visible. Il y a également une vis de serrage située à côté de la bielle, probablement pour maintenir la bielle en place. Un schéma en haut à droite indique les connexions entre les pièces, mais les détails précis ne sont pas clairs.\n\nContexte technique :\nLa bielle est un élément crucial du moteur qui permet la conversion de la rotation linéaire du piston en rotation circulaire. La vis de serrage est utilisée pour assurer la fixation de la bielle dans son logement, ce qui est essentiel pour la fonctionnement correct du moteur. Le schéma indique probablement les connexions entre les pièces, mais les détails précis ne sont pas clairs.\n\nCONTEXTE DOCUMENTAIRE :\nJeu de cales\nPatin de crosse\nChapeau de pied de bielle\nTige de piston",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_017_image_01.png",
+    "context": "Vérin hydraulique de levage\nTourillon\nde l'arbre manivelle\nOutil de traction du coussinet",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 17,
+      "image_number": 1
+    },
+    "description": "Description visuelle :\nL'image montre une partie d'un système hydraulique, probablement d'un moteur ou d'un autre équipement industriel. On peut voir un viseur hydraulique, un tourillon, un arbre manivelle, et un coussinet. Le viseur hydraulique est monté sur un support, et il est connecté à un tuyau. Le tourillon est visible à côté du viseur, et il est probablement utilisé pour le levage ou la rotation du viseur. L'arbre manivelle est visible à l'intérieur du viseur, et il est probablement utilisé pour le mouvement rotatif du viseur. Le coussinet est visible à l'intérieur du viseur, et il est probablement utilisé pour le maintien du viseur en place.\n\nContexte technique :\nLe système semble être un viseur hydraulique utilisé pour le levage ou la rotation d'un arbre manivelle. Le tourillon est utilisé pour le levage du viseur, tandis que l'arbre manivelle est utilisé pour le mouvement rotatif du viseur. Le coussinet est utilisé pour le maintien du viseur en place. Le système semble être conçu pour une utilisation industrielle, probablement dans le domaine de l'industrie mécanique ou de l'industrie de la construction.",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_017_image_02.png",
+    "context": "de l'arbre manivelle\nOutil de traction du coussinet\nCoussinet\nVérin hydraulique de levage",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 17,
+      "image_number": 2
+    },
+    "description": "Description visuelle :\nL'image montre une partie d'un système hydraulique, probablement d'un engin de levage ou d'une machine industrielle. On peut voir un vérin hydraulique de levage, un coussinet, un arbre manivelle, et un outil de traction du coussinet. Les connexions hydrauliques sont visibles, ainsi que les éléments de la structure métallique du système.\n\nContexte technique :\nLe vérin hydraulique de levage est probablement utilisé pour soulever ou descendre une charge. L'arbre manivelle est probablement utilisé pour contrôler le mouvement du vérin, permettant ainsi le levage ou la descente de la charge. Le coussinet est probablement un élément de la structure qui supporte la charge ou qui est en contact avec la charge lors du levage. L'outil de traction du coussinet est utilisé pour contrôler la tension du vérin hydraulique.\n\nCONTEXTE DOCUMENTAIRE :\nLe système hydraulique est probablement utilisé pour soulever ou descendre une charge dans une usine ou un atelier, permettant ainsi des opérations de maintenance ou de construction.",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  },
+  {
+    "type": "image",
+    "content": "images/page_017_image_03.png",
+    "context": "Arbre manivelle (tourillon)\nJauge d'affaissement\nCoussinet de palier\nChapeau\nde palier",
+    "context_source": "nearby_blocks",
+    "metadata": {
+      "source": "maintenance_moteurs_d5f63e2ecde905d0.pdf",
+      "page": 17,
+      "image_number": 3
+    },
+    "description": "Description visuelle :\nL'image montre une partie d'un système de lubrification d'un moteur. On peut voir une jauge d'affaissement, un coussinet de palier, un chapeau de palier, et une arbre manivelle (tourillon). La jauge d'affaissement est connectée à un tuyau qui se termine par un robinet. Le coussinet de palier est fixé à l'arbre manivelle, et le chapeau de palier est visible à l'extrémité supérieure de l'arbre manivelle.\n\nContexte technique :\nCette image représente une partie d'un système de lubrification d'un moteur, probablement un moteur à combustion interne. La jauge d'affaissement est utilisée pour vérifier la quantité de lubrifiant dans le système. Le coussinet de palier est un élément de la structure du palier, qui est un support pour les arêtes de la manivelle. Le chapeau de palier est un couvercle qui protège le coussinet de palier et permet la lubrification. L'arbre manivelle, également appelé tourillon, est une partie du système de transmission qui permet la rotation du moteur.\n\nCONTEXTE DOCUMENTAIRE :\nArbre manivelle (tourillon)\nJauge d'affaissement\nCoussinet de palier\nChapeau\nde palier",
+    "caption_model": "qwen2.5vl:3b",
+    "caption_status": "completed"
+  }
+]

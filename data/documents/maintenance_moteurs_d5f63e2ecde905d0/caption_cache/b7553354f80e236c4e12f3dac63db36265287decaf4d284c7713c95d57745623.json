@@ -1,0 +1,5 @@
+{
+  "description": "Description visuelle :\nL'image montre une vue de dessus d'un système mécanal, probablement une partie d'un moteur. On peut voir une douille de pied de bielle, qui est un élément important dans le système mécanal. Cette douille est située au centre de la vue, avec un pied de bielle qui la supporte. Il y a également des flèches qui indiquent les directions de rotation ou de mouvement, ce qui suggère que cette image est destinée à aider à comprendre le fonctionnement du système.\n\nContexte technique :\nLa douille de pied de bielle est un élément crucial dans le système mécanal, car elle permet le mouvement de la bielle. La bielle est un élément qui, lorsqu'elle est actionnée, permet le mouvement des pistons, ce qui est essentiel pour le fonctionnement du moteur. Les flèches indiquent probablement les directions de rotation ou de mouvement, ce qui est important pour comprendre comment le système fonctionne et pour effectuer des réparations ou des inspections.\n\nCONTEXTE DOCUMENTAIRE :\nø x\nø y\nPied\nde bielle\nDouille\nde pied de bielle",
+  "model": "qwen2.5vl:3b",
+  "prompt_version": "v2"
+}

@@ -1,0 +1,13 @@
+{
+  "sha256": "d5f63e2ecde905d0a8ac65978c2e0affd01d446403a9f48d55ff4f5d9a579b33",
+  "indexed_at": "2026-11-18T17:32:52.953163+00:00",
+  "counts": {
+    "text": 17,
+    "table": 1,
+    "image": 29
+  },
+  "collections": [
+    "maintidoc_text_maintenance_moteurs_d5f63e2ecde905d0",
+    "maintidoc_images_maintenance_moteurs_d5f63e2ecde905d0"
+  ]
+}
