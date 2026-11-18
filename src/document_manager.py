@@ -259,3 +259,40 @@ def query_agent(doc: dict, question: str, photo: str | None, top_k: int, image_k
         if line.startswith(RESULT_MARKER):
             return json.loads(line[len(RESULT_MARKER):])
     raise RuntimeError("L'agent n'a pas renvoyé de résultat JSON valide.\n" + result.stdout[-1500:])
+
+
+def query_all_documents(question: str, photo: str | None,
+                        top_k: int, image_k: int) -> dict:
+    """Recherche globale sur TOUS les PDF prêts, dans un unique agent worker.
+
+    Les embeddings et le captioning des manuels ne sont pas recalculés.
+    """
+    docs = list_ready_documents()
+    if not docs:
+        raise RuntimeError("Aucun document indexé prêt pour la recherche globale.")
+    if top_k < 1 or image_k < 1:
+        raise ValueError("top_k et image_k doivent être >= 1")
+    request = {
+        "question": question,
+        "photo": photo,
+        "top_k": top_k,
+        "image_k": image_k,
+        "document_ids": [doc["id"] for doc in docs],
+    }
+    # Le worker inspecte les identifiants contre la liste locale autorisée.
+    global_env = dict(os.environ)
+    global_env.pop("MAINTIDOC_DOC_ID", None)
+    global_env.pop("MAINTIDOC_ACTIVE_PDF", None)
+    result = subprocess.run(
+        [sys.executable, "-u", str(SRC / "multi_document_worker.py")],
+        input=json.dumps(request, ensure_ascii=False),
+        capture_output=True, text=True, cwd=ROOT,
+        env=global_env,
+        timeout=900, check=False,
+    )
+    if result.returncode:
+        raise RuntimeError((result.stderr or result.stdout)[-4000:])
+    for line in reversed(result.stdout.splitlines()):
+        if line.startswith(RESULT_MARKER):
+            return json.loads(line[len(RESULT_MARKER):])
+    raise RuntimeError("Aucun résultat JSON envoyé par l'agent global :\n" + result.stdout[-1500:])
