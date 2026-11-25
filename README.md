@@ -328,21 +328,6 @@ uv run streamlit run app.py
 
 **Ajouts au-delà du minimum demandé :** recherche multi-documents, double périmètre ciblé/global, analyse de photographie utilisateur, lecture des pages liées aux images, gestion SHA-256, cache de captions, affichage des traces d'outils et tests de routage/isolation.
 
-## Limites et précautions
 
-- **Réponses sourcées :** les références doivent être vérifiées ; une page indiquée n'est pas une garantie automatique d'exactitude.
-- **Vision :** Qwen-VL peut confondre les pièces de schémas complexes. Les repères numérotés sans légende explicite ne suffisent pas à identifier les composants.
-- **Extraction :** aucun OCR général ; certains tableaux complexes et schémas vectoriels peuvent être manqués par les extracteurs actuels.
-- **PDF importés :** le pipeline actuel exige texte, tableau et image extractibles ; il peut refuser un manuel ne contenant qu'une partie de ces modalités.
-- **Recherche globale :** les documents peuvent concerner des modèles de machines différents ; ne pas appliquer automatiquement une procédure d'un équipement à un autre.
-- **Conversation :** Streamlit affiche un historique dans la session, mais les anciens tours ne sont pas encore transmis comme mémoire conversationnelle persistante au modèle.
-- **Évaluation :** les tests automatisés sont essentiellement simulés ; les scénarios réels et la justesse des réponses doivent être validés séparément.
-- **Dépendances :** certains scripts utilisent directement `torch`, qui peut être installé transitivement ; une dépendance explicite améliorerait la reproductibilité.
-- **Chemins :** le dépôt historique comporte les dossiers `Data/` et `data/`. Ils peuvent être distincts sur Linux : harmoniser cette structure avec précaution.
-- **Suivi Git :** des PDF, index ChromaDB et artefacts générés sont suivis dans le dépôt. À terme, les retirer du suivi Git **sans supprimer les données locales**, après sauvegarde.
-- **Sécurité :** prototype local sans authentification multi-utilisateur complète. Ne pas exposer publiquement tel quel.
-- **Étapes ultérieures :** le fine-tuning, MCP, l'historique des interventions, les tickets avec approbation humaine et le déploiement ne font pas partie de cette version.
-
----
 
 **MaintiDoc — Partie 1 : RAG agentique multimodal.** L'application est un prototype documentaire, non un système de diagnostic industriel certifié.
